@@ -12,35 +12,40 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 17, 2015  
-Total attacks today: 174078  
-Attempted Malware Downloads: 112 
+Total attacks today: 351524  
+Attempted Malware Downloads: 229 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   4225 43.255.190.89
-   4075 43.255.190.169
-   3764 43.255.190.142
-   3504 43.255.190.187
-   3466 43.255.190.116
-   3312 43.255.190.162
-   3066 43.255.190.163
-   2962 43.255.190.90
-   2938 43.255.190.126
-   2680 218.84.198.37
+   6080 43.255.190.187
+   6080 43.255.190.142
+   5602 43.255.190.171
+   5601 43.255.190.188
+   5595 43.255.190.146
+   5496 43.255.190.162
+   5248 43.255.190.124
+   5169 43.255.190.153
+   5043 43.255.190.169
+   4965 43.255.190.183
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://111.73.46.22:8080/9999
 http://117.21.173.28:8080/conime
 http://117.21.173.28:8080/Nbb
 http://117.21.173.28:8080/Nmm
+http://119.167.137.81:8989/ddos32
+http://119.167.137.81:8989/ddos64
 http://120.27.51.87/linuxdoor
 http://173.0.63.225/Sharky/mipz
 http://222.186.190.157:56789/win6
 http://222.186.190.157:56789/win7
 http://222.186.190.157:56789/win9
+http://23.234.19.202/i/a06
+http://43.255.191.2/
 http://66.117.9.14:81/49
 http://cachefly.cachefly.net/100mb.test
 http://geoff.altervista.org/gosh.tgz
@@ -51,13 +56,24 @@ http://tero.altervista.org/udp.pl
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  14062 root
-    152 123456
+  29134 root
+    377 admin
+    226 ubnt
+    193 123456
+    190 user
+    169 
+    168 raspberry
+    165 support
+    163 default
+    137 123456789
+    127 guest
+    125 1234
     122 1qazxsw2
-    113 admin
-     79 default
-     79 1234
+    114 12345
+    100 password
+     93 zpe3kn99
      78 Admin123123!
+     76 55522200
      75 borsi
      75 admin102030
      75 admin008
@@ -65,33 +81,22 @@ The following are the top 25 passwords today, including the frequency of usage:
      74 gibbs
      74 ghana
      74 ABCabc123456
-     74 96
-     74 8LYS5IdPJ
-     73 gaines
-     73 fulvia
-     73 fritzi
-     73 Foss
-     73 fl
-     73 felippe
-     73 farrah
-     73 F4F4
-     73 eson
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 171293 root
-    162 admin
-    160 oracle
+ 346415 root
+    468 admin
+    240 git
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  55393 SSH-2.0-PUTTY
-   5355 SSH-2.0-libssh-0.1
-    697 SSH-2.0-libssh2_1.4.3
-    438 SSH-2.0-libssh-0.2
-    331 SSH-2.0-libssh-0.5.2
+ 113835 SSH-2.0-PUTTY
+   6796 SSH-2.0-libssh-0.1
+   1214 SSH-2.0-libssh-0.2
+   1042 SSH-2.0-libssh2_1.4.1
+    832 SSH-2.0-libssh2_1.4.3
 ```
