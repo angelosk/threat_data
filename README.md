@@ -8,15 +8,15 @@ Currently, Animus threat reports only contain data on SSH threat actors and tact
 
 ## Stats
 
-The following are some numbers surrounding Animus activity to date. These stats were last updated on April 17, 2015. All activity 
+The following are some numbers surrounding Animus activity to date. These stats were last updated on April 18, 2015. All activity 
 is fully automated.
-* Attacker IP addresses collected: 11114
-* Total SSH attempts observed: 20317202
-* Unique malware samples captured: 1697
-* Malicious domains identified: 197
-* Unique passwords collected from sensors: 791873
-* Unique usernames collected from sensors: 18568
-* SSH library versions observed from SSH bruteforce tools: 141
+* Attacker IP addresses collected: 11254
+* Total SSH attempts observed: 20534666
+* Unique malware samples captured: 1698
+* Malicious domains identified: 198
+* Unique passwords collected from sensors: 791932
+* Unique usernames collected from sensors: 18598
+* SSH library versions observed from SSH bruteforce tools: 142
 
 ## Features
 
