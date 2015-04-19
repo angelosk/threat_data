@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 18, 2015  
-Total attacks today: 208118  
-Attempted Malware Downloads: 70 
+Total attacks today: 470488  
+Attempted Malware Downloads: 201 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   5741 43.255.190.90
-   5429 43.255.190.146
-   5209 43.255.190.118
-   5038 43.255.190.165
-   5027 43.255.190.152
-   4653 43.255.190.92
-   4604 43.255.190.135
-   4544 43.255.190.132
-   4503 43.255.190.131
-   4381 43.255.190.123
+  12467 43.255.190.135
+   9506 43.255.190.165
+   9155 43.255.190.90
+   8682 43.255.190.164
+   8533 43.255.190.153
+   8243 43.255.190.121
+   8117 43.255.190.118
+   7935 43.255.190.117
+   7876 43.255.190.92
+   7630 43.255.190.123
 ```
 
 #### Attempted URL Downloads
@@ -36,57 +36,64 @@ The following are URLs attackers attempted to download and execute once they com
 http://111.73.46.22:8080/9999
 http://117.21.173.28:8080/conime
 http://117.21.173.28:8080/Nmm
+http://122.10.85.54/
 http://185.61.137.109/.xml.pl
 http://222.186.190.157:56789/win6
 http://222.186.190.157:56789/win7
 http://222.186.190.157:56789/win9
+http://23.234.19.202/i/a08
+http://43.255.191.2/
 http://61.160.232.144:5656/services
+http://66.117.9.14:81/76
+http://93.174.93.45/f.sh
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://soft.hackrz.org/scanner/gosh.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  16933 root
-    354 admin
-    348 123456789
-    314 default
-    262 123456
-    207 ubnt
-    207 12345
-    187 test
-    182 info
-    177 operator
-    175 password
-    171 1234
-    170 raspberry
-    165 aaron
-    164 support
-    164 sshd
-    164 alpine
-    160 PlcmSpIp
-    160 guest
-    157 user
-    144 asteriskftp
-    140 sql
-    140 games
-    140 D-Link
-    140 articon
+  35723 root
+    661 123456789
+    643 admin
+    555 default
+    555 123456
+    385 12345
+    359 ubnt
+    350 test
+    340 password
+    325 1234
+    312 info
+    305 sshd
+    295 support
+    295 guest
+    293 raspberry
+    291 user
+    291 PlcmSpIp
+    291 operator
+    281 aaron
+    278 alpine
+    276 articon
+    263 asteriskftp
+    254 games
+    253 D-Link
+    246 sql
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 203115 root
-    888 admin
-    240 git
+ 459780 root
+   1609 admin
+    400 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  67654 SSH-2.0-PUTTY
-   5820 SSH-2.0-libssh-0.1
-    823 SSH-2.0-libssh-0.2
-    513 SSH-2.0-libssh-0.5.2
-    254 SSH-2.0-libssh2_1.4.1
+ 153400 SSH-2.0-PUTTY
+  12193 SSH-2.0-libssh-0.1
+   2010 SSH-2.0-libssh-0.2
+    659 SSH-2.0-libssh-0.5.2
+    534 SSH-2.0-libssh2_1.4.1
 ```
