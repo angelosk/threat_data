@@ -12,76 +12,86 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 20, 2015  
-Total attacks today: 2317  
-Attempted Malware Downloads: 8 
+Total attacks today: 400160  
+Attempted Malware Downloads: 303 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    674 61.160.247.104
-    312 43.255.190.143
-    307 43.255.190.168
-    249 43.255.190.123
-    150 43.255.190.165
-    142 43.255.190.153
-    141 43.255.190.130
-    115 222.186.134.98
-     83 222.186.21.198
-     80 43.255.190.152
+   9694 43.255.190.154
+   8817 43.255.190.166
+   8456 43.255.190.152
+   8435 43.255.190.137
+   8210 43.255.190.130
+   7530 43.255.190.93
+   6995 43.255.190.171
+   6941 43.255.190.125
+   6809 43.255.190.144
+   6519 43.255.190.160
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://111.73.45.231:8080/cccc
+http://122.10.85.54/
 http://173.0.63.225/Sharky/mipz
 http://222.186.31.117:56789/wins6
 http://222.186.31.117:56789/wins8
 http://222.186.31.117:56789/wins9
+http://23.234.19.202/i/a06
+http://23.234.25.74:9620/ttxsyg
+http://43.255.191.2/
+http://66.117.9.14:81/79
+http://93.174.93.45/f.sh
+http://psybnc.at/download/beta/psyBNC-2.3.2-7.tar.gz
+http://psybnc.at/download/precompiled/psyBNC2.3.1-8.precompiled.tar.gz
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-      4 default
-      4 admin
-      4 789789aaa
-      4 789000
-      4 78748
-      4 786687
-      4 78611052
-      4 78250
-      4 777444111000
-      4 77573
-      4 775120hornet
-      4 77479
-      4 77151345
-      4 77095
-      4 7670
-      4 7500
-      4 7499906
-      4 124421
-      4 124124
-      4 123smile
-      4 123rf01
-      4 123red
-      4 123monkey
-      4 123hello
-      4 12389
+  40848 root
+    623 123456
+    558 admin
+    493 password
+    466 123456789
+    418 default
+    414 12345
+    391 1234
+    349 test
+    259 ubnt
+    240 user
+    233 guest
+    228 raspberry
+    219 info
+    218 support
+    218 PlcmSpIp
+    212 operator
+    209 aaron
+    208 sshd
+    205 1
+    202 qwe123
+    201 alpine
+    194 asteriskftp
+    192 games
+    190 D-Link
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2267 root
-     12 admin
-      4 test
+ 388777 root
+   1443 admin
+    295 ftpuser
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    530 SSH-2.0-PUTTY
-    136 SSH-2.0-libssh2_1.4.3
-     58 SSH-2.0-libssh-0.1
-      5 SSH-2.0-libssh2_1.4.1
+ 128803 SSH-2.0-PUTTY
+  13006 SSH-2.0-libssh-0.1
+   1634 SSH-2.0-libssh-0.2
+    609 SSH-2.0-libssh2_1.4.3
+    558 SSH-2.0-libssh-0.5.2
 ```
