@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 23, 2015  
-Total attacks today: 218461  
-Attempted Malware Downloads: 44 
+Total attacks today: 449558  
+Attempted Malware Downloads: 446 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   7142 43.255.190.161
-   5944 43.255.190.152
-   5676 43.255.190.126
-   4773 43.255.190.125
-   4604 43.255.190.167
-   4557 43.255.190.141
-   4473 43.255.190.121
-   4121 43.255.190.164
-   4095 43.255.190.118
-   3948 43.255.190.132
+  15354 43.255.190.126
+  13396 43.255.190.122
+  10394 43.255.190.150
+   9841 43.255.190.147
+   9476 43.255.190.89
+   8791 43.255.190.185
+   8676 43.255.190.156
+   8373 43.255.190.161
+   7472 43.255.190.152
+   7180 43.255.190.154
 ```
 
 #### Attempted URL Downloads
@@ -38,54 +38,58 @@ http://222.186.31.117:56789/wins3
 http://222.186.31.117:56789/wins6
 http://222.186.31.117:56789/wins8
 http://222.186.31.117:56789/wins9
+http://222.186.34.56:12345/0421.ar
 http://23.234.19.202/i/a06
+http://66.117.9.14:81/08
+http://66.117.9.14:81/49
+http://93.174.93.45/f.sh
 http://csj.lyjq.org:8989/ly3
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  16682 root
-    575 admin
-    317 default
-    292 123456789
-    266 123456
-    218 ubnt
-    201 user
-    197 raspberry
-    190 test
-    186 12345
-    185 1234
-    175 asteriskftp
-    173 aaron
-    166 sql
-    166 password
-    164 sshd
-    161 guest
-    160 support
-    159 operator
-    157 articon
-    147 alpine
-    139 PlcmSpIp
-    135 info
-    134 games
-    130 D-Link
+  28899 root
+   1023 admin
+    550 default
+    540 ubnt
+    514 user
+    513 test
+    513 123456789
+    478 123456
+    449 guest
+    367 
+    312 12345
+    310 raspberry
+    310 1234
+    306 password
+    293 aaron
+    271 support
+    264 asteriskftp
+    257 operator
+    246 sshd
+    246 alpine
+    244 sql
+    238 info
+    233 articon
+    226 PlcmSpIp
+    221 games
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 212996 root
-   1106 admin
-    178 ubnt
+ 439314 root
+   1714 admin
+    298 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  71130 SSH-2.0-PUTTY
-   6163 SSH-2.0-libssh-0.1
-    682 SSH-2.0-libssh-0.2
-    298 SSH-2.0-libssh-0.5.2
-    205 SSH-2.0-libssh2_1.4.1
+ 147198 SSH-2.0-PUTTY
+   9602 SSH-2.0-libssh-0.1
+   1513 SSH-2.0-libssh-0.2
+    794 SSH-2.0-libssh2_1.4.3
+    301 SSH-2.0-libssh-0.5.2
 ```
