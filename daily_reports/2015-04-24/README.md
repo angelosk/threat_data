@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: April 24, 2015  
-Total attacks today: 162197  
-Attempted Malware Downloads: 103 
+Total attacks today: 357383  
+Attempted Malware Downloads: 329 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  11292 43.255.190.90
+  10714 43.255.190.126
+   8156 43.255.190.153
+   7555 43.255.190.140
+   7514 43.255.190.120
+   7298 43.255.190.165
    6593 61.160.247.14
-   5581 43.255.190.153
-   5444 43.255.190.119
-   4476 43.255.190.90
-   4435 43.255.190.124
-   3891 43.255.190.148
-   3702 43.255.190.91
-   3176 43.255.190.141
-   3054 43.255.190.150
-   2968 43.255.190.144
+   6446 43.255.190.119
+   5896 43.255.190.116
+   5865 43.255.190.125
 ```
 
 #### Attempted URL Downloads
@@ -38,61 +38,68 @@ http://119.167.137.81:8989/GG32
 http://119.167.137.81:8989/GG64
 http://119.167.137.81:8989/SAY123
 http://119.167.137.81:8989/SAY456
+http://122.10.85.54/
 http://185.11.146.63/asap/pma.pl
 http://222.186.31.117:56789/wins3
 http://222.186.31.117:56789/wins6
 http://222.186.31.117:56789/wins8
 http://222.186.31.117:56789/wins9
+http://23.234.19.202/i/a09
+http://38.68.20.127/i/a09
 http://42.194.9.81:8989/GG32
 http://42.194.9.81:8989/SAY123
+http://43.255.191.2/
+http://61.160.212.172:911/java
+http://66.117.9.14:81/79
 http://93.174.93.45/f.sh
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
 https://bitcoin.org/bin/bitcoin-core-0.10.0/bitcoin-0.10.0-linux64.tar.gz
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   8598 root
-    471 admin
-    261 123456789
-    260 default
-    194 ubnt
-    171 raspberry
-    170 123456
-    164 operator
-    162 support
-    154 guest
-    152 12345
-    150 1234
-    138 password
-    136 test
-    134 user
-    133 aaron
-    130 sshd
-    125 PlcmSpIp
-    125 info
-    122 asteriskftp
-    119 games
-    118 D-Link
-    116 alpine
-    108 articon
-    106 sql
+  22499 root
+    689 admin
+    438 123456789
+    415 default
+    331 123456
+    303 ubnt
+    273 password
+    267 support
+    255 12345
+    254 raspberry
+    254 operator
+    251 guest
+    251 1234
+    248 test
+    246 user
+    212 aaron
+    211 sshd
+    203 PlcmSpIp
+    200 info
+    197 D-Link
+    196 games
+    195 asteriskftp
+    192 alpine
+    177 sql
+    176 articon
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 158303 root
-   1017 admin
-    145 user
+ 349075 root
+   1589 admin
+    280 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  50597 SSH-2.0-PUTTY
-   3788 SSH-2.0-libssh-0.1
-   1499 SSH-2.0-libssh2_1.4.3
-    610 SSH-2.0-libssh-0.2
-    157 SSH-2.0-libssh2_1.4.1
+ 113657 SSH-2.0-PUTTY
+   8843 SSH-2.0-libssh-0.1
+   3117 SSH-2.0-libssh2_1.4.3
+   1143 SSH-2.0-libssh-0.2
+    492 SSH-2.0-libssh-0.5.2
 ```
