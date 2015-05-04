@@ -13,7 +13,7 @@ is fully automated.
 * Attacker IP addresses collected: 13722
 * Total SSH attempts observed: 25728801
 * Unique malware samples captured: 1881
-* Malicious domains identified: 237
+* Malicious domains identified: 236
 * Unique passwords collected from sensors: 811864
 * Unique usernames collected from sensors: 22310
 * SSH library versions observed from SSH bruteforce tools: 153
