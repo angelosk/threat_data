@@ -12,21 +12,21 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: May 05, 2015  
-Total attacks today: 91976  
-Attempted Malware Downloads: 320 
+Total attacks today: 91385  
+Attempted Malware Downloads: 306 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    5576 111.73.45.231
    4133 58.218.204.46
-   3274 58.218.204.213
+   3241 58.218.204.213
    3183 58.218.211.155
-   2987 58.218.204.36
    2950 58.218.204.225
-   2843 222.186.21.135
+   2900 58.218.204.36
    2760 58.218.204.72
-   2672 58.218.204.248
+   2689 222.186.21.135
+   2588 58.218.204.248
    2427 222.186.21.133
 ```
 
@@ -59,15 +59,15 @@ http://93.174.93.45/op.sh
 The following are the top 25 passwords today, including the frequency of usage:
 ```
    3774 root
-    533 admin
+    532 admin
     470 123456
     416 d1g1t4lb4b3
     397 password
-    331 123456789
-    308 default
-    251 test
-    244 
-    239 ubnt
+    327 123456789
+    306 default
+    249 test
+    242 
+    238 ubnt
     203 support
     200 user
     194 1234567890
@@ -79,16 +79,16 @@ The following are the top 25 passwords today, including the frequency of usage:
     127 raspberry
     126 games
     123 PlcmSpIp
-    117 1qaz2wsx
-    116 12345678
     115 asteriskftp
     115 aaron
+    115 1qaz2wsx
+    114 12345678
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  80798 root
+  80222 root
    2943 admin
    2180 postgres
 ```
@@ -96,8 +96,8 @@ The following are the top 3 usernames today, including the frequency of usage:
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  26044 SSH-2.0-PUTTY
-   6756 SSH-2.0-libssh-0.1
+  25838 SSH-2.0-PUTTY
+   6752 SSH-2.0-libssh-0.1
    1980 SSH-2.0-libssh2_1.4.3
    1086 SSH-2.0-libssh-0.11
     335 SSH-2.0-libssh-0.5.2
