@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: May 06, 2015  
-Total attacks today: 103379  
-Attempted Malware Downloads: 326 
+Total attacks today: 103471  
+Attempted Malware Downloads: 328 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    3631 111.73.45.231
    3532 222.186.21.135
-   3382 58.218.204.245
-   3244 222.186.21.230
+   3526 58.218.204.245
+   3086 222.186.21.230
    3028 222.186.21.220
-   3000 58.218.199.195
+   2975 58.218.204.72
    2960 222.186.21.238
-   2882 58.218.204.72
+   2889 58.218.199.195
+   2842 58.218.204.241
    2797 58.218.204.37
-   2759 222.186.21.228
 ```
 
 #### Attempted URL Downloads
@@ -60,46 +60,46 @@ http://93.174.93.45/op.sh
 The following are the top 25 passwords today, including the frequency of usage:
 ```
    2503 root
-    404 admin
-    312 default
+    406 admin
     309 123456789
+    308 default
     307 123456
-    221 password
-    220 ubnt
-    219 
+    222 password
+    220 
+    219 ubnt
     192 test
-    184 user
-    173 support
-    166 raspberry
-    165 12345
-    162 1234
+    185 user
+    176 support
+    164 12345
+    163 raspberry
+    161 1234
     150 guest
     149 articon
     144 sshd
-    141 info
-    137 PlcmSpIp
-    136 asteriskftp
-    132 operator
-    128 alpine
+    140 info
+    138 PlcmSpIp
+    137 asteriskftp
+    133 operator
+    129 alpine
     122 qwerty
-    120 games
-    120 aaron
+    121 games
+    121 aaron
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  93086 root
-   2464 admin
-   1628 postgres
+  93174 root
+   2456 admin
+   1629 postgres
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  30411 SSH-2.0-PUTTY
-  11225 SSH-2.0-libssh-0.1
+  30439 SSH-2.0-PUTTY
+  11238 SSH-2.0-libssh-0.1
     800 SSH-2.0-libssh2_1.4.3
-    602 SSH-2.0-libssh-0.2
-    203 SSH-2.0-libssh2_1.4.1
+    522 SSH-2.0-libssh-0.2
+    191 SSH-2.0-libssh2_1.4.1
 ```
