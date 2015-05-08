@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: May 07, 2015  
-Total attacks today: 73234  
+Total attacks today: 73291  
 Attempted Malware Downloads: 488 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2348 222.186.21.235
-   2284 58.218.199.49
+   2285 58.218.199.49
    2169 58.218.199.195
-   2000 222.186.21.221
+   2001 222.186.21.221
    1995 58.218.204.226
-   1922 222.186.21.231
+   1924 222.186.21.231
    1893 222.186.21.225
-   1849 60.8.151.51
+   1850 60.8.151.51
    1788 222.186.21.238
-   1735 222.186.21.236
+   1736 222.186.21.236
 ```
 
 #### Attempted URL Downloads
@@ -65,12 +65,12 @@ The following are the top 25 passwords today, including the frequency of usage:
 ```
     552 default
     437 root
-    400 123456
+    402 123456
     357 admin
     354 raspberry
     297 ubnt
     265 nagios
-    258 123456789
+    259 123456789
     241 letmein
     237 admin123
     232 12345
@@ -93,7 +93,7 @@ The following are the top 25 passwords today, including the frequency of usage:
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  63469 root
+  63525 root
    2360 admin
     511 postgres
 ```
@@ -101,9 +101,9 @@ The following are the top 3 usernames today, including the frequency of usage:
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  19697 SSH-2.0-PUTTY
+  19732 SSH-2.0-PUTTY
   10945 SSH-2.0-libssh-0.1
    1014 SSH-2.0-libssh-0.5.2
     680 SSH-2.0-libssh2_1.4.3
-    364 SSH-2.0-libssh-0.2
+    385 SSH-2.0-libssh-0.2
 ```
