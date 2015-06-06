@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 05, 2015  
-Total attacks today: 70869  
-Attempted Malware Downloads: 63 
+Total attacks today: 77659  
+Attempted Malware Downloads: 300 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    4473 43.229.52.138
-   4004 43.229.52.187
+   4121 43.229.52.187
    3840 43.229.52.200
-   3584 43.229.52.196
+   3603 43.229.52.198
    3318 43.229.52.163
+   3209 43.229.52.196
    2952 43.229.52.143
    2928 43.229.52.161
    2924 43.229.52.166
    2859 43.229.52.157
-   2772 43.229.52.154
 ```
 
 #### Attempted URL Downloads
@@ -35,11 +35,20 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://111.73.45.231:280/npc
 http://111.73.45.231:280/npc1
+http://122.10.85.54/
 http://173.0.63.225/Sharky/getbinaries.sh
 http://218.244.148.238:1122/npc
 http://218.244.148.238:1122/npc1
+http://222.186.21.103:10086/ddd1b
 http://222.186.30.175:56789/win88
 http://222.186.30.175:56789/win99
+http://38.68.20.127/i/a08.zip
+http://43.255.191.2/
+http://54.251.115.167/bbsh
+http://54.251.115.167/wgsh
+http://61.174.49.51:10068/arrm1
+http://74.221.223.141/Bawt/GetBinarys.sh
+http://gabanu.ucoz.ro/real.txt
 http://p-o-c.hi2.ro/poc.pl
 http://www.jlcampus.cn/images/sff
 ```
@@ -47,47 +56,47 @@ http://www.jlcampus.cn/images/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   7754 root
-    121 admin
-    110 default
-     79 ubnt
-     71 raspberry
-     68 123456789
-     64 1234
-     60 12345
-     56 password
-     50 mt13hzxwUXu8PsT6KYExvLu5zgGEpC0vtmhVjg7KIWknhzfCal
-     50 123456
-     47 user
-     41 alpine
-     40 khaled-dico-ana-wla-akhou-charmouta-feh-kess-ekhta
-     38 changeme
-     37 cloudatcost
-     36 cloudatcost.com
-     35 ortega.123#TradeLinuxKi!l|iN6#Th3h03$%nix@NdR3b!ir
-     35 admin123
-     34 12345678
-     33 guest
-     29 support
-     27 123
-     26 test
-     26 superuser
+  10062 root
+    258 admin
+    207 default
+    158 ubnt
+    142 123456789
+    142 
+    137 password
+    134 123456
+    126 raspberry
+    110 12345
+    108 1234
+     94 user
+     79 support
+     76 test
+     76 guest
+     62 PlcmSpIp
+     57 asteriskftp
+     57 aaron
+     56 games
+     55 operator
+     55 D-Link
+     50 12345678
+     48 mt13hzxwUXu8PsT6KYExvLu5zgGEpC0vtmhVjg7KIWknhzfCal
+     47 alpine
+     45 admin123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  69766 root
-    239 admin
-     63 ubnt
+  74626 root
+    538 admin
+    158 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  23338 SSH-2.0-PUTTY
-   1317 SSH-2.0-libssh-0.1
-    208 SSH-2.0-libssh-0.5.2
-     68 SSH-2.0-libssh2_1.4.1
-     54 SSH-2.0-libssh2_1.4.3
+  24023 SSH-2.0-PUTTY
+   3556 SSH-2.0-libssh-0.1
+    637 SSH-2.0-libssh2_1.4.3
+    524 SSH-2.0-libssh-0.5.2
+    196 SSH-2.0-libssh2_1.4.1
 ```
