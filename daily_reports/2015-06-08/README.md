@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 08, 2015  
-Total attacks today: 112039  
-Attempted Malware Downloads: 256 
+Total attacks today: 209210  
+Attempted Malware Downloads: 299 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   7617 43.229.52.157
-   7308 43.229.52.154
-   7146 43.229.52.188
-   5312 43.229.52.187
-   5193 43.229.52.144
-   4356 43.229.52.197
-   3996 43.229.52.169
-   3934 43.229.52.189
-   3813 43.229.52.142
-   3696 43.229.52.140
+  13098 43.229.52.187
+   8649 43.229.52.157
+   8466 43.229.52.197
+   8211 43.229.52.154
+   7380 43.229.52.142
+   7364 43.229.52.203
+   6355 43.229.52.188
+   6110 43.229.52.193
+   5564 43.229.52.177
+   5547 43.229.52.205
 ```
 
 #### Attempted URL Downloads
@@ -46,7 +46,11 @@ http://43.255.191.2/
 http://61.160.247.42:1988/llsb
 http://61.174.49.51:8087/Gat
 http://61.174.49.51:8087/Gat1
+http://61.174.49.51:8088/mf111
+http://61.174.49.51:8088/mf222
 http://61.174.49.51:8088/Mjie
+http://61.174.49.51:9999/sssssa
+http://61.174.49.51:9999/sssssb
 http://61.174.49.51/sb.arm
 http://74.221.223.141/Bawt/GetBinarys.sh
 http://digitalgod.me/l/pma.pl
@@ -55,47 +59,47 @@ http://digitalgod.me/l/pma.pl
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   8641 root
-    438 admin
-    308 default
-    280 123456789
-    205 password
-    202 ubnt
-    197 1234
-    195 12345
-    183 test
-    176 raspberry
-    162 support
-    161 user
-    157 guest
-    131 games
-    130 PlcmSpIp
-    130 aaron
-    129 asteriskftp
-    127 operator
-    118 D-Link
-    100 qwerty
-     93 123456
-     73 123
-     67 12345678
-     63 root123
-     59 p@ssw0rd
+  15538 root
+    566 admin
+    402 default
+    371 123456789
+    267 ubnt
+    257 password
+    253 1234
+    245 12345
+    231 test
+    227 raspberry
+    223 user
+    215 support
+    210 guest
+    175 games
+    175 aaron
+    174 PlcmSpIp
+    171 asteriskftp
+    169 operator
+    161 D-Link
+    109 123456
+    105 qwerty
+    100 
+     87 123
+     78 12345678
+     74 root123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 108367 root
-    835 admin
-    221 test
+ 203874 root
+   1288 admin
+    410 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  35169 SSH-2.0-PUTTY
-   3227 SSH-2.0-libssh-0.1
-   1347 SSH-2.0-libssh-0.5.2
-    562 SSH-2.0-libssh2_1.4.3
-    340 SSH-2.0-libssh2_1.4.1
+  67096 SSH-2.0-PUTTY
+   4527 SSH-2.0-libssh-0.1
+   1497 SSH-2.0-libssh-0.5.2
+    779 SSH-2.0-libssh2_1.4.3
+    401 SSH-2.0-libssh2_1.4.1
 ```
