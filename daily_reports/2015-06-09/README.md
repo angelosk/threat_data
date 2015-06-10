@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 09, 2015  
-Total attacks today: 157525  
-Attempted Malware Downloads: 146 
+Total attacks today: 233939  
+Attempted Malware Downloads: 347 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   8995 43.229.52.170
+  10764 43.229.52.203
+   9363 43.229.52.170
    8838 43.229.52.186
-   8555 43.229.52.168
-   8009 43.229.52.202
+   8792 43.229.52.202
+   8598 43.229.52.168
+   8580 43.229.52.164
+   8275 43.229.52.167
+   7445 43.229.52.131
+   7442 43.229.52.133
    6576 43.229.52.173
-   5038 43.229.52.144
-   4881 43.229.52.193
-   4413 43.229.52.182
-   4404 43.229.52.167
-   4399 43.229.52.210
 ```
 
 #### Attempted URL Downloads
@@ -38,8 +38,13 @@ http://111.73.46.231:280/npc1
 http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://183.60.233.169:8080/Aspnet
+http://183.60.233.169:8080/Guest4
 http://183.60.233.169:8080/Netasp
 http://183.60.233.169:8080/User1
+http://183.60.233.169:8080/User2
+http://183.60.233.169:8888/linu.htm
+http://183.60.233.169:8888/User1.htm
+http://183.60.233.169:8888/User2.htm
 http://218.244.148.238:1122/npc
 http://218.244.148.238:1122/npc1
 http://222.186.129.105:280/npc
@@ -50,58 +55,63 @@ http://23.234.25.203:15826/xf23\\\
 http://38.68.17.37/i/a06.zip
 http://43.255.191.2/
 http://61.160.247.42:1988/llsb
+http://61.174.49.51:6664/Netasp
 http://61.174.49.51:8080/dance1
 http://61.174.49.51:8080/Guest4
 http://61.174.49.51:8080/User1
 http://61.174.49.51:8080/User2
+http://74.221.223.141/Bawt/GetBinarys.sh
+http://digitalgod.me/l/pma.pl
 http://digitalgod.me/nigger/lol.sh
+http://mjg.f3322.org:8888/Users1.htm
+http://mjg.f3322.org:8888/Users2.htm
 http://www.jlcampus.cn/images/sff
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  10188 root
-    241 admin
-    178 default
-    140 123456789
-    126 password
-    112 
-    106 ubnt
-     96 support
-     96 12345
-     95 1234
-     91 test
-     89 user
-     87 123456
-     85 guest
-     80 tristan1
-     80 riverside
-     80 Klara
-     79 bobdole
-     79 123456qwerty!@
-     78 myfather
-     78 knight123
-     77 xxx01
-     77 backup;backups
-     77 asd!123
-     77 123@asd
+  17663 root
+    752 admin
+    334 default
+    256 123456789
+    245 password
+    210 1234
+    197 12345
+    177 ubnt
+    174 
+    171 test
+    165 support
+    163 user
+    154 guest
+    152 123456
+    137 raspberry
+    130 PlcmSpIp
+    126 games
+    126 aaron
+    124 asteriskftp
+    123 operator
+    114 D-Link
+     84 123
+     82 riverside
+     82 qwerty
+     81 tristan1
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
- 154145 root
-    689 admin
-    269 ubnt
+ 228056 root
+   1794 admin
+    340 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  50612 SSH-2.0-PUTTY
-   3046 SSH-2.0-libssh-0.1
-    824 SSH-2.0-libssh-0.5.2
-    622 SSH-2.0-libssh2_1.4.3
-    202 SSH-2.0-libssh-0.2
+  75185 SSH-2.0-PUTTY
+   4655 SSH-2.0-libssh-0.1
+    874 SSH-2.0-libssh2_1.4.3
+    825 SSH-2.0-libssh-0.5.2
+    344 SSH-2.0-libssh-0.2
 ```
