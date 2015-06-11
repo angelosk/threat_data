@@ -12,8 +12,8 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 10, 2015  
-Total attacks today: 41487  
-Attempted Malware Downloads: 96 
+Total attacks today: 48165  
+Attempted Malware Downloads: 256 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
@@ -24,10 +24,10 @@ The following are the top 10 attacker IP addresses today, including the frequenc
    4809 43.229.52.197
    4805 43.229.52.174
    4772 43.229.52.177
+   2125 222.186.21.47
+   1506 43.229.52.167
    1499 187.141.77.114
    1459 43.229.52.162
-    890 104.130.241.55
-    774 43.229.52.205
 ```
 
 #### Attempted URL Downloads
@@ -39,6 +39,9 @@ http://119.205.128.209/123
 http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://183.60.223.169:8888/Scan_.htm
+http://183.60.233.169:8888/jjjj6j
+http://183.60.233.169:8888/mmmm1m
+http://183.60.233.169:8888/mmmm2m
 http://183.60.233.169:8888/sssss4
 http://183.60.233.169:8889/abwdd.d
 http://183.60.233.169:8889/abwdd.t
@@ -49,59 +52,62 @@ http://222.186.30.175:56789/win88
 http://222.186.30.175:56789/win99
 http://222.186.50.47:15826/udpg\\\
 http://23.234.25.203:15826/xf23\\\
+http://38.68.17.37/i/a07.zip
 http://43.255.191.2/
 http://61.160.247.42:1988/llsb
 http://61.174.49.51:6664/sssss4
+http://74.221.223.141/Bawt/GetBinarys.sh
 http://93.174.93.187/dbus.sh
 http://bali.ucoz.com/1.pdf
 http://digitalgod.me/l/pma.pl
+http://digitalgod.me/nigger/lol.sh
 http://http://199.83.94.145:8080/dos64\\\
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    559 root
-    374 admin
-    189 123456
-    141 default
-    114 password
-     87 123456789
-     80 ubnt
-     78 test
-     78 raspberry
-     77 user
-     75 12345
-     71 1234
-     59 
-     56 support
-     51 guest
-     47 games
-     46 PlcmSpIp
-     46 asteriskftp
-     44 operator
+    755 root
+    686 admin
+    246 default
+    243 123456
+    171 123456789
+    166 password
+    146 ubnt
+    141 raspberry
+    138 user
+    133 12345
+    133 1234
+    129 test
+    102 guest
+     99 support
+     87 operator
+     84 games
+     83 PlcmSpIp
+     82 
+     80 changeme
+     78 D-Link
+     78 aaron
+     76 asteriskftp
+     50 admin123
      43 MGR
-     42 D-Link
-     42 aaron
-     37 changeme
-     27 admin123
-     24 123qwe
+     42 123qwe
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  37695 root
-    345 admin
-    119 git
+  42588 root
+    623 admin
+    166 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  11953 SSH-2.0-PUTTY
-   2750 SSH-2.0-libssh-0.1
-   1329 SSH-2.0-libssh2_1.4.1
-    468 SSH-2.0-libssh-0.5.2
-    234 SSH-2.0-libssh2_1.4.3
+  12610 SSH-2.0-PUTTY
+   4579 SSH-2.0-libssh-0.1
+   1509 SSH-2.0-libssh2_1.4.1
+    735 SSH-2.0-libssh2_1.4.3
+    473 SSH-2.0-libssh-0.5.2
 ```
