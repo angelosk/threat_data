@@ -12,39 +12,50 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 12, 2015  
-Total attacks today: 52777  
-Attempted Malware Downloads: 179 
+Total attacks today: 125516  
+Attempted Malware Downloads: 405 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  16374 43.229.52.212
-  15656 43.229.52.231
-   9742 43.229.52.197
-   3223 43.229.52.157
-   1696 122.204.139.210
+  44149 43.229.52.231
+  37631 43.229.52.212
+  24154 43.229.52.197
+   8067 43.229.52.157
+   1492 122.204.139.210
    1103 200.75.19.130
+    647 222.186.21.209
     594 54.146.158.218
-    335 119.97.202.161
-    274 62.210.220.159
-    273 180.250.223.10
+    486 195.154.52.139
+    402 62.210.220.159
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://122.10.85.54/
 http://167.114.128.52/gb.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://183.60.107.63:8888/mmmm1m
 http://183.60.107.63:8888/mmmmmmmm
 http://183.60.107.63:8888/mmmmmmmmm
+http://183.60.233.169:10086/IIII.h
+http://183.60.233.169:10086/OOOO.h
 http://222.186.30.175:56789/win88
 http://222.186.30.175:56789/win99
+http://38.68.17.37/i/a06.zip
+http://43.255.191.2/
 http://61.160.247.42:1988/llsb
 http://61.174.49.51:6664:8889/IIII.2
 http://61.174.49.51:6664:8889/IIII.3
 http://61.174.49.51:6664:8889/LLLL.1
 http://61.174.49.51:6664:8889/LLLL.2
 http://61.174.49.51:6664/IIII.1
+http://61.174.49.51:6664/IIII.2
+http://61.174.49.51:6664/IIII.3
+http://61.174.49.51:6664/LLLL.1
+http://61.174.49.51:6664/LLLL.2
+http://93.174.93.187/dbus.sh
 http://digitalgod.me/nigger/lol.sh
 http://main.isil.ml/binaries.sh
 http://mjg.f3322.org:10086/IIII.h
@@ -58,47 +69,47 @@ http://mjg.f3322.org:10086/PPPP.h
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    576 root
-    534 admin
-    166 default
-    110 password
-    106 1234
-    105 123456789
-    101 
-     96 12345
-     94 123456
-     86 ubnt
-     85 user
-     79 raspberry
-     77 support
-     76 guest
-     75 test
-     59 PlcmSpIp
-     55 games
-     54 asteriskftp
-     51 operator
-     50 aaron
-     47 D-Link
-     45 qwerty
-     44 12345678
-     35 admin123
-     33 aa98765432
+   1475 root
+    844 admin
+    375 
+    277 default
+    224 password
+    186 123456789
+    165 1234
+    161 ubnt
+    158 12345
+    141 raspberry
+    133 user
+    131 guest
+    130 support
+    123 test
+    113 123456
+    109 PlcmSpIp
+    103 asteriskftp
+     89 operator
+     89 games
+     85 aaron
+     82 D-Link
+     59 12345678
+     56 qwerty
+     51 telefono
+     50 admin123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  47941 root
-    527 admin
-    162 user
+ 118583 root
+   1460 admin
+    243 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  15204 SSH-2.0-PUTTY
-   5284 SSH-2.0-libssh-0.1
-    384 SSH-2.0-libssh-0.5.2
-    297 SSH-2.0-libssh-0.11
-    274 SSH-2.0-1.91
+  38397 SSH-2.0-PUTTY
+   6597 SSH-2.0-libssh-0.1
+    402 SSH-2.0-1.91
+    395 SSH-2.0-libssh-0.5.2
+    329 SSH-2.0-libssh-0.2
 ```
