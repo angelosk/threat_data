@@ -12,78 +12,85 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 14, 2015  
-Total attacks today: 65750  
-Attempted Malware Downloads: 51 
+Total attacks today: 171517  
+Attempted Malware Downloads: 146 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+  34499 43.229.52.65
+  21239 43.229.52.59
   17109 43.229.52.231
-   8508 43.229.52.53
+  16764 43.229.52.53
+  16059 43.229.52.12
+  12358 43.229.52.60
    7994 43.229.52.197
    7348 43.229.52.215
    7182 43.229.52.167
-   5111 43.229.52.157
-   3943 43.229.52.54
-   2940 43.229.52.86
-   2703 43.229.52.217
-    326 36.249.63.110
+   6822 43.229.52.54
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
 http://119.147.145.198:8484/lian64
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://183.60.107.63:8888/mmmmmmmmm
 http://222.186.30.175.157:56789/win8
 http://222.186.30.175:56789/win9
+http://23.234.19.202/i/a09
+http://43.255.191.2/
+http://alexandru.clan.su/a.txt
+http://bodylanguage.uv.ro/unixcod.tar.gz
+http://digitalgod.me/nigger/lol.sh
+http://xena.utcluj.ro/
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   7826 root
-    196 123456
-    141 admin
-    101 default
-     72 1234
-     71 ubnt
-     66 password
-     65 123456789
-     61 
-     55 support
-     52 user
-     52 12345
-     50 guest
-     49 raspberry
-     45 test
-     42 asteriskftp
-     41 PlcmSpIp
-     31 1qazxsw2
-     29 trombone
-     29 games
-     28 shoppass
-     28 root@123456
-     28 pretoria
-     28 n0brut3f0rc3
-     28 maldini3
+  18616 root
+    262 admin
+    262 123456
+    204 default
+    166 
+    162 123456789
+    142 password
+    139 ubnt
+    120 1234
+    111 12345
+    107 support
+    103 raspberry
+     97 test
+     96 user
+     93 guest
+     79 asteriskftp
+     77 PlcmSpIp
+     67 aaron
+     65 games
+     63 operator
+     63 D-Link
+     55 ca189
+     42 panshi111
+     42 12345678
+     41 murder
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  63794 root
-    361 admin
-    102 user
+ 167799 root
+    640 admin
+    152 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  21157 SSH-2.0-PUTTY
-   2137 SSH-2.0-libssh-0.1
-     88 SSH-2.0-libssh2_1.4.3
-     81 SSH-2.0-libssh-0.5.2
-     59 SSH-2.0-libssh2_1.4.1
+  55777 SSH-2.0-PUTTY
+   4810 SSH-2.0-libssh-0.1
+    289 SSH-2.0-libssh-0.5.2
+    247 SSH-2.0-libssh-0.2
+    163 SSH-2.0-libssh2_1.4.1
 ```
