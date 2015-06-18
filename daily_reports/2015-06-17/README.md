@@ -12,84 +12,110 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 17, 2015  
-Total attacks today: 59064  
-Attempted Malware Downloads: 77 
+Total attacks today: 141262  
+Attempted Malware Downloads: 375 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  28144 43.229.52.60
+  74609 43.229.52.60
+  26674 43.229.52.41
+  20109 43.229.52.53
   11149 43.229.52.13
-   7462 43.229.52.41
-   7053 43.229.52.53
    1090 217.13.217.168
+    734 190.210.182.225
+    422 148.223.124.114
+    382 197.254.3.213
     335 14.29.87.53
     298 202.65.132.37
-    247 68.181.121.37
-    247 208.109.118.5
-    211 148.223.124.114
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://111.73.46.231:280/npc
 http://111.73.46.231:280/npc1
+http://117.25.135.160:10086/2222.BB
+http://117.25.135.160:10086/2222.Cc
+http://117.25.135.160:10086/2232.BB
+http://117.25.135.160:10086/2232.Cc
+http://117.25.135.160:10086/win1.Cc
+http://117.25.135.160:10086/win2.Cc
+http://117.25.135.160:10086/win3.Cc
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://218.244.148.238:1122/npc
 http://218.244.148.238:1122/npc1
 http://222.174.5.20:12345/1
 http://222.186.30.175:56789/win9
+http://38.68.17.37/i/a06.zip
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.247.42:1988/llsb
+http://61.174.49.51:8023/2222.BB
+http://61.174.49.51:8023/2222.Cc
+http://61.174.49.51:8023/2232.BB
+http://61.174.49.51:8023/2232.Cc
+http://61.174.49.51:8023/win1.Cc
+http://61.174.49.51:8023/win2.Cc
+http://61.174.49.51:8023/win3.Cc
+http://61.174.49.51:8089/DDDDWC
+http://61.174.49.51:8089/IIII.2
+http://61.174.49.51:8881/77111
+http://92.222.194.90/gb.sh
 http://93.174.93.187/dbus.sh
 http://digitalgod.me/gb.sh
+http://digitalgod.me/nigger/lol.sh
+http://TeFac.altervista.org/joker.gz
+http://TeFac.altervista.org/kidscan.tgz
 http://www.jlcampus.cn/images/sff
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   5251 root
-    228 blank
-    201 default
-    186 raspberry
-    184 admin
-    128 test
-    119 ubnt
-     89 guest
-     77 123456
-     60 12345
-     51 1234
-     46 password
-     44 oracle
-     44 123456789
-     41 nagios
-     40 12345678
-     37 admin123
-     35 qwerty
-     33 root123
-     32 user
-     31 p@ssw0rd
-     31 abc123
-     29 superuser
-     28 letmein
-     27 test123
+  11792 root
+    446 blank
+    353 default
+    340 admin
+    330 raspberry
+    211 ubnt
+    208 test
+    169 guest
+    108 123456
+     78 12345
+     67 1234
+     64 123456789
+     60 password
+     55 12345678
+     53 oracle
+     51 
+     50 qwerty
+     50 nagios
+     45 admin123
+     40 user
+     37 root123
+     35 letmein
+     34 p@ssw0rd
+     34 changeme
+     34 abc123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  56082 root
-    313 admin
-    168 guest
+ 136178 root
+    552 admin
+    336 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  18227 SSH-2.0-PUTTY
-   2082 SSH-2.0-libssh-0.1
+  44990 SSH-2.0-PUTTY
+   4294 SSH-2.0-libssh-0.1
+   1648 SSH-2.0-libssh-0.5.2
    1099 SSH-2.0-libssh-0.4.6
-   1058 SSH-2.0-libssh-0.5.2
-    392 SSH-2.0-libssh-0.2
+    847 SSH-2.0-libssh-0.2
 ```
