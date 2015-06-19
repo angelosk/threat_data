@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 18, 2015  
-Total attacks today: 52494  
-Attempted Malware Downloads: 126 
+Total attacks today: 219007  
+Attempted Malware Downloads: 311 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  19779 43.229.52.52
-   9716 43.229.52.54
-   8535 43.229.52.48
-   4329 43.229.52.55
-   3599 43.229.52.85
+  76228 43.229.52.52
+  56070 43.229.52.48
+  38204 43.229.52.54
+  22675 43.229.52.85
+  15407 43.229.52.55
    1185 162.144.110.143
+    849 122.228.228.7
     798 113.195.145.12
     750 104.243.24.211
     399 122.224.150.46
-    342 49.123.3.24
 ```
 
 #### Attempted URL Downloads
@@ -39,6 +39,7 @@ http://111.73.46.231:280/npc1
 http://122.10.85.54/
 http://142.0.44.50/HgB.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a09.zip
 http://218.244.148.238:1122/npc
 http://218.244.148.238:1122/npc1
 http://222.186.30.175:56789/win9
@@ -49,55 +50,59 @@ http://61.174.49.51:8023/2222.BB
 http://61.174.49.51:8023/2232.BB
 http://61.174.49.51:8023/win2.Cc
 http://61.174.49.51:8808/TTddd
+http://74.221.223.141/Bawt/GetBinarys.sh
 http://92.222.194.90/gb.sh
 http://digitalgod.me/nigger/lol.sh
+http://dl.garenanow.com/lol/loltw/Installer/GarenaTWLoL_Install_20150616_LeagueofDinos.zip
+http://hirez.http.internapcdn.net/hirez/InstallSmite.exe
 https://mega.co.nz/temporary/mega/eYczTILD
+https://raw.github.com/sivel/speedtest-cli/master/speedtest_cli.py
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-  11009 root
-    188 blank
-    173 admin
-    169 default
-    153 raspberry
-    145 123456
-     97 ubnt
-     95 test
-     92 password
-     86 12345678
-     77 1234
-     76 qwerty
-     75 12345
-     69 guest
-     66 123456789
-     57 abc123
-     55 qwerty123
-     53 1234567
-     51 asdf1234
-     51 admin123
-     48 asdf
-     46 123
-     43 ts2
-     42 alpine
-     42 1
+  34225 root
+    422 blank
+    371 default
+    329 admin
+    317 raspberry
+    196 ubnt
+    187 123456
+    183 test
+    165 guest
+    142 
+    127 password
+    119 1234
+    112 12345678
+     98 12345
+     86 qwerty
+     74 123456789
+     72 admin123
+     64 abc123
+     56 qwerty123
+     56 ines12345
+     54 user
+     54 changeme
+     54 asdf
+     54 1234567
+     53 123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  49183 root
-    719 admin
-    254 guest
+ 213856 root
+   1062 admin
+    416 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  15877 SSH-2.0-PUTTY
-   3215 SSH-2.0-libssh-0.1
-    555 SSH-2.0-libssh-0.2
-    192 SSH-2.0-libssh2_1.4.3
+  70647 SSH-2.0-PUTTY
+   5128 SSH-2.0-libssh-0.1
+   1029 SSH-2.0-libssh-0.2
+    382 SSH-2.0-libssh2_1.4.3
     172 SSH-2.0-libssh-0.11
 ```
