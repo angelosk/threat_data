@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 24, 2015  
-Total attacks today: 79250  
-Attempted Malware Downloads: 159 
+Total attacks today: 171745  
+Attempted Malware Downloads: 319 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  28863 43.255.189.47
-  18487 43.255.189.51
-  12908 43.255.189.63
-   7586 43.255.189.46
-   7522 43.255.189.40
+  66048 43.255.189.47
+  38086 43.255.189.51
+  25477 43.255.189.63
+  15924 43.255.189.46
+  15911 43.255.189.40
+   2866 198.61.220.98
+    732 190.210.182.225
     516 23.227.174.210
-    221 195.244.40.135
-    177 216.178.232.101
-    168 113.195.145.79
-    149 202.65.132.37
+    297 202.65.132.37
+    282 182.100.67.102
 ```
 
 #### Attempted URL Downloads
@@ -40,18 +40,26 @@ http://111.74.239.61:8080/27\r\nwget
 http://111.74.239.61:8080/72\r\nwget
 http://115.238.237.148:8080/fzly.1
 http://115.238.237.148:8080/OOSS1B
+http://115.238.237.148:8080/.Rape
+http://115.238.237.148:8080/.Rapes
 http://115.238.237.148:8080/RRR22
+http://121.43.100.81:123/9oo\\\
+http://121.43.100.81:123/sooo\\\
 http://124.207.29.183:66/S3202
+http://141.138.157.240/news.png
 http://167.114.210.104/sex.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a06.zip
 http://218.244.148.238:1122/npc
 http://218.244.148.238:1122/npc1
 http://222.186.30.175:56789/win9
 http://222.186.3.166:5566/sodo\\\
 http://222.186.3.166:7788/sodo\\\
+http://222.186.42.176:2564/finuws
 http://222.186.42.176:2564/lkjjhk
 http://61.160.212.59:880/likds
 http://61.164.149.189:9999/avslm\\\
+http://61.174.49.51:8080/EEE11
 http://61.174.49.51:8080/fzly.1
 http://61.174.49.51:8080/RRR22
 http://92.222.194.90/gb.sh
@@ -64,47 +72,47 @@ http://www.jlcampus.cn/images/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   8226 root
-    170 blank
-    168 admin
-    156 default
-    149 raspberry
-    119 
-     87 ubnt
-     84 test
-     78 guest
-     62 123456
-     51 1234
-     50 password
-     46 khaled-dico-ana-wla-akhou-charmouta-feh-kess-ekhta
-     41 12345
-     33 mt13hzxwUXu8PsT6KYExvLu5zgGEpC0vtmhVjg7KIWknhzfCal
-     28 12345678
-     27 user
-     24 ortega.123#TradeLinuxKi!l|iN6#Th3h03$%nix@NdR3b!ir
-     24 123
-     23 admin123
-     22 qwerty
-     21 letmein
-     19 cisco
-     18 sshd
-     18 ,.
+  17593 root
+    286 admin
+    249 
+    240 blank
+    230 password
+    223 default
+    215 123456
+    194 raspberry
+    144 qwerty
+    136 test
+    134 qwerty123456
+    133 ubnt
+    133 321321
+    133 1qaz2wsx
+    133 1234567
+    131 pass123
+    130 qwedcxzas
+    130 111111
+    129 1q2w3e4r
+    127 guest
+    127 123qwe
+    126 123123
+    125 zaq1@WSX
+    124 zaq12wsx
+    122 Passw0rd
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  76986 root
-    343 admin
-    126 guest
+ 164656 root
+    598 admin
+    214 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  26246 SSH-2.0-PUTTY
-   1229 SSH-2.0-libssh-0.1
-    411 SSH-2.0-libssh-0.5.2
-    386 SSH-2.0-libssh-0.2
-    259 SSH-2.0-libssh-0.11
+  56119 SSH-2.0-PUTTY
+   5653 SSH-2.0-libssh-0.1
+    877 SSH-2.0-libssh-0.2
+    490 SSH-2.0-libssh-0.5.2
+    483 SSH-2.0-libssh2_1.4.1
 ```
