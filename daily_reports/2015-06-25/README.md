@@ -12,41 +12,52 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 25, 2015  
-Total attacks today: 86422  
-Attempted Malware Downloads: 208 
+Total attacks today: 104053  
+Attempted Malware Downloads: 382 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  31963 43.255.189.47
+  32544 43.255.189.47
   20146 43.255.189.51
   13268 43.255.189.63
-   8538 43.255.189.40
-   7871 43.255.189.46
-    486 219.153.15.122
-    483 218.87.109.62
-    451 104.236.140.111
-    267 59.47.0.152
-    148 202.65.132.37
+   8500 43.255.189.40
+   8079 43.255.189.46
+   3478 125.227.86.165
+   3245 43.255.189.17
+   1701 43.255.189.65
+   1696 119.97.202.161
+   1545 43.255.189.44
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://111.73.46.231:280/npc
 http://111.74.239.61:8080/04\\\
 http://111.74.239.61:8080/27\r\nwget
 http://111.74.239.61:8080/72\r\nwget
 http://115.238.237.148:8088/svchost
 http://115.238.237.148:8088/winmd
+http://121.42.159.37:6800/Sbaozi\\\
 http://121.43.100.81:123/9oo\\\
 http://121.43.100.81:123/sooo\\\
+http://121.43.100.81:123/u2500\\\
+http://122.10.85.54/
+http://142.4.195.180/w0w.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a07.zip
 http://222.186.30.175:56789/win9
 http://222.186.3.166:5566/sodo\\\
+http://222.186.3.166:5566/u25000\\\
 http://222.186.3.166:7788/sodo\\\
+http://222.186.42.176:2564/kdaweoc
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.212.59:880/likds
 http://61.164.149.189:9999/avslm\\\
+http://61.174.49.51:8080/60040
 http://61.174.49.51:8080/hhhhh1
 http://74.221.223.141/Bawt/GetBinarys.sh
 http://92.222.194.90/gb.sh
@@ -58,47 +69,47 @@ http://www.jlcampus.cn/images/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   9604 root
-    157 admin
-    138 blank
-    116 default
-    110 raspberry
-     80 ubnt
-     73 123456
-     64 test
-     64 guest
-     52 
-     35 12345
-     34 password
-     34 1234
-     28 qwerty
-     27 user
-     27 123
-     25 123456789
-     23 12345678
-     17 support
-     17 alpine
-     16 root123
-     16 1
-     15 toor
-     15 operator
-     15 nagios
+  10940 root
+    291 admin
+    239 blank
+    215 default
+    199 raspberry
+    179 
+    150 ubnt
+    148 guest
+    142 test
+    136 123456
+     93 12345
+     91 password
+     76 user
+     74 1234
+     67 support
+     58 oracle
+     57 temp
+     54 qwerty
+     51 public
+     50 12345678
+     49 123
+     46 ubuntu
+     46 adm
+     44 operator
+     44 123456789
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  84072 root
-    212 hm
-    194 admin
+  94858 root
+    876 admin
+    609 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  28656 SSH-2.0-PUTTY
-   2334 SSH-2.0-libssh-0.1
-    393 SSH-2.0-libssh-0.2
-    291 SSH-2.0-libssh2_1.4.1
-    165 SSH-2.0-libssh-0.5.2
+  31744 SSH-2.0-PUTTY
+   8568 SSH-2.0-libssh-0.1
+    956 SSH-2.0-libssh-0.2
+    530 SSH-2.0-libssh2_1.4.1
+    506 SSH-2.0-libssh-0.5.2
 ```
