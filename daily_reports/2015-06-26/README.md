@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 26, 2015  
-Total attacks today: 66941  
-Attempted Malware Downloads: 125 
+Total attacks today: 145754  
+Attempted Malware Downloads: 215 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  23002 43.255.189.17
-  16874 43.255.189.65
-   8936 43.255.189.44
-   8890 43.255.189.61
-   5769 43.255.189.57
+  49775 43.255.189.17
+  39997 43.255.189.65
+  19637 43.255.189.44
+  17908 43.255.189.61
+  12266 43.255.189.57
     954 37.59.102.128
+    513 113.59.33.61
     331 118.123.243.13
-    220 141.138.157.108
-    186 23.246.248.8
-    150 64.211.24.227
+    299 202.65.132.37
+    220 221.207.32.250
 ```
 
 #### Attempted URL Downloads
@@ -35,63 +35,75 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://103.239.28.98:8080/Scan.a
 http://103.40.101.83:7080/mt
+http://111.73.46.231:280/npc
+http://111.73.46.231:280/npc1
 http://111.74.239.61:8080/04\\\
+http://121.42.159.37:6800/DDos\\\
 http://121.42.159.37:6800/Sbaozi\\\
 http://121.43.100.81:123/9oo\\\
 http://121.43.100.81:123/u2500\\\
 http://142.4.195.180/w0w.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a07.zip
+http://218.244.148.238:1122/npc
+http://218.244.148.238:1122/npc1
 http://222.186.30.175:56789/win9
 http://222.186.3.166:5566/sodo\\\
 http://222.186.3.166:5566/u25000\\\
 http://222.186.59.91:14552/sndddd
+http://64.62.238.101:8300/system\\\
+http://92.222.194.90/gb.sh
+http://bali.ucoz.de/bali1
+http://bluetiger.3x.ro/egg/psy.tar.gz
+http://clubhk.herobo.com/byu
 http://digitalgod.me/gb.sh
+http://remaman1.altervista.org/ali/python-2.7.1.msi
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2206 root
-    100 admin
-     82 123456
-     66 
-     63 default
-     62 blank
-     58 raspberry
-     45 ubnt
-     36 test
-     30 guest
-     26 qwerty
-     26 password
-     24 password2014
-     24 hackedbyflux
-     22 server.!"#$%&
-     22 robertrobert1
-     22 amsterdam2008
-     21 zhangyan7tian
-     21 zaq1XSW@cde3
-     21 wuhusihairy10
-     21 qwertyuiop
-     21 elizabethpass
-     21 ct2pWebserver
-     20 )w%WLq^3UAwn
-     20 updater123456
+   6478 root
+    219 admin
+    150 123456
+    149 
+    143 default
+    104 blank
+    103 raspberry
+     96 test
+     79 ubnt
+     78 password
+     64 12345
+     63 1234
+     58 qwerty
+     55 guest
+     44 123
+     43 toor
+     42 root123
+     42 qwertyuiop
+     42 !@
+     41 p@ssw0rd
+     39 111111
+     39 1
+     38 www
+     38 adm
+     37 admin!@
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  65026 root
-    121 admin
-     51 guest
+ 142785 root
+    245 admin
+     88 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  21968 SSH-2.0-PUTTY
-   1446 SSH-2.0-libssh-0.1
+  48180 SSH-2.0-PUTTY
+   2361 SSH-2.0-libssh-0.1
+    601 SSH-2.0-libssh2_1.4.1
     479 SSH-2.0-libssh-0.11
-    351 SSH-2.0-libssh2_1.4.1
-    297 SSH-2.0-libssh-0.2
+    467 SSH-2.0-libssh-0.5.2
 ```
