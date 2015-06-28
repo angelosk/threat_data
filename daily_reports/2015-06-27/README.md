@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 27, 2015  
-Total attacks today: 84627  
-Attempted Malware Downloads: 70 
+Total attacks today: 116931  
+Attempted Malware Downloads: 161 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  20300 43.255.189.19
+  31035 43.255.189.19
+  20803 43.255.189.61
   17394 43.255.189.17
-  15736 43.255.189.61
-   8343 43.255.189.43
-   6996 43.255.189.65
-   5302 43.255.189.11
-   3437 43.255.189.54
+  13217 43.255.189.43
+   8398 43.255.189.65
+   8189 43.255.189.11
+   5201 43.255.189.54
    2021 43.255.189.44
+   1305 222.186.21.195
     945 43.255.189.57
-    468 113.195.145.80
 ```
 
 #### Attempted URL Downloads
@@ -47,8 +47,12 @@ http://222.186.30.175:56789/win9
 http://222.186.3.166:5566/sodo\\\
 http://43.255.188.2/
 http://43.255.188.2/g.rar
+http://64.62.238.101:8300/java\\\
 http://64.62.238.101:8300/system\\\
 http://bluetiger.3x.ro/egg/psy.tar.gz
+http://clubhk.herobo.com/by
+http://clubhk.herobo.com/byu
+http://debar.ucoz.com/sshd.pdf
 http://tfheck.altervista.org/flood.tgz
 http://www.sudi88.com/forms/font/sff
 ```
@@ -56,47 +60,47 @@ http://www.sudi88.com/forms/font/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   4948 root
-    160 
-    144 admin
-     94 123456
-     77 default
-     62 1234
-     60 raspberry
-     60 password
-     54 ubnt
-     52 test
-     48 12345
-     44 alpine
-     43 user
-     39 123
-     35 guest
-     35 abc123
-     33 cisco
-     32 admin123
-     30 root123
-     30 nagios
-     30 blank
-     30 123qwe
-     28 12345678
-     27 asteriskftp
-     27 123456789
+   8051 root
+    233 admin
+    184 123456
+    168 
+    124 default
+    115 password
+     92 raspberry
+     83 1234
+     77 test
+     74 ubnt
+     71 12345
+     55 guest
+     51 user
+     49 nagios
+     48 blank
+     48 123456789
+     48 123
+     47 alpine
+     47 admin123
+     45 oracle
+     44 12345678
+     42 cisco
+     41 ftp
+     40 root123
+     37 qwe123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  82536 root
-    280 admin
-    130 cisco
+ 112763 root
+    390 admin
+    139 cisco
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  27781 SSH-2.0-PUTTY
-   1383 SSH-2.0-libssh-0.1
-    476 SSH-2.0-libssh2_1.4.3
-    465 SSH-2.0-libssh-0.5.2
-    438 SSH-2.0-libssh2_1.4.1
+  37131 SSH-2.0-PUTTY
+   3879 SSH-2.0-libssh-0.1
+    861 SSH-2.0-libssh2_1.4.1
+    742 SSH-2.0-libssh2_1.4.3
+    475 SSH-2.0-libssh-0.5.2
 ```
