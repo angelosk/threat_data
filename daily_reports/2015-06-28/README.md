@@ -12,81 +12,89 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 28, 2015  
-Total attacks today: 64034  
-Attempted Malware Downloads: 24 
+Total attacks today: 121608  
+Attempted Malware Downloads: 101 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  29314 43.255.189.19
-  10945 43.255.189.43
-   8076 43.255.189.11
-   4013 43.255.189.54
+  49000 43.255.189.19
+  23693 43.255.189.43
+  13437 43.255.189.11
+   8013 43.255.189.54
+   7865 43.255.189.65
    3636 43.255.189.61
-   3580 43.255.189.65
-    595 222.186.21.47
+   2465 222.186.21.47
+   2418 43.255.188.167
+   1870 222.186.21.195
     541 195.3.144.115
-    399 188.165.171.152
-    175 125.212.241.161
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://104.149.88.197:1314/QQMUSIC
+http://104.199.135.124/bbsh
+http://104.199.135.124/wgsh
 http://121.42.159.37:6800/Sbaozi\\\
+http://122.10.85.54/
+http://142.4.195.180/w0w.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://198.15.234.66/i/a07.zip
 http://222.173.162.194:9000/TTT-t
 http://222.186.56.43/baozirtywetr\\\
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://64.62.238.101:8300/java\\\
 http://debar.ucoz.com/sshd.pdf
+http://safe.home.ro/muhs.jpg
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   4203 root
-    119 admin
-    108 123456
-    103 default
-     92 test
-     90 
-     75 raspberry
-     71 blank
-     50 ubnt
-     46 password
-     46 1234
-     44 webadmin
-     40 ftp
-     39 Digital
-     37 volition
-     35 VTech
-     34 12345
-     32 guest
-     31 Wiejar
-     29 Wacom
-     27 Welly
-     27 p@ssw0rd
-     27 nagios
-     27 library
-     27 adm
+  11901 root
+    250 admin
+    244 
+    243 123456
+    229 default
+    204 test
+    151 raspberry
+    133 password
+    121 ubnt
+    117 blank
+    116 1234
+     97 12345
+     85 user
+     79 guest
+     72 mulesystems
+     72 12345678
+     68 123
+     67 mulesystems.com
+     67 123456789
+     66 ftp
+     65 qwerty
+     57 nagios
+     55 support
+     49 voip2
+     49 abc123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  61269 root
-    198 admin
-    115 test
+ 115906 root
+    466 admin
+    301 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  20476 SSH-2.0-PUTTY
-   1216 SSH-2.0-libssh-0.1
-    597 SSH-2.0-PuTTY_Release_0.63
-    563 SSH-2.0-libssh2_1.4.1
-    417 SSH-2.0-libssh-0.4.6
+  37239 SSH-2.0-PUTTY
+   3548 SSH-2.0-libssh-0.1
+   1350 SSH-2.0-libssh2_1.4.1
+   1057 SSH-2.0-libssh2_1.4.3
+    616 SSH-2.0-libssh-0.2
 ```
