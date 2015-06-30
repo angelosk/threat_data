@@ -12,31 +12,36 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 29, 2015  
-Total attacks today: 87623  
-Attempted Malware Downloads: 29 
+Total attacks today: 146337  
+Attempted Malware Downloads: 94 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  39586 43.255.189.19
-  10824 43.255.189.11
-   9394 43.255.189.44
-   9190 43.255.189.65
-   6332 43.255.189.54
+  55595 43.255.189.19
+  24503 43.255.189.44
+  19277 43.255.189.65
+  15551 43.255.189.11
+  13227 43.255.189.54
    5089 43.255.189.43
-   1926 43.255.189.66
+   4301 43.255.189.66
    1870 222.186.21.47
     716 222.186.34.70
-    254 222.186.15.76
+    523 62.210.7.49
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a07.zip
 http://222.186.15.76:280/hacck611
 http://222.186.30.175:56789/win9
 http://222.186.56.43/baozirtywetr\\\
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.215.101:1172/7000\\\
 http://64.62.238.101:8300/java\\\
 http://www.sudi88.com/forms/font/sff
@@ -45,47 +50,47 @@ http://www.sudi88.com/forms/font/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   4411 root
-     79 
-     60 default
-     58 admin
-     52 1234
-     43 123456
-     39 raspberry
+   9150 root
+    222 
+    145 admin
+    114 default
+    102 123456
+     95 1234
+     94 password
+     77 ubnt
+     76 test
+     69 12345
+     68 raspberry
+     57 guest
+     53 administrator
+     48 postgres
+     47 ftp
+     46 qwerty
+     39 jboss
+     39 blank
+     38 123
+     35 sysadmin
+     34 123456789
+     33 PlcmSpIp
      33 of!@#$%^
-     31 hwangsan
-     30 ubnt
-     30 pn!@#$%^
-     29 eawillia
-     28 tearmann
-     28 password
-     28 malambri
-     28 3HIDC!!#
-     28 2pac2pac
-     28 19421942
-     28 111111..
-     27 dipset1
-     26 py!@#$%^
-     26 copper2
-     26 arcos123
-     26 anselma1
-     26 00552500
+     32 library
+     31 z
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  86298 root
-    206 admin
-     50 user
+ 143874 root
+    328 admin
+     95 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  28264 SSH-2.0-PUTTY
-    992 SSH-2.0-libssh-0.1
-    554 SSH-2.0-libssh2_1.4.3
-    477 SSH-2.0-libssh2_1.4.1
-    197 SSH-2.0-libssh-0.2
+  47380 SSH-2.0-PUTTY
+   2203 SSH-2.0-libssh-0.1
+    916 SSH-2.0-libssh-0.5.2
+    883 SSH-2.0-libssh2_1.4.1
+    590 SSH-2.0-libssh2_1.4.3
 ```
