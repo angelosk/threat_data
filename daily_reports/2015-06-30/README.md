@@ -12,79 +12,87 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: June 30, 2015  
-Total attacks today: 98085  
-Attempted Malware Downloads: 13 
+Total attacks today: 161592  
+Attempted Malware Downloads: 90 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  38798 43.255.189.19
-  18626 43.255.189.44
-  15305 43.255.189.65
-  10301 43.255.189.11
-   9003 43.255.189.54
-   3549 43.255.189.66
-    319 112.121.171.58
-    297 43.255.188.149
-    229 183.60.110.214
-    150 202.65.132.37
+  57518 43.255.189.19
+  33990 43.255.189.44
+  26664 43.255.189.65
+  16436 43.255.189.11
+  15977 43.255.189.54
+   6300 43.255.189.66
+    739 78.135.101.141
+    468 221.203.3.18
+    339 112.121.171.58
+    299 202.65.132.37
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://121.43.100.81:123/9oo\\\
+http://122.10.85.54/
+http://142.0.44.50/lel.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://198.12.75.66/LiGhT/GetBinarys.sh
+http://198.15.234.66/i/a06.zip
 http://222.186.30.175:56789/win9
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.215.101:1172/7000\\\
 http://64.62.238.101:8300/java\\\
+http://93.174.93.187/tftp.sh
 http://debar.ucoz.com/sshd.pdf
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   5187 root
-     95 
-     52 admin
-     40 123456
-     35 password
-     34 default
-     32 ubuntu
-     31 ubnt
-     29 test
-     29 1234
-     28 blank
-     26 raspberry
-     26 guest
-     22 V8DYnEegNZS
-     22 56788765
-     21 sshd
-     21 q12w
-     21 189532210113
-     20 xigg!@521
-     20 xiaojun!@
-     20 xiao@
-     20 pepito
-     20 lovemyself
-     20 google.com
-     20 deploy
+  10945 root
+    121 
+    115 admin
+     82 default
+     81 123456
+     67 ubnt
+     66 password
+     65 raspberry
+     61 1234
+     54 test
+     52 guest
+     44 user
+     43 blank
+     42 123
+     41 12345
+     39 welc0me
+     38 ubuntu
+     38 alpine
+     38 admin123
+     37 nagios
+     34 hacker123
+     32 19850727
+     31 mona
+     31 idontknow
+     31 excalibur
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  96902 root
-    423 admin
-     44 ubuntu
+ 159950 root
+    517 admin
+     63 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  32911 SSH-2.0-PUTTY
-    939 SSH-2.0-libssh-0.1
-    266 SSH-2.0-libssh2_1.4.1
-    147 SSH-2.0-libssh2_1.4.3
-     72 SSH-2.0-libssh-0.11
+  54296 SSH-2.0-PUTTY
+   1343 SSH-2.0-libssh-0.1
+    361 SSH-2.0-libssh2_1.4.1
+    158 SSH-2.0-libssh2_1.4.3
+    113 SSH-2.0-libssh-0.5.2
 ```
