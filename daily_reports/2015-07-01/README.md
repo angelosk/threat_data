@@ -12,81 +12,89 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 01, 2015  
-Total attacks today: 71352  
-Attempted Malware Downloads: 16 
+Total attacks today: 129860  
+Attempted Malware Downloads: 93 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  27907 43.255.189.19
-  12707 43.255.189.44
-  10483 43.255.189.65
-   9136 43.255.189.11
-   5066 43.255.189.54
-   2816 43.255.189.66
+  40775 43.255.189.19
+  29557 43.255.189.44
+  20582 43.255.189.65
+  14962 43.255.189.11
+  14092 43.255.189.54
+   2821 43.255.189.66
    1353 109.185.204.102
-    300 202.65.132.37
-    298 64.211.24.227
-    209 61.139.54.71
+    588 43.255.188.138
+    576 59.151.25.126
+    470 91.240.38.8
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://104.243.16.145/GetBinarys.sh
 http://121.43.100.81:123/9oo\\\
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://198.12.75.66/LiGhT/GetBinarys.sh
+http://198.15.234.66/i/a06.zip
 http://222.186.30.175:56789/win9
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.215.101:1172/7000\\\
 http://64.62.238.101:8300/java\\\
+http://80.82.64.116/LiGhT/GetBinarys.sh
 http://93.174.93.187/tftp.sh
+http://clubhk.herobo.com/byu
 http://paul.clan.su/dr.tgz
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   3441 root
-     28 admin
-     19 password
-     19 default
-     19 123456
-     19 1234
-     18 sweet12
-     17 zpe3kn99
-     17 megadrive
-     17 jangan
-     17 homayoum
-     17 grumpy
-     17 ample
-     16 tualatin
-     16 tlc123
-     16 tarot1
-     16 starwar
-     16 qwer@123
-     16 quimica
-     16 qqqqqqqq1
-     16 !qAz@wSx#eDc
-     16 printf
-     16 passwordA
-     16 password000
-     16 p3pp3r
+   8531 root
+    244 wubao
+    232 jiamima
+     91 admin
+     70 123456
+     65 password
+     64 1234
+     60 default
+     55 
+     54 12345
+     44 test
+     37 ubnt
+     33 user
+     33 donald
+     32 z
+     31 guest
+     30 local
+     30 dream
+     28 victor
+     28 administrator
+     28 admin123
+     27 viking
+     27 notes
+     27 kaossh88
+     27 hp
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  69648 root
-    107 admin
-     51 bin
+ 126959 root
+    260 admin
+     73 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  23615 SSH-2.0-PUTTY
+  42775 SSH-2.0-PUTTY
+   2574 SSH-2.0-libssh-0.1
    1358 SSH-2.0-libssh-0.4.6
-   1063 SSH-2.0-libssh-0.1
-    307 SSH-2.0-libssh-0.2
-     78 SSH-2.0-libssh2_1.4.1
+    818 SSH-2.0-libssh-0.5.2
+    648 SSH-2.0-libssh-0.2
 ```
