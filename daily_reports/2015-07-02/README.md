@@ -12,80 +12,89 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 02, 2015  
-Total attacks today: 82943  
-Attempted Malware Downloads: 33 
+Total attacks today: 140493  
+Attempted Malware Downloads: 104 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  24643 43.255.189.19
-  15007 43.255.189.65
+  35458 43.255.189.19
+  31333 43.255.189.65
+  21665 43.255.189.43
+  18264 43.255.189.11
   11738 43.255.189.44
-  11508 43.255.189.11
-   6784 43.255.189.54
-   5939 43.255.189.43
-   3040 91.240.38.8
-   1245 43.255.188.146
+  10751 43.255.189.54
+   3786 91.240.38.8
+   1626 43.255.188.146
     603 43.255.188.162
-    268 222.48.110.117
+    459 118.244.154.24
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://121.43.100.81:123/9oo\\\
+http://122.10.85.54/
 http://142.0.44.50/lel.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://185.11.144.190/gb.sh
 http://198.15.234.66/i/a06.zip
+http://198.23.238.216/wow.sh
+http://222.186.59.91:25454/dsfs
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://61.160.215.101:1172/7000\\\
 http://64.62.238.101:8300/java\\\
+http://80.82.64.116/LiGhT/GetBinarys.sh
+http://92.222.194.90/gb.sh
 http://www.sudi88.com/forms/font/sff
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6691 root
-    202 wubao
-    196 jiamima
-     82 123456
-     73 
-     55 password
-     54 1234
-     52 admin
-     46 default
-     41 qwerty
-     40 12345
-     39 test
-     38 qwerty12
-     38 1qaz
-     37 qwerty1
-     34 qwert12345
-     34 1qazxsw2
-     34 123
-     33 qwe123
-     33 1qaz2wsx
-     33 1234qwer
-     31 qwerty123456
-     31 !@#$
-     31 !@#
-     30 qwer1234
+  11866 root
+    359 wubao
+    346 jiamima
+    124 123456
+    120 admin
+    101 password
+     95 1234
+     81 12345
+     74 default
+     70 
+     62 123
+     61 !@#$%^
+     60 test
+     59 qwerty
+     58 user
+     55 123qwe
+     54 qwerty1
+     54 qwe123
+     54 1
+     52 root123
+     51 1qaz
+     50 qwerty12
+     50 p@ssw0rd
+     50 admin123
+     48 1qaz2wsx
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  78783 root
-    232 tomcat
-    173 admin
+ 135183 root
+    234 tomcat
+    227 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  26652 SSH-2.0-PUTTY
-   4286 SSH-2.0-libssh-0.1
-    522 SSH-2.0-libssh-0.2
-    136 SSH-2.0-libssh2_1.4.3
-    115 SSH-2.0-libssh-0.5.2
+  45321 SSH-2.0-PUTTY
+   5854 SSH-2.0-libssh-0.1
+    807 SSH-2.0-libssh-0.2
+    391 SSH-2.0-libssh-0.5.2
+    261 SSH-2.0-libssh2_1.4.1
 ```
