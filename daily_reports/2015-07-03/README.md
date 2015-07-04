@@ -12,31 +12,37 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 03, 2015  
-Total attacks today: 73502  
-Attempted Malware Downloads: 21 
+Total attacks today: 107486  
+Attempted Malware Downloads: 89 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  21203 43.255.189.19
-  18645 43.255.189.65
-  15216 43.255.189.43
-  12356 43.255.189.11
-   3900 43.255.189.54
+  34782 43.255.189.65
+  31061 43.255.189.19
+  17552 43.255.189.11
+  15923 43.255.189.43
+   4000 43.255.189.54
+    300 222.186.21.169
     279 58.218.213.241
-    165 37.221.196.133
-    149 202.65.132.37
-    124 61.147.67.67
-    114 43.255.189.17
+    245 195.154.133.119
+    222 37.221.196.133
+    170 43.255.189.17
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://142.0.44.50/lel.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://185.11.144.190/gb.sh
+http://198.15.234.66/i/a06.zip
 http://198.23.238.216/wow.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://89.248.172.21/rekt.sh
 http://92.222.194.90/gb.sh
 http://93.174.93.146/Rekt/anal.sh
 ```
@@ -44,47 +50,47 @@ http://93.174.93.146/Rekt/anal.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   4319 root
-    160 wubao
-    154 jiamima
-     29 
-     26 git
-     26 admin
-     19 vnc
-     19 qwerty
-     18 test
-     18 password
-     17 hansolo1
-     17 123456
-     17 12345
-     16 yanghao
-     16 winter02
-     16 whynot12
-     16 whatfor1
-     16 vivek123
-     16 topaze
-     16 tirado
-     16 time2die
-     16 thinmint
-     16 shop123456
-     16 saruman
-     16 rtingres
+   4564 root
+    229 wubao
+    223 jiamima
+    127 ubnt
+    127 raspberry
+     79 123456
+     75 admin
+     63 password
+     59 test
+     52 qwerty
+     50 1234
+     48 12345
+     42 default
+     40 
+     39 git
+     34 oracle
+     30 user
+     30 guest
+     30 123
+     29 postgres
+     29 ftp
+     28 z
+     28 unix
+     28 root10
+     27 virtual
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  72890 root
-     98 admin
-     72 deploy
+ 105715 root
+    181 admin
+    119 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  24548 SSH-2.0-PUTTY
-    751 SSH-2.0-libssh-0.2
-    679 SSH-2.0-libssh-0.1
-    200 SSH-2.0-libssh2_1.4.1
-    116 SSH-2.0-libssh2_1.4.3
+  35575 SSH-2.0-PUTTY
+   1361 SSH-2.0-libssh-0.1
+   1152 SSH-2.0-libssh-0.2
+    483 SSH-2.0-libssh2_1.4.1
+    187 SSH-2.0-libssh-0.6.0
 ```
