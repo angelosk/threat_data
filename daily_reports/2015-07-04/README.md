@@ -12,75 +12,79 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 04, 2015  
-Total attacks today: 57790  
-Attempted Malware Downloads: 7 
+Total attacks today: 98622  
+Attempted Malware Downloads: 31 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  24039 43.255.189.19
-  20114 43.255.189.65
-  10006 43.255.189.11
+  39608 43.255.189.65
+  37208 43.255.189.19
+  16877 43.255.189.11
     670 61.153.110.123
     585 111.73.46.231
     443 117.240.78.161
+    315 222.186.26.169
     237 195.154.133.119
     237 119.9.108.118
-    150 202.65.132.37
-    148 64.211.24.227
+    199 43.255.189.17
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://198.15.234.66/i/a07.zip
+http://199.180.134.115/LiGhT/GetBinarys.sh
 http://89.248.172.21/rekt.sh
+http://93.174.93.146/Rekt/anal.sh
+http://93.174.93.187/dbus.sh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    218 ubnt
-    206 raspberry
-     56 
-     44 123456
-     21 1234
-     18 root
-     16 test
-     16 qwerty
-     14 password
-     14 123456789
-     13 nishishui
-     13 idc0.1
-     13 erik
-     13 default
-     13 123
-     13 ,.
-     12 wanghong
-     12 trewq54321
-     12 printer
-     12 host
-     12 google.com
-     12 44
-     12 1qaz2wsx
-     11 zzzzzz1
-     11 zhangwen
+    433 ubnt
+    423 raspberry
+     71 
+     70 123456
+     45 1234
+     44 root
+     44 admin
+     43 password
+     35 default
+     35 12345
+     30 qwerty
+     29 user
+     29 123
+     28 test
+     27 welc0me
+     24 admin123
+     23 hacker123
+     22 public
+     21 server2
+     21 root123
+     21 P@55w0rd!
+     21 muie1234
+     21 alpine
+     20 slipknot
+     20 sidney
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  55965 root
-    571 admin
-    228 postgres
+  96029 root
+    599 admin
+    423 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  18615 SSH-2.0-PUTTY
-   1492 SSH-2.0-libssh-0.1
-    444 SSH-2.0-libssh-0.5.2
-    278 SSH-2.0-libssh2_1.4.3
-    178 SSH-2.0-libssh2_1.4.1
+  32227 SSH-2.0-PUTTY
+   2025 SSH-2.0-libssh-0.1
+    445 SSH-2.0-libssh-0.5.2
+    427 SSH-2.0-libssh-0.2
+    362 SSH-2.0-libssh2_1.4.1
 ```
