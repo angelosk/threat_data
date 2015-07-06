@@ -12,31 +12,39 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 05, 2015  
-Total attacks today: 78914  
-Attempted Malware Downloads: 19 
+Total attacks today: 95197  
+Attempted Malware Downloads: 92 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  23023 43.255.189.19
-  19010 43.255.189.65
-  16090 43.255.189.43
-  10135 43.255.189.11
-   4424 43.255.189.54
+  26229 43.255.189.19
+  21743 43.255.189.65
+  17322 43.255.189.43
+  11475 43.255.189.11
+   6622 43.255.189.54
+   1772 43.255.189.44
    1505 43.255.188.148
    1285 59.124.143.106
-    397 117.247.214.63
-    390 62.245.45.132
-    339 43.255.188.136
+   1181 213.144.98.194
+    543 43.255.188.136
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://104.143.5.13/i/a07.zip
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://185.11.144.190/gb.sh
+http://198.15.234.66/i/a07.zip
 http://199.180.134.115/LiGhT/GetBinarys.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://92.222.194.90/gb.sh
+http://93.174.93.146/Rekt/anal.sh
+http://ake.netspike.org/7x.db
 http://bali
 http://bali.ucoz.de/bali1
 ```
@@ -44,47 +52,47 @@ http://bali.ucoz.de/bali1
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   6814 root
-    249 ubnt
-    245 raspberry
-     79 password
-     66 123456
-     54 admin
-     46 12345
-     38 test
-     37 default
-     29 git
-     26 guest
-     24 user
-     23 1234
-     22 mysql
-     21 testuser
-     21 test123
-     20 
-     19 scricideea
-     19 123qwe
-     18 ,.
-     17 ubuntu
-     17 admin123
-     16 test1
-     15 v3r0n1c4
-     15 umdoistres
+   8515 root
+    559 ubnt
+    509 raspberry
+    146 admin
+    135 password
+    121 123456
+     87 user
+     87 default
+     79 12345
+     69 guest
+     65 test
+     53 1234
+     51 oracle
+     49 operator
+     46 admin123
+     45 postgres
+     44 123qwe
+     42 pi
+     39 public
+     39 p@ssw0rd
+     39 123
+     39 
+     38 1
+     36 abc123
+     35 openelec
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  76538 root
-    251 pi
-    249 ubnt
+  90264 root
+    536 ubnt
+    510 pi
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  25667 SSH-2.0-PUTTY
-   2188 SSH-2.0-libssh-0.1
-    500 SSH-2.0-libssh-0.5.2
-    394 SSH-2.0-libssh-0.2
-    390 SSH-2.0-libssh-0.7.0
+  30073 SSH-2.0-PUTTY
+   4771 SSH-2.0-libssh-0.1
+    710 SSH-2.0-libssh2_1.4.1
+    673 SSH-2.0-libssh-0.2
+    502 SSH-2.0-libssh-0.5.2
 ```
