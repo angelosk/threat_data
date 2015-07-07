@@ -12,28 +12,36 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 06, 2015  
-Total attacks today: 75102  
-Attempted Malware Downloads: 15 
+Total attacks today: 136951  
+Attempted Malware Downloads: 79 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-  18664 43.255.189.19
-  16521 43.255.189.65
-  12049 43.255.189.54
-  10367 43.255.189.44
-   7904 43.255.189.11
-   4572 43.255.189.43
-   1623 112.33.2.47
-    453 213.144.98.194
-    304 122.154.73.99
-    243 59.63.192.196
+  33534 43.255.189.19
+  29159 43.255.189.65
+  20273 43.255.189.54
+  18028 43.255.189.44
+  13382 43.255.189.11
+   7560 43.255.189.43
+   2864 112.33.2.47
+   2226 202.129.35.98
+   1870 222.186.21.195
+   1381 213.144.98.194
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://104.143.5.13/i/a07.zip
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://185.11.144.190/gb.sh
+http://198.15.234.66/i/a07.zip
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://80.82.64.116/LiGhT/GetBinarys.sh
 http://93.174.93.146/Rekt/anal.sh
 http://ake.netspike.org/7x.db
 ```
@@ -41,47 +49,47 @@ http://ake.netspike.org/7x.db
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   5241 root
-    328 ubnt
-    293 raspberry
-    138 123456
-    125 password
-     91 111111
-     90 qwerty
-     88 Passw0rd
-     88 1234567
-     86 123123
-     82 qwerty123456
-     76 321321
-     75 pass123
-     73 zaq12wsx
-     71 1q2w3e4r
-     69 1qaz2wsx
-     66 123qwe
-     66 112233
-     65 zaq1@WSX
-     65 qwedcxzas
-     65 admin
-     65 121212
-     63 Qwerty
-     61 qwerty1223
-     58 default
+   9476 root
+    579 ubnt
+    517 raspberry
+    363 123456
+    320 password
+    183 qwerty
+    170 111111
+    152 qwerty123456
+    152 123qwe
+    151 123123
+    150 pass123
+    146 admin
+    146 321321
+    146 1234567
+    145 Passw0rd
+    145 1qaz2wsx
+    143 1q2w3e4r
+    137 112233
+    136 zaq1@WSX
+    134 zaq12wsx
+    131 1234
+    129 12345
+    124 121212
+    122 qwedcxzas
+    120 Qwerty
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-  71420 root
-    316 ubnt
-    293 pi
+ 127559 root
+    546 ubnt
+    507 pi
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  24072 SSH-2.0-PUTTY
-   3872 SSH-2.0-libssh-0.1
-    390 SSH-2.0-libssh-0.2
-    235 SSH-2.0-libssh-0.5.2
-    231 SSH-2.0-libssh2_1.4.1
+  42001 SSH-2.0-PUTTY
+   8221 SSH-2.0-libssh-0.1
+   2402 SSH-2.0-libssh2_1.4.1
+    843 SSH-2.0-libssh-0.2
+    460 SSH-2.0-libssh-0.5.2
 ```
