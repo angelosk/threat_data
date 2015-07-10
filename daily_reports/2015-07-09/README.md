@@ -12,31 +12,37 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 09, 2015  
-Total attacks today: 5452  
-Attempted Malware Downloads: 74 
+Total attacks today: 11335  
+Attempted Malware Downloads: 156 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   1588 80.253.18.65
-   1557 202.129.35.98
+   4852 202.129.35.98
+   2022 80.253.18.65
+    395 60.28.186.142
     337 218.2.22.36
+    312 191.205.248.38
     284 195.154.133.119
+    281 113.98.255.48
     264 112.33.2.47
+    225 218.87.111.110
     190 79.60.10.49
-    161 113.98.255.48
-    136 191.205.248.38
-    130 58.218.211.166
-    121 118.69.135.22
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://104.143.5.13/i/a09.zip
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://183.250.83.132:8989/S24100
 http://183.60.197.177:6800/haoren1\\\
 http://183.60.197.177:6800/haoren2\\\
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://80.82.64.116/LiGhT/GetBinarys.sh
 http://92.222.194.90/gb.sh
 http://93.174.93.146/Rekt/anal.sh
 ```
@@ -44,47 +50,47 @@ http://93.174.93.146/Rekt/anal.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    541 root
-    191 123456
-    165 password
-    139 1q2w3e4r
-    128 12345
-    121 1qaz2wsx
-    114 p@ssw0rd
-    102 1qazxsw2
-     80 admin
-     52 test
-     50 support
-     49 test123
-     45 qwerty
+    950 root
+    539 123456
+    403 password
+    395 1q2w3e4r
+    386 12345
+    350 1qaz2wsx
+    343 p@ssw0rd
+    325 1qazxsw2
+    201 admin
+     72 test
+     71 qwerty
+     67 123qwe
+     58 support
+     53 test123
+     52 qwe123
+     47 testuser
      35 passwd
-     33 123qwe
+     34 oracle
+     33 mysql
      32 passwd123
-     28 testuser
+     31 library
+     30 postgres
      28 q1w2e3r4t5
-     26 mysql
-     26 library
-     25 qwe123
-     23 tester
-     22 admin123
-     21 letmain
-     21 adminadmin
+     26 nagios
+     25 user
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1320 root
-     79 test
-     75 postgres
+   2038 root
+    182 admin
+    147 password
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2397 SSH-2.0-libssh2_1.4.1
-    834 SSH-2.0-libssh-0.1
-    317 SSH-2.0-libssh-0.5.2
-    197 SSH-2.0-libssh2_1.4.3
-     68 SSH-2.0-libssh-0.2
+   5063 SSH-2.0-libssh2_1.4.1
+   4002 SSH-2.0-libssh-0.2
+   1564 SSH-2.0-libssh-0.1
+    548 SSH-2.0-libssh-0.5.2
+    239 SSH-2.0-libssh2_1.4.3
 ```
