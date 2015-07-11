@@ -12,32 +12,40 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 10, 2015  
-Total attacks today: 5261  
-Attempted Malware Downloads: 55 
+Total attacks today: 11356  
+Attempted Malware Downloads: 78 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   1668 202.129.35.98
+   3814 202.129.35.98
+   1866 109.252.231.165
    1594 209.92.176.31
+    591 113.195.145.70
     399 113.142.37.210
+    395 60.28.186.142
     316 117.21.226.160
     258 221.235.189.176
-    124 208.109.118.5
-    109 178.213.247.110
-    108 74.91.117.83
-     93 193.41.222.247
-     83 112.21.198.28
+    246 208.109.118.5
+    199 193.41.222.247
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://104.143.5.13/i/a09.zip
+http://111.73.46.231:280/npc
+http://111.73.46.231:280/npc1
+http://122.10.85.54/
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
 http://183.250.83.132:8989/S24100
 http://183.60.197.177:6800/haoren1\\\
 http://183.60.197.177:6800/haoren2\\\
+http://218.244.148.238:1122/npc
+http://218.244.148.238:1122/npc1
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://80.82.64.116/LiGhT/GetBinarys.sh
 http://92.222.194.90/gb.sh
 http://93.174.93.146/Rekt/anal.sh
@@ -46,47 +54,47 @@ http://93.174.93.146/Rekt/anal.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    467 root
-     44 admin
-     35 123456
-     31 
-     25 adm
-     24 backup
-     21 postgres
-     21 barbie
-     20 barney
-     20 barbara
-     20 bailey
-     20 austin
-     20 ann
-     20 alexander
-     19 default
-     19 beatrice
-     19 basic
-     19 barry
-     19 ashley
-     19 arnold
-     19 anton
-     19 anthony
-     19 anon
-     19 angie
-     19 angelica
+   1202 root
+    115 123456
+     71 admin
+     67 teamspeak
+     59 
+     57 git
+     57 alex
+     54 postgres
+     51 minecraft
+     50 nagios
+     47 backup
+     46 ts
+     44 default
+     44 apache
+     42 ts3
+     41 teamspeak3
+     40 jenkins
+     39 zabbix
+     39 ftp
+     37 www-data
+     36 ftpuser
+     35 redmine
+     34 developer
+     34 angel
+     33 oracle
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2911 root
-     97 password
-     93 1qaz2wsx
+   3988 root
+    194 password
+    192 1qaz2wsx
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2339 SSH-2.0-libssh-0.1
-   1940 SSH-2.0-libssh2_1.4.1
-    416 SSH-2.0-libssh-0.2
-    108 SSH-2.0-PUTTY
-     71 SSH-2.0-libssh2_1.4.3
+   5112 SSH-2.0-libssh-0.1
+   4395 SSH-2.0-libssh2_1.4.1
+    509 SSH-2.0-libssh-0.2
+    287 SSH-2.0-PUTTY
+     98 SSH-2.0-libssh2_1.4.3
 ```
