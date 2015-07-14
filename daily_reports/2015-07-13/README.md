@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 13, 2015  
-Total attacks today: 13314  
-Attempted Malware Downloads: 34 
+Total attacks today: 14667  
+Attempted Malware Downloads: 45 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2718 122.204.139.210
+   2533 222.186.21.47
    2426 61.160.215.102
-   2365 222.186.21.47
    2132 112.33.2.47
     888 103.8.124.225
     299 204.151.8.65
+    258 178.213.247.110
     208 103.27.237.170
     168 122.115.60.26
-    159 178.213.247.110
-    125 162.242.234.117
+    157 193.41.222.247
 ```
 
 #### Attempted URL Downloads
@@ -35,6 +35,9 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://178.32.63.16/gb.sh
 http://178.79.153.108/58303d8e4c6e3bb5066611d44ae1ce88
+http://183.250.83.132:8989/2480032
+http://183.250.83.132:8989/2480064
+http://183.250.83.132:8989/S24100
 http://183.60.197.177:6800/haoren1\\\
 http://modems.pw/a.pl
 http://shaq.clan.su/all.tar
@@ -45,47 +48,47 @@ http://www.sudi88.com/forms/font/sff
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2911 root
-    190 123456
-    160 password
-    119 admin
-    116 123qwe
-    109 1q2w3e4r
-    102 qwerty
-     99 111111
+   3232 root
+    202 admin
+    197 123456
+    164 password
+    117 123qwe
+    110 1q2w3e4r
+    103 qwerty
+    100 111111
+     98 1qaz2wsx
      98 112233
-     97 1qaz2wsx
-     96 1234567
+     97 1234567
      95 zaq1@WSX
      95 123123
+     93 Passw0rd
      93 pass123
+     92 zaq12wsx
      92 qwerty123456
      92 Qwerty
      92 qwedcxzas
-     92 Passw0rd
-     91 zaq12wsx
      91 321321
      90 qwerty1223
      90 121212
-     38 oracle
-     35 default
-     33 testuser
+     49 test
+     49 teamspeak
+     47 default
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   6048 root
-    710 admin
-     83 oracle
+   6674 root
+    800 admin
+     95 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   6829 SSH-2.0-libssh-0.1
-   1120 SSH-2.0-libssh2_1.4.3
-    333 SSH-2.0-libssh-0.5.2
-    270 SSH-2.0-libssh2_1.4.1
-    201 SSH-2.0-libssh-0.2
+   7051 SSH-2.0-libssh-0.1
+   1300 SSH-2.0-libssh2_1.4.3
+    444 SSH-2.0-libssh-0.5.2
+    407 SSH-2.0-libssh2_1.4.1
+    256 SSH-2.0-libssh-0.2
 ```
