@@ -12,76 +12,84 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 22, 2015  
-Total attacks today: 5526  
-Attempted Malware Downloads: 44 
+Total attacks today: 13304  
+Attempted Malware Downloads: 111 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2297 209.92.176.31
+   2118 222.186.130.242
+   1417 5.9.95.9
     981 5.56.24.5
+    672 221.203.3.18
+    669 59.47.0.152
+    513 119.97.231.102
     510 45.114.11.50
-    258 113.110.143.69
-    189 119.252.167.164
-    136 113.195.145.80
-    104 212.83.177.91
-     83 200.196.48.50
-     81 89.237.137.169
-     78 45.114.11.34
+    336 61.36.11.68
+    333 45.114.11.20
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://162.213.199.104/num.sh
+http://173.0.63.193/LiGhT/GetBinarys.sh
 http://183.136.202.50:520/winlx\\\
+http://222.186.21.166:3339/pqxs
 http://23.234.19.202/i/a08
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://nethack.ucoz.com/ano.tgz
+http://teamkid.at.ua/Top.pdf
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    944 root
-     70 123456
-     47 password
-     45 
-     42 test
-     41 admin
-     23 12345
-     22 default
-     22 1234
-     21 user
-     21 guest
-     20 testing
-     19 raspberry
-     19 cloudatcost
-     19 c1893-11321
-     18 cloudatcost.com
-     18 abc123
-     17 c1893-11321.cloudatcost
-     17 123456789
-     15 changeme
-     14 qwerty
-     14 123
-     14 !
-     13 letmein
-     12 america
+   3059 root
+    163 123456
+    132 password
+     99 admin
+     68 
+     63 test
+     51 1qaz2wsx
+     45 guest
+     42 qwerty
+     40 raspberry
+     34 12345
+     32 user
+     31 1234
+     29 default
+     28 ubnt
+     27 letmein
+     26 123456789
+     25 testing
+     25 123qwe
+     25 123123
+     22 administrator
+     22 abc123
+     22 1234567
+     20 changeme
+     20 12345678
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3991 root
-    110 admin
-     66 test
+  10095 root
+    170 admin
+    134 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2559 SSH-2.0-libssh-0.1
-   1097 SSH-2.0-PuTTY_Release_0.63
-    941 SSH-2.0-libssh-0.2
-    456 SSH-2.0-libssh-0.5.2
-    375 SSH-2.0-PUTTY
+   4494 SSH-2.0-libssh-0.1
+   1310 SSH-2.0-libssh-0.2
+   1099 SSH-2.0-PuTTY_Release_0.63
+   1094 SSH-2.0-PUTTY
+    856 SSH-2.0-libssh2_1.4.3
 ```
