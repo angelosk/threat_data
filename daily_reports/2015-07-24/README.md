@@ -12,8 +12,8 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 24, 2015  
-Total attacks today: 5678  
-Attempted Malware Downloads: 7 
+Total attacks today: 8961  
+Attempted Malware Downloads: 48 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
@@ -21,20 +21,25 @@ The following are the top 10 attacker IP addresses today, including the frequenc
    1771 212.25.99.77
     947 113.195.145.80
     932 45.114.11.33
+    740 218.87.111.116
     534 45.114.11.22
     422 45.114.11.20
+    326 220.161.148.178
+    313 112.220.63.83
+    256 142.105.250.134
     249 58.218.211.166
-     87 218.65.30.38
-     69 218.65.30.92
-     54 202.3.77.157
-     48 218.87.111.110
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://198.23.135.209/l.p
 http://198.23.135.209/l.pl
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://79.141.173.41/gb.sh
 http://80.82.65.246/LiGhT/GetBinarys.sh
 http://modems.pw/pow
 ```
@@ -42,47 +47,47 @@ http://modems.pw/pow
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    650 root
-     39 123456
-     38 admin
-     25 ubnt
-     22 password
-     21 1234
-     21 123
-     19 raspberry
-     19 12345
-     17 P@ssw0rd
-     16 test
-     14 !@#$qwer1234
-     14 !@#$1234
-     13 qwerty
-     13 changeme
-     13 1q2w3e
-     13 123123
-     13 111111
-     13 !@#$%^&*(
-     12 !@#$qwerASDF
-     12 abc123
-     12 12345678
-     12 !@#123
-     12 !@#$%^&*()_+
-     12 !@#$%^&*
+    855 root
+    234 admin
+    119 123456
+     71 
+     67 ubnt
+     57 test
+     57 password
+     51 1234
+     49 guest
+     44 12345
+     41 raspberry
+     41 default
+     27 user
+     27 admin123
+     27 123
+     23 support
+     21 qwerty
+     21 1q2w3e
+     21 123456789
+     21 12345678
+     20 P@ssw0rd
+     20 111111
+     20 !@#$%^&*(
+     19 adm
+     19 abc123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4828 root
-    107 test
-     65 nagios
+   6878 root
+    325 admin
+    170 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1904 SSH-2.0-libssh-0.5.2
-   1138 SSH-2.0-PUTTY
-    119 SSH-2.0-libssh2_1.4.3
-     94 SSH-2.0-libssh2_1.4.1
-     88 SSH-2.0-libssh-0.1
+   2205 SSH-2.0-libssh-0.5.2
+   1437 SSH-2.0-libssh-0.1
+   1436 SSH-2.0-PUTTY
+    186 SSH-2.0-libssh2_1.4.3
+    186 SSH-2.0-libssh2_1.4.1
 ```
