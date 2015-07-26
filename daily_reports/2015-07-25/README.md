@@ -12,28 +12,33 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 25, 2015  
-Total attacks today: 3908  
-Attempted Malware Downloads: 12 
+Total attacks today: 9990  
+Attempted Malware Downloads: 67 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    842 218.65.30.38
+   1617 45.114.11.34
+   1356 222.186.21.95
+    879 45.114.11.20
+    860 218.65.30.38
     477 218.87.109.60
+    453 69.64.52.222
+    448 45.114.11.26
     316 112.220.63.83
     276 45.114.11.18
     240 124.254.7.54
-    228 130.0.31.54
-    135 119.48.248.77
-    124 193.107.17.72
-    122 199.168.137.179
-    120 45.114.11.19
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://171.92.208.129:56812/syn20150
 http://185.92.221.242/a.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://79.141.173.41/gb.sh
 http://80.82.65.246/LiGhT/GetBinarys.sh
 http://80.82.65.246/l.p
@@ -43,47 +48,47 @@ http://80.82.65.246/l.pl
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1057 root
-    136 admin
-     66 123456
-     46 password
-     42 
-     38 ubnt
-     38 1234
-     32 test
+   3908 root
+    168 admin
+    111 123456
+     60 ubnt
+     58 password
+     55 
+     52 1234
+     48 test
+     39 12345
+     33 user
+     30 guest
      30 craig
-     29 user
-     28 guest
-     27 12345
      25 brandon
      24 mickey
-     21 admin123
+     23 qwerty
+     22 admin123
+     22 !
+     21 oracle
+     21 default
+     21 !@#$%^&*(
      20 christina
-     19 andy
+     20 andy
+     19 !@#$1234
+     19 !@#$%^&*
      18 sophia
-     18 nelson
-     18 lauren
-     18 amber
-     14 qwerty
-     14 nattalie
-     13 default
-     12 !@#$%^&*(
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2595 root
-    219 admin
-     51 user
+   8232 root
+    250 admin
+     62 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    906 SSH-2.0-libssh-0.1
-    695 SSH-2.0-PUTTY
+   1835 SSH-2.0-PUTTY
+   1585 SSH-2.0-libssh-0.1
+    448 SSH-2.0-libssh-0.5.2
+    297 SSH-2.0-libssh2_1.4.3
     237 SSH-2.0-libssh-0.11
-     90 SSH-2.0-libssh2_1.4.1
-     88 SSH-2.0-libssh2_1.6.0
 ```
