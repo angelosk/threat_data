@@ -12,78 +12,84 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 26, 2015  
-Total attacks today: 7136  
-Attempted Malware Downloads: 6 
+Total attacks today: 12942  
+Attempted Malware Downloads: 137 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2430 222.186.21.47
+   1832 112.21.198.28
    1086 45.114.11.43
+   1035 113.195.145.80
+    862 221.203.3.18
     740 45.114.11.16
     696 45.114.11.30
+    659 222.186.42.218
+    471 59.47.0.152
     309 182.100.67.113
-    252 45.114.11.13
-    183 79.124.14.130
-    150 150.164.32.53
-    130 210.61.150.154
-    122 98.129.169.76
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://171.92.208.129:56812/syn20150
 http://185.92.221.242/a.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://80.82.65.246/p.pl
 http://modems.pw/a.pl
 http://modems.pw/omsc
 http://modems.pw/pow
+http://modems.pw/x86
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    570 root
-     58 123456
-     39 admin
-     30 ubnt
-     29 password
-     26 123
-     24 1234
-     20 1
-     18 test
-     16 12345
-     15 111111
-     14 123456789
-     14 !@#$1234
-     13 ubuntu
-     13 postgres
-     13 oracle
-     13 !@#$%^&*(123456789
-     13 !@#$%^&*()_+
-     13 !@#$%^&*(
-     13 !@#$%^&*
-     13 !
-     12 !@#QWEasd
-     12 !QAZ@WSX
-     12 abc123
-     12 1q2w3e
+   2301 root
+    227 123456
+    192 password
+    181 test
+    179 1234
+    169 12345
+    166 abc123
+    152 iamhacker22
+    152 deluxe33
+     77 admin
+     59 
+     44 ubnt
+     30 123
+     24 oracle
+     23 1
+     21 111111
+     20 ubuntu
+     20 default
+     18 1qaz2wsx
+     17 postgres
+     17 guest
+     17 123456789
+     17 12345678
+     16 raspberry
+     16 !@#$1234
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   6537 root
-     55 admin
-     48 teste
+  10063 root
+    110 admin
+     51 postgres
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1145 SSH-2.0-PUTTY
-    524 SSH-2.0-libssh-0.1
-    506 SSH-2.0-libssh2_1.4.3
-    214 SSH-2.0-libssh-0.5.2
-    121 SSH-2.0-libssh2_1.4.1
+   2633 SSH-2.0-libssh-0.1
+   2007 SSH-2.0-PUTTY
+    519 SSH-2.0-libssh2_1.4.3
+    310 SSH-2.0-libssh-0.5.2
+    246 SSH-2.0-libssh2_1.4.1
 ```
