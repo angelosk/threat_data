@@ -12,29 +12,34 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 27, 2015  
-Total attacks today: 4169  
-Attempted Malware Downloads: 15 
+Total attacks today: 9205  
+Attempted Malware Downloads: 64 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    784 112.220.201.150
+   1497 112.220.201.150
+    912 113.195.145.70
     741 61.241.82.125
-    411 113.195.145.70
+    718 219.229.222.4
+    531 182.100.67.113
+    294 218.65.30.92
+    290 222.186.21.100
     225 218.57.11.7
     222 61.218.247.184
-    213 61.50.187.112
-    132 113.195.145.80
-    110 5.230.4.42
-    106 222.97.189.81
-     96 118.69.135.21
+    214 179.124.44.98
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://104.168.35.235/b.sh
+http://107.150.58.154/gb.sh
+http://122.10.85.54/
 http://185.11.146.114/hac.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://80.82.65.246/p.pl
 http://modems.pw/armv5l
 http://modems.pw/b.sh
@@ -44,47 +49,47 @@ http://modems.pw/x86
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    543 root
-     79 admin
-     49 123456
-     32 12345
-     28 password
-     23 1234
-     21 ubnt
-     21 oracle
-     20 default
-     20 
-     16 test
-     15 ubuntu
-     15 postgres
-     15 changeme
-     13 support
-     12 12345678
-     12 123
-     11 user
-     11 administrator
-     10 qwerty
-     10 PlcmSpIp
-     10 debian
-     10 3rddf
-      9 zhangyan7tian
-      9 1q2w3e4r
+    986 root
+    179 admin
+    131 123456
+     93 password
+     85 
+     65 ubuntu
+     63 test
+     56 ubnt
+     49 1234
+     47 xiaochen445362
+     47 ppkpiu1234
+     47 12345
+     41 oracle
+     39 user
+     39 default
+     38 support
+     38 guest
+     28 PlcmSpIp
+     28 !letmein123!
+     28 debian
+     27 postgres
+     27 kioklko0
+     27 f0.514
+     27 123
+     25 foobar
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2520 root
-    143 admin
-     52 bin
+   4741 root
+    325 admin
+     90 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2350 SSH-2.0-libssh-0.1
-    502 SSH-2.0-libssh-0.5.2
-    263 SSH-2.0-PUTTY
-    135 SSH-2.0-libssh2_1.4.1
-     65 SSH-2.0-libssh2_1.6.0
+   4927 SSH-2.0-libssh-0.1
+    712 SSH-2.0-PUTTY
+    512 SSH-2.0-libssh-0.5.2
+    483 SSH-2.0-libssh2_1.4.1
+    127 SSH-2.0-libssh2_1.4.3
 ```
