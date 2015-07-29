@@ -12,8 +12,8 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 28, 2015  
-Total attacks today: 4881  
-Attempted Malware Downloads: 14 
+Total attacks today: 6734  
+Attempted Malware Downloads: 91 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
@@ -21,67 +21,72 @@ The following are the top 10 attacker IP addresses today, including the frequenc
    1293 45.114.11.38
     739 222.186.21.195
     526 45.114.11.12
+    288 45.114.11.26
     273 221.13.68.195
     252 45.114.11.34
-    129 113.195.145.80
-    123 113.195.145.79
-    117 45.114.11.40
-     84 89.248.171.148
-     75 222.186.21.95
+    193 210.228.133.141
+    192 179.124.44.98
+    184 222.186.21.95
+    165 45.114.11.39
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://107.150.58.154/gb.sh
 http://115.29.184.109:62725/syn20150
+http://122.10.85.54/
+http://212.224.88.208/gb.sh
 http://222.186.34.153:4321/123
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2440 root
-    118 admin
-     41 ubnt
-     41 guest
-     40 user
-     36 test
-     34 support
-     29 PlcmSpIp
-     28 default
-     26 password
-     26 1234
-     23 public
-     22 adm
-     22 123456
-     20 backup
-     20 anonymous
-     19 testuser
-     19 sysadm
-     19 nuucp
-     19 anon
-     19 12345
-     17 
-     16 raspberry
-     15 administrator
-     13 admin123
+   2804 root
+    158 admin
+     68 ubnt
+     59 password
+     59 123456
+     49 test
+     49 guest
+     45 user
+     44 support
+     41 default
+     37 
+     36 1234
+     34 ubuntu
+     30 PlcmSpIp
+     27 12345
+     25 public
+     24 xiaochen445362
+     24 ppkpiu1234
+     24 !letmein123!
+     24 kioklko0
+     24 f0.514
+     24 adm
+     23 backup
+     22 administrator
+     21 anonymous
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4007 root
-    190 admin
-     59 user
+   5289 root
+    248 admin
+     68 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    878 SSH-2.0-PUTTY
-    574 SSH-2.0-libssh-0.1
-    297 SSH-2.0-libssh-0.5.2
-    217 SSH-2.0-libssh2_1.4.3
-    131 SSH-2.0-libssh2_1.4.1
+   1083 SSH-2.0-PUTTY
+   1032 SSH-2.0-libssh-0.1
+    491 SSH-2.0-libssh-0.5.2
+    307 SSH-2.0-libssh2_1.4.1
+    248 SSH-2.0-libssh2_1.4.3
 ```
