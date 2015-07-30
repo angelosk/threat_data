@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 29, 2015  
-Total attacks today: 4925  
-Attempted Malware Downloads: 8 
+Total attacks today: 10639  
+Attempted Malware Downloads: 88 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1155 45.114.11.27
    1083 222.186.21.71
+    801 203.100.83.32
     724 208.50.4.71
+    684 113.195.145.79
+    588 45.114.11.53
+    414 218.87.111.108
     351 45.114.11.38
-    324 218.87.109.60
-    320 203.100.83.32
-    140 182.92.175.3
-    105 218.65.30.225
-    104 195.154.56.56
-     96 218.65.30.73
-     69 58.218.211.166
+    339 58.218.211.166
+    327 218.65.30.225
 ```
 
 #### Attempted URL Downloads
@@ -36,6 +36,8 @@ The following are URLs attackers attempted to download and execute once they com
 http://103.20.195.254/
 http://107.150.58.154/gb.sh
 http://122.10.85.54/
+http://185.63.189.103/lel.sh
+http://222.186.56.96:2213/123
 http://222.186.56.96:2213/345
 http://43.255.188.2/
 http://43.255.188.2/g.rar
@@ -44,47 +46,47 @@ http://43.255.188.2/g.rar
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2093 root
-    217 admin
-     55 ubnt
-     54 
-     38 password
-     34 12345
-     33 1234
-     29 default
-     28 123456
-     21 user
-     19 support
-     19 raspberry
-     18 12345678
-     17 guest
-     16 administrator
-     15 123456789
-     14 test
-     14 letmein
-     13 1
-     12 changeme
-     12 admin123
-     11 alpine
-     10 PlcmSpIp
-     10 pass
-     10 cisco
+   4450 root
+    279 admin
+    103 ubnt
+     79 
+     49 123456
+     46 12345
+     43 1234
+     41 password
+     39 administrator
+     37 test
+     37 default
+     31 user
+     26 changeme
+     25 12345678
+     24 guest
+     23 raspberry
+     23 MGR
+     22 www.rohtang.org
+     22 support
+     22 rohtang.org
+     22 123456789
+     21 1
+     20 alpine
+     18 123
+     17 letmein
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3751 root
-    726 admin
-     59 user
+   8550 root
+    787 admin
+    109 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    939 SSH-2.0-libssh-0.5.2
-    466 SSH-2.0-libssh-0.1
-    344 SSH-2.0-PUTTY
-    339 SSH-2.0-libssh2_1.4.3
-    123 SSH-2.0-libssh2_1.4.1
+   1630 SSH-2.0-PUTTY
+   1271 SSH-2.0-libssh-0.1
+   1135 SSH-2.0-libssh-0.5.2
+    529 SSH-2.0-libssh2_1.4.3
+    508 SSH-2.0-libssh-0.2
 ```
