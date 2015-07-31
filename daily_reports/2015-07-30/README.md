@@ -12,73 +12,78 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 30, 2015  
-Total attacks today: 7477  
-Attempted Malware Downloads: 0 
+Total attacks today: 14110  
+Attempted Malware Downloads: 38 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    2328 202.229.120.142
+   1635 45.114.11.45
+   1098 222.186.21.71
+    887 222.186.21.100
     795 45.114.11.27
     651 221.203.3.18
+    487 218.26.243.138
+    470 61.218.247.184
     459 45.114.11.33
     354 45.114.11.25
-    285 195.154.56.56
-    246 202.177.162.198
-    243 218.26.243.138
-    177 121.150.30.94
-    158 219.229.222.4
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://192.3.207.242/bin.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1808 root
-    141 ubnt
-    124 guest
-    121 test
-    117 user
-    117 support
-    115 
-    112 ftpuser
-    112 ftp
-    111 admin
-    110 ubuntu
-    104 !
+   5903 root
+    198 admin
+    180 ubnt
+    155 test
+    150 guest
+    131 user
+    128 support
+    128 ftpuser
+    123 
+    118 ftp
+    114 ubuntu
+    110 pi
+    107 !
     103 debian
-    100 pi
-     98 test1
-     98 root1
+    100 test1
+    100 root1
+    100 operator
+     98 admin1
      97 user1
      97 ubnt1
      97 thierry
      97 support1
      97 plcmspip
-     97 operator
      97 adminadmin
-     97 admin1
      97 ﻿admin
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3610 root
-    269 admin
-    162 user
+   9051 root
+    384 admin
+    194 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    910 SSH-2.0-PUTTY
-    692 SSH-2.0-libssh-0.1
-    447 SSH-2.0-libssh-0.5.2
-    276 SSH-2.0-libssh2_1.4.1
-    131 SSH-2.0-JSCH-0.1.51
+   1731 SSH-2.0-PUTTY
+   1342 SSH-2.0-libssh-0.1
+   1043 SSH-2.0-libssh-0.5.2
+    539 SSH-2.0-libssh2_1.4.3
+    502 SSH-2.0-libssh2_1.4.1
 ```
