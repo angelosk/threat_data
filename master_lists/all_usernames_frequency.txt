@@ -1,111 +1,111 @@
-34729721 root
- 412919 admin
-  29174 ubnt
-  29174 test
-  22779 user
-  21508 oracle
-  20088 guest
-  15913 postgres
-  15240 support
-  13984 ftpuser
-  12967 pi
-  11417 PlcmSpIp
-  10585 nagios
-   8817 default
+34736945 root
+ 413111 admin
+  29236 ubnt
+  29236 test
+  22827 user
+  21529 oracle
+  20191 guest
+  15929 postgres
+  15310 support
+  14036 ftpuser
+  13009 pi
+  11475 PlcmSpIp
+  10591 nagios
+   8819 default
    7990 games
-   7897 bin
+   7899 bin
    7863 operator
-   7766 ftp
-   7609 www
-   7301 git
-   7255 info
+   7776 ftp
+   7611 www
+   7315 git
+   7261 info
    6624 com
    6534 mulesystems
    6324 aaron
-   5707 D-Link
-   5587 ubuntu
-   5278 mysql
-   5028 apache
-   4995 alex
-   4864 backup
+   5708 D-Link
+   5633 ubuntu
+   5292 mysql
+   5030 apache
+   4996 alex
+   4913 backup
    4384 xbian
    4278 teamspeak
    4136 sql
-   4109 sshd
-   3815 adm
-   3742 vyatta
-   3693 sales
-   3658 sysadmin
-   3611 hadoop
+   4110 sshd
+   3863 adm
+   3743 vyatta
+   3694 sales
+   3662 sysadmin
+   3620 hadoop
    3546 
-   3465 tomcat
-   3450 cisco
-   3360 uucp
+   3469 tomcat
+   3451 cisco
+   3403 uucp
    3232 administraator
-   3205 library
-   2985 fluffy
-   2915 zabbix
+   3210 library
+   2990 fluffy
+   2919 zabbix
    2860 gateway
-   2831 jboss
+   2849 jboss
    2768 deploy
    2682 voip2
-   2509 minecraft
-   2492 demo
+   2518 minecraft
+   2493 demo
    2473 ts
-   2278 webmaster
-   2261 jenkins
-   2189 testuser
+   2283 webmaster
+   2273 jenkins
+   2220 testuser
    2112 ts3
    2094 student
-   2045 web
+   2049 web
    1991 test1
-   1913 user1
-   1913 a
+   1918 a
+   1914 user1
    1893 temp
    1824 test2
    1754 developer
+   1732 www-data
    1731 kadmin
-   1710 www-data
-   1704 webadmin
+   1713 webadmin
    1692 teamspeak3
    1685 voip
-   1643 david
-   1575 dff
-   1505 zhangyan
+   1644 david
+   1581 dff
+   1511 zhangyan
    1450 svn
-   1428 db2inst1
-   1416 administrator
-   1355 MGR
-   1352 123456
-   1323 vnc
+   1431 db2inst1
+   1423 administrator
+   1378 MGR
+   1356 123456
+   1325 vnc
    1247 ec2-user
    1230 server
    1189 p2ptest
    1186 eastcom999
-   1182 adam
+   1186 adam
    1178 user2
+   1170 debian
    1159 informix
-   1155 debian
    1106 hm
    1104 john
-   1069 suporte
-   1060 redmine
+   1070 suporte
+   1069 redmine
    1053 weblogic
    1025 usuario
    1013 lp
-   1004 dev
+   1005 dev
     988 cyrus
-    977 nobody
-    964 office
+    978 nobody
+    965 office
     961 upload
     946 samba
-    939 tester
-    924 master
+    944 tester
+    927 master
     917 news
     910 asterisk
-    888 system
-    855 service
-    842 123
+    890 system
+    867 service
+    844 123
     841 deployer
     838 eric
     832 password
@@ -114,30 +114,30 @@
     783 prueba
     766 amanda
     761 testing
-    758 username
-    754 linux
+    760 username
+    758 linux
     745 daemon
     742 ajay
     714 jira
     710 roberto
-    701 boot
-    696 mike
+    702 boot
+    697 public
+    697 mike
     691 sybase
     689 marc
     681 postfix
     679 abc123
     674 mukesh
     674 b
-    672 anna
+    673 anna
     666 michael
-    664 public
-    664 bob
+    665 bob
     658 sarawagi
     646 shoutcast
     640 mythtv
-    638 alan
+    639 alan
     636 xyz
-    634 adrian
+    635 adrian
     631 altibase
     628 xbmc
     628 markus
@@ -145,43 +145,43 @@
     617 postmaster
     613 aion
     606 bwadmin
+    597 openerp
+    594 webuser
     592 administrador
-    591 webuser
-    588 openerp
     588 ankit
+    581 data
     578 ben
-    575 bash
-    571 mail
-    569 manager
+    576 bash
+    574 manager
+    572 mail
+    560 db2admin
     558 http
-    557 db2admin
-    553 data
     541 angel
-    539 cvs
+    540 cvs
     536 kevin
     531 fax
     521 nan
     520 user01
     518 arun
     517 andrew
+    512 Administrator
     510 wwwrun
     510 openbravo
     504 paul
-    503 Administrator
+    504 amssys
     501 sh
     500 teste
+    500 applmgr
     500 admin1
     500 1qaz2wsx
     498 taras
-    498 applmgr
-    498 amssys
     493 httpd
     490 1q2w3e4r
-    485 martin
+    486 martin
     484 cgi
     481 jason
+    480 trial
     478 cactiuser
-    477 trial
     476 ghost
     476 dasusr1
     475 shiva
@@ -189,9 +189,9 @@
     468 apresley
     464 gast
     457 p@ssw0rd
+    455 shell
     454 wordpress
     452 plcmspip
-    451 shell
     443 google
     441 hmsftp
     435 tom
@@ -199,15 +199,15 @@
     432 recruit
     432 pgsql
     428 bill
+    427 install
     426 alin
     425 portal
-    425 install
     424 ftptest
+    424 db2fenc1
+    423 danny
     422 share
-    422 danny
-    421 db2fenc1
+    419 qwerty
     419 christian
-    418 qwerty
     413 user3
     402 tflogs
     401 kundan
@@ -230,30 +230,30 @@
     380 ftp1
     379 userftp
     376 newuser
+    373 unix
     373 richard
     373 george
     373 agsadmin
+    372 debug
     371 squid
-    371 debug
-    369 unix
     368 pc
     366 ts3srv
     360  failed' % (username, password)
     356 sam
+    351 patrol
     350 user02
-    350 patrol
     349 send
     349 log
     348 smtp
     348 contact
     347 cmsftp
+    346 internet
     346 12345
-    345 internet
     344 app
+    341 chris
     340 ftpuser1
-    340 chris
     339 polycom
-    338 monitor
+    339 monitor
     337 juan
     332 zxin10
     330 renew
@@ -267,12 +267,12 @@
     320 thomas
     320 sebastian
     320 qwe123
-    319 cron
+    320 cron
     317 mantis
     317 albert
+    316 1
     315 cacti
-    314 1
-    312 plesk
+    313 plesk
     312 c1893-16323
     312 brian
     311 test123
@@ -293,31 +293,31 @@
     295 c1893-16326
     294 bind
     294 555555
+    293 toor
     293 joomla
+    293 client
     293 centos
     292 ab1234
     291 445566
-    290 toor
     290 cs
-    289 barbara
+    290 barbara
     288 max
     285 dave
-    283 client
     280 operador
     277 sysop
     277 ratequote
     277 huawei
     276 ts2
     276 media
-    272 sharon
+    273 sharon
     271 fofel
     270 ssh
+    270 login
     269 vmail
     268 rsync
     267 liferay
     264 tim
     262 transfer
-    262 login
     260 trade
     258 music
     258 mqm
@@ -332,46 +332,47 @@
     250 notes
     248 noreply
     248 hudson
-    246 nfsnobody
+    247 nfsnobody
     246 kartel
     246 abcs
     245 gopher
     244 pub
+    243 FIELD
     242 ttf
     242 shop
     242 rpcuser
     242 red
     242 build
     240 r00t
+    240 Admin
     239 admins
-    239 Admin
     238 victor
     238 control
     237 students
+    237 oper
     237 gmod
     236 testftp
-    236 oper
     236 myftp
     236 karaf
     236 arbab
-    235 FIELD
     234 irfan
+    234 irc
     232 forum
     230 rob
     229 nexus
     228 mark
     228 clamav
+    227 brett
     226 ispconfig
-    226 brett
     225 no-reply
     225 download
     225 adi
     224 skype
     224 scan
     223 skaner
+    223 anonymous
     222 william
     222 stephen
-    222 irc
     222 geoadmin
     221 jabber
     220 proxy
@@ -381,15 +382,16 @@
     219 spam
     219 sara
     219 itsupport
-    218 aron
+    219 aron
     216 word
     216 jonesst1
+    215 tech
     214 nick
     214 asp
-    213 tech
-    213 alvin
+    214 alvin
+    213 pos
     212 lihan
-    211 pos
+    210 setup
     210 hannes
     210 bitrix
     209 xVIRal
@@ -403,12 +405,11 @@
     205 susan
     204 cvsroot
     203 cvsuser
+    202 syncro
     202 hacluster
     200 sarah
     200 gary
     199 xxx
-    199 syncro
-    199 setup
     199 mas
     199 ftpadmin
     199 angela
@@ -418,42 +419,41 @@
     197 ashish
     196 jordan
     195 nuucp
+    194 video
     194 slide
     194 kelly
     194 cooka
+    193 super
     193 csgo
     192 lisa
+    192 andy
     191 pc02
-    191 andy
     190 arshad
-    188 video
     188 sasaki
     188 qtss
-    188 anonymous
     188 1qazxsw2
     185 guest7
     184 shutdown
     184 gusr
     184 boris
-    182 sys
+    183 sys
     182 mailman
     182 jessica
+    182 coba
     180 marketing
     180 hacker
     180 gfep
     179 vbox
+    179 net
     179 fred
-    179 coba
     179 apple
     178 passwd
-    178 net
     178 boss
     177 unknown
     177 student1
     176 x
     176 smmsp
     176 couchdb
-    175 super
     175 steven
     175 payment
     174 services
@@ -461,14 +461,15 @@
     173 tony
     173 maria
     172 web1
+    172 sysadm
     172 projects
     172 ns
     172 alfred
+    171 users
     171 tuxedo
     171 root1
     171 kernel
     171 anonftp
-    170 users
     170 patrick
     169 steve
     169 eagle
@@ -479,28 +480,30 @@
     168 melissa
     167 laborator
     167 example
+    167 blank
     166 carlos
     166 alice
     166 aa
     165 user03
     165 beau
+    165 agus
     164 sonar
     164 soft
     164 redhat
     164 hlds
     164 faxadmin
+    164 erik
     163 zope
     163 tsserver
     163 quality
-    163 blank
+    163 OPERATOR
     163 andi
     162 time
+    162 MANAGER
     162 man
     162 craig
-    162 agus
     161 ruben
     161 ldap
-    161 erik
     160 virus
     160 import
     160 arthur
@@ -511,49 +514,50 @@
     159 r
     159 matthew
     159 logout
-    158 OPERATOR
     158 nicole
     158 apagar
     157 tnmspon
     157 laboratorio
     157 gast1
+    157 fedora
     157 case
     156 znc
     156 laura
     156 asteriskpbx
     156 admin2
+    155 vincent
     155 mp3
-    155 MANAGER
-    154 vincent
+    154 maint
+    153 wp
     153 sync
     153 ident
     153 gast2
-    152 wp
     152 unison
     152 receptio
     152 nginx
+    152 desktop
+    151 jerry
     151 avinash
+    151 agung
     151 accounting
     150 webapp
     150 vic
     150 skill
     150 mjadmin
-    150 maint
-    150 jerry
     150 dvs
     149 feng
     149 ellen
     149 dovecot
     148 skanner
     148 redis
+    148 MAIL
     148 kang
+    148 helpdesk
     148 greg
-    148 agung
     147 zhanghui
     147 play
     147 hjlee
     147 henny
-    147 helpdesk
     147 gdm
     146 ubnt1
     146 newsletter
@@ -561,34 +565,31 @@
     146 gwl
     146 caoyang
     145 gyaseen
+    145 device
     145 amber
     144 yen
     144 xymon
     144 mhlee
     143 slview
     143 nano
-    143 MAIL
     143 linda
     143 justin
     143 jk
     143 alexander
     142 tomcat5
     142 java
-    142 fedora
     142 dummy
-    141 dino
+    142 dino
     140 support1
     140 sunny
     140 stephanie
     140 help
-    140 desktop
     138 test4
     138 oscar
     138 liyang
     138 Ethernet
     138 e
-    138 device
-    137 sysadm
+    138 ahmad
     137 charlton
     136 xiang
     136 haidong
@@ -596,7 +597,6 @@
     135 patil
     135 jacky
     135 daizhongjie
-    135 ahmad
     134 windows
     134 %s
     134 elizabeth
@@ -608,36 +608,39 @@
     133 diego
     133 deepak
     133 c
+    133 anderson
     132 nasa
     132 harry
     132 free
     132 f
+    132 emma
     132 dani
-    132 anderson
     132 allan
     131 netdump
     131 moodle
-    131 emma
     131 d
     130 zt
     130 xbox
     130 jedi
     130 dmuser
     130 cloudatcost
+    130 blue
+    130 1234
     129 oliver
     129 lee
+    129 jacob
     129 db2inst
+    129 claudia
     129 carol
-    129 blue
     129 apache2
+    129 ankur
     128 teamspeak2
     128 santosh
     128 ronald
-    128 jacob
-    128 claudia
     127 hch
     127 elena
     127 corin
+    127 bruce
     127 andrei
     126 technicom
     126 staff
@@ -646,8 +649,6 @@
     126 dujieqiong
     126 dudiaoke
     126 db
-    126 bruce
-    126 1234
     125 zhangjun
     125 yzh001
     125 search
@@ -660,15 +661,16 @@
     124 resin
     124 customer
     124 cpter1
+    124 byte
     123 sean
     123 doctor
-    123 ankur
     123 ace
     122 webadm
     122 sshusr
     122 rts
     122 getmail
     122 elisa
+    122 db2das1
     122 catadmin
     122 appdev4
     121 smokey
@@ -682,20 +684,20 @@
     120 monica
     120 larry
     120 julia
+    120 home
     120 gnats
     120 ashpak
     120 anita
     119 sir
     119 sgi
-    119 home
     119 guest1
     119 emily
-    119 db2das1
     118 webpop
     118 lauren
     118 dragon
     118 bryan
     117 paras
+    117 liu
     117 gpadmin
     117 alexandra
     117 2
@@ -725,20 +727,21 @@
     114 dasusr
     113 user0
     113 php2root
+    113 halt
     113 brandon
     113 ahmed
     112 wayne
     112 vmware
     112 usa
+    112 superuser
     112 mailtest
-    112 halt
     112 dima
     112 cesar
     111 lsfadmin
-    111 liu
     111 joseph
     111 hexin
     111 edi
+    111 budi
     111 amit
     111 add
     110 vijay
@@ -750,14 +753,15 @@
     110 atsuser
     110 adminadmin
     109 theresa
-    109 superuser
     109 remote
+    109 rajesh
     109 radio
     109 marcus
     109 ken
     109 guoxunhua
     109 gheghe
     109 denis
+    109 craft
     108 sky
     108 mongodb
     108 jim
@@ -765,7 +769,6 @@
     108 digital
     108 dennis
     108 chuck
-    108 budi
     107 jean
     107 ircd
     107 ian
@@ -779,8 +782,8 @@
     106 leo
     106 joshua
     106 epg
-    106 craft
     106 azureuser
+    106 andre
     105 webconfig
     105 view
     105 smart
@@ -788,40 +791,42 @@
     105 eggdrop
     105 ds
     105 benny
-    105 andre
     104 sbnc
     104 rpc
     104 mongrel
     103 toto
-    103 rajesh
+    103 recovery
     103 oprofile
     103 jiajun
     103 dbadmin
+    103 ana
     103 alberto
     102 tanveer
+    102 security
     102 jon
     102 ingres
     102 db2
     102 angie
     102 andreea
-    102 ana
     102 ale
     101 usertest
+    101 superman
     101 stud
-    101 security
     101 ratan
+    101 odoo
     101 notice
     101 html
     101 grid
     101 clark
     101 cgi-bin
     101 cap
+    101 ali
+    100 tmp
     100 SQLDebugger
     100 sbear
     100 samuel
     100 liz
     100 ch
-    100 ali
     100 ﻿admin
     100 abel
      99 scott
@@ -832,13 +837,12 @@
      99 ed
      99 debbie
      99 applprod
-     98 superman
      98 party
-     98 odoo
      98 mario
      98 felix
      98 ashley
      98 as
+     98 apc
      98 Aaron
      97 vinod
      97 tsminst1
@@ -849,7 +853,6 @@
      97 grace
      97 elias
      97 chemistry
-     97 apc
      97 $
      97 !
      96 yang
@@ -868,12 +871,12 @@
      95 fish
      95 exploit
      95 ddo
-     95 byte
      95 alina
      95 Aba
-     94 recovery
+     94 supervisor
      94 nokia
      94 louise
+     94 lihui
      94 jayden
      94 it
      94 eli
@@ -890,11 +893,12 @@
      93 edv
      93 dbuser
      92 vlad
-     92 supervisor
      92 police
      92 m
      92 jessie
      92 huhanbin
+     92 HELLO
+     92 edward
      92 eberle
      92 dspace
      92 cmd
@@ -908,7 +912,6 @@
      91 sc
      91 patricia
      91 elw
-     91 edward
      91 eddie
      91 cristi
      91 amitj
@@ -916,6 +919,8 @@
      90 harvey
      90 fms
      90 cstrike
+     90 anton
+     90 anon
      90 abraham
      89 visitor
      89 treino
@@ -923,11 +928,9 @@
      89 oraebs
      89 oleg
      89 mandy
-     89 lihui
      89 hhj
      89 design
      89 carl
-     89 anton
      88 ucpss
      88 tose
      88 nmrsu
@@ -935,7 +938,6 @@
      88 lab
      88 josh
      88 identd
-     88 HELLO
      88 get
      87 neo
      87 mr
@@ -953,7 +955,6 @@
      86 benjamin
      85 wahyu
      85 vagrant
-     85 tmp
      85 roy
      85 gabi
      85 fuw
@@ -974,16 +975,22 @@
      84 5
      83 station
      83 sniff
+     83 sanjay
      83 festival
      83 fabrice
      83 cooper
+     83 computer
      83 bbb
      83 4
+     82 vidya
      82 qq
      82 olivia
+     82 mysqladmin
      82 lol
      82 kat
      82 file
+     82 diag
+     82 cusadmin
      82 carmen
      82 ada
      82 abdul
@@ -1008,33 +1015,28 @@
      81 anne
      81 Admin2
      81 6
+     80 work
      80 will
      80 test01
      80 sw
      80 sunsun
      80 sua
-     80 sanjay
      80 ron
      80 privacy
      80 julien
      80 ikeda
      80 hxhtftp
-     80 diag
-     80 cusadmin
      80 change
      80 bernard
      80 aris
      80 abigail
      80 22
      79 xiuzuan
-     79 work
-     79 vidya
      79 rahulb
      79 radu
      79 rabbitmq
      79 pc01
      79 ospfd
-     79 mysqladmin
      79 mary
      79 gustav
      79 farid
@@ -1045,6 +1047,7 @@
      78 solr
      78 sasha
      78 mpi
+     78 marie
      78 magento
      78 jonny
      78 johannes
@@ -1055,7 +1058,6 @@
      77 print
      77 naveen
      77 michi
-     77 marie
      77 julie
      77 jintianyi
      77 green
@@ -1070,9 +1072,11 @@
      76 msp
      76 lswang
      76 king
+     76 inads
      76 gmodserver
      76 eyes
      76 dongmaster
+     76 dana
      76 ces
      76 catherine
      76 brad
@@ -1092,20 +1096,20 @@
      75 facebook
      75 eleet
      75 eko
-     75 dana
      75 cube
      75 cti
+     75 browse
      75 bobby
      75 bmp
      75 avahi
      75 auser
+     75 appserver
      74 zznode
      74 srl
      74 servers
      74 rana
      74 president
      74 php
-     74 inads
      74 igor
      74 id
      74 flw
@@ -1117,7 +1121,6 @@
      74 bogdan
      74 bea
      74 bd
-     74 appserver
      74 anu
      73 vikrot
      73 relina
@@ -1128,7 +1131,6 @@
      73 jake
      73 digital1
      73 dark
-     73 browse
      73 alpha
      73 alain
      72 yahoo
@@ -1163,7 +1165,6 @@
      71 fajar
      71 DUP root
      71 copy
-     71 computer
      71 biuro
      71 baiertal
      71 austin
@@ -1175,6 +1176,7 @@
      70 trib
      70 tiffany
      70 socks
+     70 rk
      70 putra
      70 .php
      70 oracle1
@@ -1192,7 +1194,6 @@
      69 SUPERVISOR
      69 Sorin
      69 smith
-     69 rk
      69 raj
      69 nforge
      69 mf
@@ -1211,6 +1212,7 @@
      68 jmi
      68 jimmy
      68 Jewel
+     68 installer
      68 garden
      68 chandu
      68 calvin
@@ -1224,7 +1226,6 @@
      67 lingfeng
      67 koba
      67 ivan
-     67 installer
      67 haxor
      67 gis
      67 ftpguest
@@ -1291,6 +1292,7 @@
      64 christina
      64 benoit
      64 avanhost
+     63 z
      63 ts1
      63 tarsys
      63 rosa
@@ -1300,13 +1302,13 @@
      63 Exit
      63 eduard
      63 edit
+     63 dimas
      63 cmsuser
      63 christine
      63 chenyufeng
      63 chenyubo
      63 caocongqi
      63 ashok
-     62 z
      62 sunil
      62 rot
      62 orange
@@ -1320,6 +1322,7 @@
      62 chucongying
      62 cc
      61 theo
+     61 ricky
      61 pc2
      61 OOOOOOOOOO
      61 ming
@@ -1353,7 +1356,6 @@
      60 haibis
      60 fritz
      60 emil
-     60 dimas
      60 charlie
      60 caroline
      60 beth
@@ -1375,7 +1377,6 @@
      58 uk
      58 tina
      58 sandy
-     58 ricky
      58 pl
      58 michelle
      58 maggie
@@ -1481,6 +1482,7 @@
      54 christopher
      54 cher
      54 anris
+     54 angga
      54 agnes
      54 admissions
      54 adit
@@ -1533,6 +1535,7 @@
      52 eshop
      52 dd
      52 db2fenc3
+     52 coco
      52 catering
      52 camila
      52 beta
@@ -1547,6 +1550,7 @@
      51 stores
      51 ryf
      51 russ
+     51 reza
      51 renyifan
      51 name
      51 murphy
@@ -1560,19 +1564,18 @@
      51 karen
      51 joyce
      51 joanne
+     51 intel
      51 funt
      51 edith
      51 duncan
      51 csuser
-     51 coco
      51 chloe
      51 baltasar
      51 bagus
      51 archive
-     51 anon
      51 annette
-     51 angga
      51 andres
+     51 admim
      50 wut
      50 vika
      50 ultra
@@ -1587,14 +1590,15 @@
      50 kishore
      50 kara
      50 janmedia4
-     50 intel
      50 hu
      50 herbert
      50 guest2
      50 friend
      50 esther
+     50 erwin
      50 dinesh
      50 damian
+     50 cyber
      49 yahya
      49 xx
      49 wf
@@ -1612,6 +1616,7 @@
      49 n
      49 morgan
      49 mircte
+     49 microsoft
      49 marcel
      49 mama
      49 lynn
@@ -1627,7 +1632,6 @@
      49 box
      49 basic
      49 azureuse
-     49 admim
      48 zoe
      48 zhushaojiao
      48 zhujingyang
@@ -1650,7 +1654,6 @@
      48 starcraft
      48 sjtuhui
      48 serveur
-     48 reza
      48 rahul
      48 pascal
      48 pam
@@ -1672,6 +1675,7 @@
      48 jane
      48 jackie
      48 irene
+     48 hendra
      48 frizmarc
      48 foerderd
      48 florin
@@ -1708,7 +1712,7 @@
      47 frauenweiler
      47 fbi
      47 eugen
-     47 erwin
+     47 egg
      47 dylan
      47 dulap
      47 cornitor
@@ -1743,11 +1747,13 @@
      46 Aa12345root
      45 yuwah
      45 u
+     45 tiger
      45 steam1
      45 Soporte
      45 shooter
      45 samantha
      45 sakura
+     45 rahesh
      45 pocsag
      45 pivanov
      45 monika
@@ -1756,22 +1762,23 @@
      45 johnny
      45 india
      45 huang
-     45 hendra
      45 gitlab
      45 flower
+     45 fidelity
      45 datel
      45 cuihainan
+     45 comcast
      45 cjlopez
      45 chenxiaotang
      45 chenmingming
      45 chenghewei
      45 chat
+     45 candra
      45 brianmac
      45 betty
      45 adela
      45 12
      45 0
-     44 tiger
      44 test11
      44 stella
      44 spike
@@ -1787,11 +1794,8 @@
      44 maryse
      44 local
      44 GEN1
-     44 fidelity
-     44 egg
      44 cyborg
      44 csadmin
-     44 comcast
      44 chorist
      44 chehao
      44 cgc-admin
@@ -1800,6 +1804,7 @@
      44 camera
      44 billy
      44 beavis
+     44 asep
      43 zxvf
      43 zengl
      43 willie
@@ -1824,6 +1829,7 @@
      43 lili
      43 kristen
      43 kent
+     43 jaka
      43 GEN2
      43 flopy
      43 faith
@@ -1835,13 +1841,14 @@
      43 aaaa
      42 yolanda
      42 vncuser
+     42 telecom
      42 svnadmin
      42 shift
      42 sherry
      42 serge
      42 sabin
+     42 router
      42 ravi
-     42 rahesh
      42 orademo
      42 naumetsa
      42 mexal
@@ -1863,8 +1870,8 @@
      42 connect
      42 china
      42 candy
-     42 candra
      42 bird
+     42 bayu
      42 ari
      42 aji
      42 aftranf
@@ -1874,12 +1881,10 @@
      41 xguest
      41 v
      41 test12
-     41 telecom
      41 teams3
      41 SZIM
      41 student3
      41 shaun
-     41 router
      41 prova
      41 porno
      41 oradev
@@ -1897,11 +1902,11 @@
      41 ernest
      41 dtn
      41 drive
+     41 disk
      41 desknorm
      41 denied
      41 demos
      41 delphine
-     41 cyber
      41 cornelia
      41 coremail
      41 claude
@@ -1911,9 +1916,7 @@
      41 buster
      41 bianca
      41 bella
-     41 bayu
      41 audio
-     41 asep
      41 annie
      41 aida
      41 abcd
@@ -1924,6 +1927,7 @@
      40 trac
      40 topicres
      40 topicalt
+     40 team
      40 t3st
      40 sven
      40 SL
@@ -1932,19 +1936,18 @@
      40 plex
      40 pisica
      40 multicraft
-     40 microsoft
      40 mafish
      40 left
      40 league
      40 kristine
      40 jones
-     40 jaka
      40 iris
      40 harley
      40 gm0d
      40 farrell
      40 emerson
      40 elyzabeth
+     40 echo
      40 ec4-user
      40 denzel
      40 daniele
@@ -1966,6 +1969,7 @@
      39 trial1
      39 topicnorm
      39 takahashi
+     39 superadmin
      39 summer
      39 sapphire
      39 replicator
@@ -1988,7 +1992,6 @@
      39 fabian
      39 eminem
      39 ella
-     39 echo
      39 domsebe
      39 asia
      39 arma3
@@ -2009,6 +2012,7 @@
      38 postgresql
      38 nova
      38 not
+     38 netadmin
      38 napp
      38 mrc
      38 mitt
@@ -2030,6 +2034,7 @@
      38 freeze
      38 france
      38 foloschi
+     38 five
      38 douglas
      38 dota2server
      38 dota2
@@ -2054,7 +2059,6 @@
      37 pervuhina
      37 pams
      37 nicholas
-     37 netadmin
      37 nadia
      37 moon
      37 mirc
@@ -2067,7 +2071,6 @@
      37 hiroshi
      37 harrison
      37 hannah
-     37 five
      37 evan
      37 drust
      37 diablo3
@@ -2075,8 +2078,11 @@
      37 caesar
      37 becky
      37 amavisd
+     37 ADVMAIL
      37 123abc
      37 123456789
+     36 write
+     36 User
      36 trinity
      36 tomas
      36 tgz
@@ -2089,6 +2095,7 @@
      36 smithsi
      36 smite
      36 silence
+     36   root
      36 rodrigo
      36 remi
      36 qsecofr
@@ -2137,20 +2144,19 @@
      36 barbie
      36 art
      36 adriano
+     36 aditya
      36 Access
      36 12345678
      35 zookeeper
-     35 write
      35 valentin
-     35 User
      35 update
-     35 superadmin
      35 stu
      35 source
      35 solarm1
      35 slim
      35 sirsi
      35 Robert
+     35 ro
      35 relive
      35 nothing
      35 monique
@@ -2183,16 +2189,17 @@
      35 dayz
      35 bianka
      35 bf2
+     35 amelia
      35 albertha
      35 akos
      35 afftp01
-     35 ADVMAIL
-     35 aditya
+     35 adminttd
      35 abi
      35 0000
      34 yasuda
      34 wot
      34 wol
+     34 wawan
      34 wap
      34 tigger
      34 testbox
@@ -2206,7 +2213,6 @@
      34 sc2hots
      34 sc2
      34 sc1
-     34 ro
      34 post
      34 poll
      34 pierre
@@ -2214,6 +2220,7 @@
      34 penelope
      34 neil
      34 michele
+     34 manage
      34 lyn
      34 lucian
      34 lotv
@@ -2226,6 +2233,7 @@
      34 joggler
      34 jester
      34 je
+     34 init
      34 heather
      34 hardline
      34 hamlet
@@ -2255,8 +2263,6 @@
      34 banner
      34 ar
      34 anto
-     34 amelia
-     34 adminttd
      34 1502
      33 zhsglmanager
      33 yarn
@@ -2285,14 +2291,13 @@
      33 melanie
      33 mcserver
      33 mcedit
-     33 manage
      33 lynx
      33 logs
      33 kor
      33 killer
+     33 kermit
      33 joko
      33 janice
-     33 init
      33 indah
      33 ihlejoch
      33 gratis
@@ -2328,6 +2333,7 @@
      33 aikido
      33 adrienne
      33 admin123
+     33 acc
      33 654321
      32 zucal
      32 zhsgluser
@@ -2355,10 +2361,10 @@
      32 lib
      32 leave
      32 kozaki
-     32 kermit
      32 jj
      32 jani
      32 ivory
+     32 isp
      32 im
      32 ibmuser
      32 gabrielle
@@ -2387,19 +2393,20 @@
      32 allison
      32 adora
      32 adolfo
-     32 acc
      31 wwwuser
      31 wilma
      31 wget
-     31 wawan
      31 vivian
      31 vanessa
      31 tyler
      31 tracker
-     31 team
+     31 storwatch
      31 storm
      31 star
+     31 roni
+     31 rio
      31 right
+     31 readonly
      31 random
      31 pomelnic
      31 pcap
@@ -2407,6 +2414,7 @@
      31 orders
      31 nilesh
      31 NAU
+     31 mlusr
      31 MICRO
      31 manchester
      31 leticia
@@ -2416,7 +2424,6 @@
      31 joanna
      31 joana
      31 joan
-     31 isp
      31 herman
      31 hanna
      31 hallo
@@ -2439,17 +2446,18 @@
      30 VNC
      30 veronica
      30 vbnt
+     30 telecomadmin
      30 tamas
-     30 storwatch
      30 ss7
      30 sponsor
      30 sonny
      30 shashi
+     30 scout
      30 rwas
      30 rian
      30 restart
      30 rene
-     30 readonly
+     30 rcust
      30 randi
      30 rakuya
      30 power
@@ -2457,8 +2465,8 @@
      30 norman
      30 nn
      30 muhammad
-     30 mlusr
      30 mira
+     30 mediator
      30 ludovic
      30 lloyd
      30 ll
@@ -2473,6 +2481,7 @@
      30 indigo
      30 imapuser
      30 ilham
+     30 hscroot
      30 gray
      30 gina
      30 geo
@@ -2489,6 +2498,7 @@
      30 dongweiming
      30 darren
      30 dario
+     30 cust
      30 claudio
      30 clare
      30 chang
@@ -2513,17 +2523,15 @@
      29 vvip1
      29 tweety
      29 torrent
-     29 telecomadmin
      29 sylvia
      29 st
      29 sss
      29 spencer
      29 shannon
      29 sergio
-     29 scout
      29 rrojas
      29 rfuentes
-     29 rcust
+     29 readwrite
      29 ramon
      29 qazwsx
      29 pp
@@ -2537,14 +2545,12 @@
      29 monroe
      29 mini
      29 member
-     29 mediator
      29 lucy
      29 kristin
      29 jugend
      29 jet
      29 janet
      29 iresha
-     29 hscroot
      29 habib
      29 guestuser
      29 fengjiayi
@@ -2552,6 +2558,7 @@
      29 fanyong
      29 fangshikun
      29 evelyn
+     29 enquiry
      29 eng
      29 emilia
      29 displays
@@ -2559,7 +2566,6 @@
      29 darkman
      29 dank
      29 dale
-     29 cust
      29 cris
      29 courtney
      29 confixx
@@ -2567,9 +2573,11 @@
      29 chester
      29 chen
      29 cecil
+     29 cablecom
      29 brutus
      29 bridge
      29 bebe
+     29 bcms
      29 barry
      29 anders
      29 anda
@@ -2584,7 +2592,9 @@
      28 VTech
      28 ting
      28 techsupport
+     28 SYSADM
      28 super.super
+     28 studio
      28 stat
      28 start
      28 sorin
@@ -2592,11 +2602,8 @@
      28 shelton
      28 sercon
      28 saned
-     28 roni
      28 romeo
      28 roby
-     28 rio
-     28 readwrite
      28 rack
      28 oprah
      28 one
@@ -2624,7 +2631,6 @@
      28 ff
      28 fauzi
      28 ethan
-     28 enquiry
      28 emilio
      28 deskalt
      28 dddd
@@ -2632,9 +2638,8 @@
      28 CSG
      28 compact
      28 camille
-     28 cablecom
      28 board
-     28 bcms
+     28 bciim
      28 bbbb
      28 base
      28 bara
@@ -2650,6 +2655,7 @@
      27 wrestling
      27 willy
      27 wilkins
+     27 vodafone
      27 vlc
      27 utente
      27 upnt
@@ -2658,7 +2664,6 @@
      27 tiago
      27 tanaka
      27 takeuchi
-     27 SYSADM
      27 sphinx
      27 sk
      27 scp
@@ -2688,6 +2693,7 @@
      27 jsanchez
      27 jenni
      27 jefferson
+     27 iwan
      27 ispserver
      27 howard
      27 hitler
@@ -2706,9 +2712,10 @@
      27 collin
      27 cnred
      27 chandru
+     27 ccrusr
      27 cccc
      27 belinda
-     27 bciim
+     27 bcim
      27 batman
      27 bailey
      27 awstats
@@ -2737,7 +2744,6 @@
      26 williamson
      26 wanto
      26 vv
-     26 vodafone
      26 vaytta
      26 vasile
      26 updates
@@ -2807,9 +2813,7 @@
      26 devlin
      26 crond
      26 chiba
-     26 ccrusr
      26 belltrix
-     26 bcim
      26 bambang
      26 amir
      26 ajodeh
@@ -2829,6 +2833,7 @@
      26 adekoya
      26 adekoto
      26 adedejis
+     26 addon
      26 addicted
      26 abontemps
      26 abitur
@@ -2856,7 +2861,6 @@
      25 tiara
      25 tempuser
      25 suzan
-     25 studio
      25 sqoop
      25 sheldon
      25 repos
@@ -2932,7 +2936,6 @@
      25 alissa
      25 aino
      25 aimmktg
-     25 addon
      25 abuse
      25 aboruz
      25 abinnovative
@@ -2974,7 +2977,6 @@
      24 sauser
      24 saadmin
      24 rr
-     24   root
      24 RMUser1
      24 research
      24 rasika
@@ -3025,7 +3027,6 @@
      24 jiangsb
      24 jared
      24 iwata
-     24 iwan
      24 iwakiri
      24 ito
      24 inoue
@@ -3076,7 +3077,9 @@
      24 br
      24 birgit
      24 beginner
+     24 bcnas
      24 balanca
+     24 at4400
      24 astro
      24 armen
      24 areyes
@@ -3087,10 +3090,12 @@
      24 alaina
      24 akbar
      24 adolf
+     24 adfexc
      24 adamb
      24 Aberdeen
      24 1q2w3e
      23 zimbabwe
+     23 zena
      23 wu
      23 willow
      23 tsumura
@@ -3103,6 +3108,7 @@
      23 smc
      23 securityagent
      23 scorpion
+     23 rwa
      23 report
      23 rara
      23 rapport
@@ -3121,6 +3127,7 @@
      23 oli
      23 object
      23 nigger
+     23 netscreen
      23 naruto
      23 milan
      23 mcc
@@ -3150,35 +3157,35 @@
      23 frauke
      23 fabien
      23 elmo
+     23 elite
      23 duke
+     23 draytek
      23 dolores
-     23 disk
      23 cxibeccommha
      23 curt
+     23 corecess
+     23 cmaker
      23 clara
      23 carola
      23 britta
      23 britney
      23 beverly
      23 berlin
-     23 bcnas
      23 backups
      23 atlassian
-     23 at4400
      23 ashton
      23 arianne
      23 antony
      23 antje
      23 an
+     23 airlive
      23 agi
      23 africa
      23 adolph
      23 adidas
-     23 adfexc
      23 abu
      23 abdi
      22 zzz
-     22 zena
      22 ystest
      22 venom
      22 tez
@@ -3194,7 +3201,6 @@
      22 senaka
      22 science
      22 savannah
-     22 rwa
      22 rizky
      22 retsu
      22 ramesh
@@ -3210,9 +3216,9 @@
      22 notes2
      22 norton
      22 nfast
-     22 netscreen
      22 ncsnmpd
      22 nameserver
+     22 MD110
      22 matilda
      22 martinez
      22 lpadm
@@ -3250,22 +3256,21 @@
      22 eike
      22 dsadmin
      22 drew
-     22 draytek
      22 dorian
      22 divine
      22 dianne
      22 devilsins
      22 denk
-     22 corecess
      22 cool
      22 connor
      22 confluence
      22 colin
-     22 cmaker
      22 closas
      22 Clara
+     22 Cisco
      22 christel
      22 charlott
+     22 cd
      22 catharina
      22 carolin
      22 carlton
@@ -3284,7 +3289,6 @@
      22 alisha
      22 alfredo
      22 aldi
-     22 airlive
      22 adduser
      22 abril
      22 0000000
@@ -3320,11 +3324,13 @@
      21 pimg
      21 paradisse
      21 nora
+     21 netman
      21 netinfo
+     21 mtcl
      21 mortimer
      21 metallica
      21 mesut
-     21 MD110
+     21 MDaemon
      21 manuel
      21 Lynn
      21 lukman
@@ -3343,6 +3349,7 @@
      21 kobra
      21 justine
      21 irma
+     21 IntraStack
      21 inge
      21 in
      21 iceuser
@@ -3373,6 +3380,8 @@
      21 donovan
      21 doming
      21 dina
+     21 dhs3pms
+     21 dhs3mt
      21 devon
      21 devil
      21 debby
@@ -3380,7 +3389,6 @@
      21 cpanel24
      21 cody
      21 citra
-     21 Cisco
      21 chipmast
      21 chase
      21 chandler
@@ -3417,6 +3425,7 @@
      20 windowserver
      20 wanda
      20 vova
+     20 volition
      20 venus
      20 vdi
      20 user_1
@@ -3446,15 +3455,17 @@
      20 OOOOOO
      20 olivier
      20 ntran
-     20 netman
+     20 NETWORK
+     20 netrangr
+     20 netopia
      20 ness
      20 nate
-     20 mtcl
      20 mri
-     20 MDaemon
+     20 medion
      20 mariah
      20 marcela
      20 mani
+     20 maintainer
      20 magenta
      20 lxm
      20 lshora
@@ -3471,11 +3482,13 @@
      20 Jana
      20 jaideep
      20 inventory
-     20 IntraStack
+     20 IntraSwitch
      20 instrume
      20 index
+     20 iclock
      20 icecast
      20 hydra
+     20 hsa
      20 hiroki
      20 hiperg
      20 helga
@@ -3498,15 +3511,13 @@
      20 express
      20 exlm
      20 emanuel
-     20 elite
      20 eliane
      20 ec2
+     20 DTA
      20 dprugne
      20 donny
      20 display
      20 diskbook
-     20 dhs3pms
-     20 dhs3mt
      20 deutchland
      20 deutch
      20 daphne
@@ -3532,6 +3543,7 @@
      20 auto
      20 august
      20 arma
+     20 apoyo
      20 anggi
      20 am
      20 alma
@@ -3539,6 +3551,7 @@
      20 administrators
      20 ADMINISTRATOR
      20 achmad
+     20 3play
      19 zo
      19 zha
      19 zb
@@ -3551,8 +3564,8 @@
      19 webportal
      19 wd
      19 wanker
-     19 volition
      19 uzer
+     19 USERID
      19 user2004
      19 tss
      19 trial2
@@ -3566,10 +3579,12 @@
      19 stone
      19 starter
      19 srvhosting
+     19 SPOOLMAN
      19 specadm
      19 smile
      19 simbol
      19 silent
+     19 Service
      19 scot
      19 schoala
      19 sad
@@ -3590,20 +3605,18 @@
      19 peaches
      19 paris
      19 nur
-     19 NETWORK
-     19 netrangr
-     19 netopia
      19 nagios1
+     19 naadmin
      19 myra
      19 mwe
      19 mwamono
+     19 mtch
      19 mldonkey
      19 megamax
-     19 medion
      19 mdb
      19 maroon
      19 mariana
-     19 maintainer
+     19 manuf
      19 liza
      19 libb
      19 lia
@@ -3616,6 +3629,7 @@
      19 kaethe
      19 june
      19 jule
+     19 jpg
      19 joachim
      19 jo
      19 jking
@@ -3625,11 +3639,8 @@
      19 jarod
      19 janos
      19 jacques
-     19 IntraSwitch
      19 indiana
-     19 iclock
      19 icecast2
-     19 hsa
      19 hdd
      19 hayley
      19 harrypotter
@@ -3651,7 +3662,6 @@
      19 emech
      19 elmer
      19 effi
-     19 DTA
      19 doolph
      19 dns
      19 deviant
@@ -3662,8 +3672,10 @@
      19 danna
      19 danim
      19 dam
+     19 dadmin
      19 chucky
      19 chip
+     19 cellit
      19 catalin
      19 capell
      19 brunos
@@ -3680,16 +3692,19 @@
      19 adnan
      19 9
      19 8
-     19 3play
+     19 3comcso
      18 youbinliu
      18 www2
+     18 WP
      18 wow3
+     18 wlse
      18 whois
+     18 websecadm
+     18 vt100
      18 virtuoso
      18 violet
      18 vera
      18 val
-     18 USERID
      18 union
      18 tsoete
      18 tomcat4
@@ -3707,7 +3722,6 @@
      18 starbound
      18 sstelman
      18 sst
-     18 SPOOLMAN
      18 sozadmin
      18 smiley
      18 sll
@@ -3717,10 +3731,10 @@
      18 sin
      18 silvester
      18 shaistasadiq
-     18 Service
      18 selnaggar
      18 secret
      18 sae
+     18 rw
      18 run
      18 rodney
      18 rocco
@@ -3735,6 +3749,7 @@
      18 PFCUser
      18 penny
      18 peace
+     18 PBX
      18 pbarletta
      18 owen
      18 opmondb
@@ -3744,9 +3759,8 @@
      18 nike
      18 nightrio
      18 nicu
+     18 NICONEX
      18 natetrue
-     18 naadmin
-     18 mtch
      18 msebastian
      18 msakhoir
      18 mick
@@ -3757,7 +3771,6 @@
      18 mdom
      18 matthias
      18 mateo
-     18 manuf
      18 malcom
      18 maintenance
      18 lsmith
@@ -3771,6 +3784,7 @@
      18 leyla
      18 lex
      18 lbaragoin
+     18 l2
      18 kurt
      18 kucykowyts_backup
      18 klara
@@ -3826,8 +3840,8 @@
      18 dennison
      18 deisimar
      18 dbednar
+     18 davox
      18 danrents
-     18 dadmin
      18 cyp
      18 curtis
      18 csss
@@ -3839,9 +3853,9 @@
      18 claudiu
      18 Claudia
      18 ckuelker
+     18 citel
      18 christy
      18 christophe
-     18 cellit
      18 caine
      18 burt
      18 burrelli
@@ -3857,7 +3871,6 @@
      18 attack
      18 atir
      18 artist
-     18 apoyo
      18 antivirus
      18 amdsa
      18 amar
@@ -3868,16 +3881,13 @@
      18 aditza
      18 activemq
      18 abcdefg
-     18 3comcso
-     17 WP
-     17 wlse
+     18 266344
      17 wizard
      17 wish
      17 winston
-     17 websecadm
      17 weblogoc
      17 waterboy
-     17 vt100
+     17 voice
      17 vishnu
      17 vishal
      17 vikas
@@ -3902,7 +3912,7 @@
      17 santiago
      17 samson
      17 salvatore
-     17 rw
+     17 RSBCMON
      17 rogerio
      17 roel
      17 rendy
@@ -3916,7 +3926,6 @@
      17 picture
      17 phillip
      17 pentium
-     17 PBX
      17 pawel
      17 panda
      17 osman
@@ -3924,16 +3933,16 @@
      17 oracle12
      17 novi
      17 no
-     17 NICONEX
      17 nicki
      17 natural
      17 mei
      17 mata
      17 marci
+     17 m1122
      17 livechat
      17 lillian
      17 liane
-     17 l2
+     17 l3
      17 kirk
      17 kgpgadmin
      17 kerrie
@@ -3944,6 +3953,7 @@
      17 jason1
      17 iq
      17 ion
+     17 intermec
      17 ifconfig
      17 hui
      17 hosting
@@ -3951,6 +3961,7 @@
      17 haldaemon
      17 hades
      17 guestx
+     17 GlobalAdmin
      17 giselle
      17 gestion
      17 geeko
@@ -3962,15 +3973,15 @@
      17 esau
      17 emmy
      17 egami
+     17 e500
+     17 DSL
      17 dion
      17 deme
-     17 davox
      17 cyndi
      17 cv
      17 cora
      17 color
      17 cole
-     17 citel
      17 chouji
      17 cent
      17 car
@@ -3986,15 +3997,18 @@
      17 appadmin
      17 aniko
      17 anastasia
+     17 Alphanetworks
      17 allotest
      17 agota
+     17 adminview
+     17 adminuser
      17 acumen
-     17 266344
      17 10
      16 zsofi
      16 yellow
      16 yamaguchi
      16 wyatt
+     16 wlseuser
      16 wildfly
      16 wendy
      16 webmaste
@@ -4008,9 +4022,13 @@
      16 ts3admin
      16 transfar
      16 today
+     16 tmadmin
      16 teddy
+     16 SYSDBA
      16 sys_admin
      16 Sweex
+     16 suport
+     16 SUPERUSER
      16 sting
      16 sport
      16 sound
@@ -4019,7 +4037,6 @@
      16 server-admin
      16 semenov
      16 sanjose
-     16 RSBCMON
      16 roxana
      16 rosario
      16 ros
@@ -4059,9 +4076,9 @@
      16 miki
      16 mike1
      16 mich
-     16 m1122
      16 lukas
      16 lucie
+     16 LUCENT01
      16 lou
      16 loan
      16 lion
@@ -4069,7 +4086,6 @@
      16 lewis
      16 leona
      16 lenox
-     16 l3
      16 kristy
      16 ko
      16 kjayroe
@@ -4080,7 +4096,6 @@
      16 jaime
      16 italy
      16 ip
-     16 intermec
      16 info2
      16 huy
      16 hung
@@ -4092,7 +4107,7 @@
      16 Guest
      16 group
      16 gregg
-     16 GlobalAdmin
+     16 Gearguy
      16 ge
      16 gautam
      16 gaurav
@@ -4100,16 +4115,17 @@
      16 forevermd
      16 force
      16 fina
+     16 Factory
      16 england
      16 elliott
      16 educational
-     16 e500
-     16 DSL
+     16 e250
      16 dona
      16 dobson
      16 dobry
      16 dns-admin
      16 dixie
+     16 disttech
      16 ddowns
      16 daryl
      16 danang
@@ -4123,6 +4139,7 @@
      16 carter
      16 card
      16 camellia
+     16 cac_admin
      16 bugzilla
      16 buck
      16 blake
@@ -4134,15 +4151,12 @@
      16 amendoza
      16 amane
      16 amal
-     16 Alphanetworks
      16 aliz
      16 alexia
      16 akira
      16 agoston
      16 advice
      16 adorjan
-     16 adminview
-     16 adminuser
      16 adel
      16 adabas
      16 active
@@ -4175,10 +4189,10 @@
      15 yangxiaoshan
      15 xuran
      15 xukaibin
+     15 xrock
      15 xiaolihu
      15 wujiaxiang
      15 wradmin
-     15 wlseuser
      15 wiesloch
      15 wieders
      15 weboperator
@@ -4199,6 +4213,7 @@
      15 vince
      15 vendas
      15 velma
+     15 vcr
      15 vava
      15 valdir
      15 vaibhav
@@ -4215,7 +4230,6 @@
      15 trabant
      15 tokend
      15 toby
-     15 tmadmin
      15 tj
      15 tits
      15 tiny
@@ -4223,13 +4237,11 @@
      15 tele
      15 teamspeak3-user
      15 teadfast
-     15 SYSDBA
      15 sydney
-     15 suport
-     15 SUPERUSER
      15 student4
      15 stevena
      15 stacy
+     15 spcl
      15 soutec
      15 snort
      15 slow
@@ -4307,7 +4319,6 @@
      15 magazine
      15 mack
      15 luojing
-     15 LUCENT01
      15 lubos
      15 loveme
      15 lori
@@ -4330,6 +4341,7 @@
      15 jen
      15 jeanne
      15 jeanette
+     15 JDE
      15 jayaprakash
      15 jaskirat
      15 ivo
@@ -4361,7 +4373,6 @@
      15 Giani
      15 georgina
      15 genius
-     15 Gearguy
      15 gates
      15 garcia
      15 galdev1
@@ -4373,19 +4384,16 @@
      15 forget
      15 forest
      15 fong
-     15 Factory
      15 eppc
      15 engmode
      15 endeca
      15 ekaterina
      15 edition
-     15 e250
      15 duankefeng
      15 dr25429
      15 dorothea
      15 dorin
      15 dnscache
-     15 disttech
      15 digster
      15 diaconusanduboris
      15 developoer
@@ -4394,6 +4402,7 @@
      15 delpro
      15 dell
      15 december
+     15 d.e.b.u.g
      15 dc
      15 dawn
      15 davids
@@ -4414,17 +4423,18 @@
      15 chenxi
      15 chengtianyuan
      15 chendongpo
+     15 cgadmin
      15 cartas
      15 carta
      15 carson
      15 carmella
      15 cang
      15 camelia
-     15 cac_admin
      15 bonnie
      15 bobyn
      15 bernat
      15 becker
+     15 bbsd-client
      15 basil
      15 bangkit
      15 balint
@@ -4446,6 +4456,7 @@
      15 akulina
      15 ajit.gadge
      15 adrienn
+     15 adminstat
      15 adminpldt
      15 (administrator)
      15 administrateur
@@ -4472,8 +4483,6 @@
      14 whitecanyon
      14 water
      14 warren
-     14 voice
-     14 vcr
      14 uuidd
      14 ursula
      14 uptime
@@ -4501,7 +4510,6 @@
      14 SSA
      14 srikanth
      14 splunk
-     14 spcl
      14 sorinel
      14 sori
      14 sometimes
@@ -4534,6 +4542,7 @@
      14 program
      14 prince
      14 porsche
+     14 pinki
      14 percy
      14 pentium3
      14 pentium2
@@ -4586,7 +4595,6 @@
      14 jmartin
      14 jepri
      14 jedy
-     14 JDE
      14 itsenter
      14 itcenter
      14 iscan
@@ -4633,7 +4641,6 @@
      14 demouser
      14 demo1
      14 deep
-     14 d.e.b.u.g
      14 deathrun
      14 ddubois
      14 dcc
@@ -4659,14 +4666,12 @@
      14 chrissie
      14 chocolate
      14 check
-     14 cgadmin
      14 central
      14 celia
      14 caoyixi
      14 burn
      14 brazil
      14 bouncer
-     14 bbsd-client
      14 bautista
      14 baseball
      14 bandi
@@ -4686,7 +4691,6 @@
      14 alfresco
      14 aldy
      14 aki
-     14 adminstat
      14 administration
      14 aberto
      14 55555
@@ -4776,7 +4780,6 @@
      13 primaveras
      13 pressy
      13 pm
-     13 pinki
      13 pentriumII
      13 pentiumIV
      13 pentium4
@@ -4858,6 +4861,7 @@
      13 hawaii
      13 hana
      13 gyongyi
+     13 gweinyddol
      13 guy.watson
      13 greenstonefcs
      13 godmode
@@ -4921,7 +4925,6 @@
      13 christof
      13 ching
      13 chenyu
-     13 cd
      13 catty
      13 carsten
      13 carey
@@ -4987,7 +4990,6 @@
      12 zvfx
      12 zhaowei
      12 zebra
-     12 xrock
      12 xlon
      12 wordpress1
      12 wnpn
@@ -5252,7 +5254,6 @@
      12 haruki
      12 harriet
      12 gzhao
-     12 gweinyddol
      12 guard
      12 gosc
      12 golfer
@@ -5286,6 +5287,7 @@
      12 fary
      12 fanni
      12 famins
+     12 fahmi
      12 export
      12 exclusive_table
      12 eustaces
@@ -5367,6 +5369,7 @@
      12 ashutosh
      12 asd1234
      12 ART
+     12 ardy
      12 ardian
      12 ARCHIVIST
      12 arbeit
@@ -5379,6 +5382,7 @@
      12 anson
      12 anges
      12 anasztaz
+     12 amin
      12 america
      12 ambrus
      12 alyson
@@ -5437,6 +5441,9 @@
      11 user123
      11 ubuntut
      11 tylor
+     11 txhawb
+     11 tuki
+     11 toetada
      11 theodora
      11 thanks
      11 testpc
@@ -5450,6 +5457,7 @@
      11 svn-user
      11 svn_user
      11 surendra
+     11 supporto
      11 superstar
      11 supermbox
      11 steamuser
@@ -5475,16 +5483,19 @@
      11 rnerkar
      11 risky
      11 rini
+     11 ridwan
      11 rico
      11 rh
      11 rd
      11 ramona
      11 raka
+     11 Qutlh
      11 qsysopr
      11 PruncuTz
      11 protocol
      11 programs
      11 processor
+     11 podpora
      11 plcm
      11 playboy
      11 pkromolowski
@@ -5647,6 +5658,7 @@
      11 easter
      11 earleen
      11 dusan
+     11 dukungan
      11 duci
      11 drivers
      11 dot
@@ -5727,7 +5739,6 @@
      11 ani
      11 anett
      11 anang
-     11 amin
      11 amadeus
      11 alfa
      11 aix
@@ -5791,15 +5802,12 @@
      10 usui
      10 usb
      10 url
-     10 txhawb
      10 tuningar
-     10 tuki
      10 ts3prueba
      10 trifacta
      10 trial3
      10 tracie
      10 tomcat1
-     10 toetada
      10 thom
      10 test04
      10 system32
@@ -5807,11 +5815,11 @@
      10 sw-cp-server
      10 svn_root
      10 susie
-     10 supporto
      10 sunshine
      10 suman
      10 stratacom
      10 sri
+     10 sokongan
      10 smitty
      10 skyrix
      10 sipkiss
@@ -5834,7 +5842,6 @@
      10 raffi
      10 radmin
      10 radius
-     10 Qutlh
      10 qtonpi
      10 q1w2e3r4
      10 praktikant
@@ -5852,7 +5859,6 @@
      10 postgres12
      10 postgres11
      10 postgres10
-     10 podpora
      10 PlcmSpIp1
      10 pkaranjit
      10 pixel
@@ -5862,11 +5868,13 @@
      10 patsy
      10 password123
      10 passw0rd
+     10 parama
      10 page
      10 oswald
      10 osmc
      10 oshima
      10 organize1
+     10 ondersteuning
      10 omc
      10 okmnji
      10 october
@@ -5932,7 +5940,6 @@
      10 jucelino
      10 jsmith
      10 jr
-     10 jpg
      10 jozsua
      10 jozsi
      10 joska
@@ -6044,7 +6051,6 @@
      10 earnest
      10 ea
      10 dunyasha
-     10 dukungan
      10 dudley
      10 duck
      10 dorine
@@ -6056,6 +6062,7 @@
      10 Debian-exim
      10 db4web
      10 dante
+     10 cymorth
      10 cybernetic
      10 cy
      10 csserver3
@@ -6093,6 +6100,7 @@
      10 baldwin
      10 axel69
      10 atlantic
+     10 atbalsts
      10 asmith
      10 asha
      10 asai
@@ -6155,7 +6163,6 @@
       9 stevan
       9 ssl
       9 south
-      9 sokongan
       9 siesa1
       9 sidik
       9 shit2
@@ -6203,12 +6210,10 @@
       9 pengbo
       9 pegasus
       9 pawel1
-      9 parama
       9 paolo
       9 pace
       9 oz
       9 osbourne
-      9 ondersteuning
       9 odin
       9 octav
       9 ntpd
@@ -6393,7 +6398,6 @@
       9 farkas
       9 fane
       9 faina
-      9 fahmi
       9 fabianus
       9 extension
       9 explorer
@@ -6458,7 +6462,6 @@
       9 dalma
       9 dadang
       9 dabestmouse
-      9 cymorth
       9 cyd
       9 cvornel
       9 csongor
@@ -6553,11 +6556,9 @@
       9 aur
       9 aulia
       9 auguszta
-      9 atbalsts
       9 ashlee
       9 arpi
       9 arkos
-      9 ardy
       9 aprod
       9 apor
       9 apollonia
@@ -6568,6 +6569,7 @@
       9 anan
       9 ama
       9 aletta
+      9 aldo
       9 alberta
       9 alajos
       9 akia
@@ -6818,7 +6820,6 @@
       8 rizqi
       8 rina
       8 rightscale
-      8 ridwan
       8 ria
       8 reynold
       8 resume
@@ -7210,7 +7211,6 @@
       8 aliens
       8 alien
       8 alexius
-      8 aldo
       8 ajoint
       8 ageps
       8 adrianne
@@ -7566,6 +7566,7 @@
       7 hlstats
       7 hero
       7 hendri
+      7 helmi
       7 hcallahan
       7 gyuri
       7 guest5
@@ -8114,6 +8115,7 @@
       6 rey
       6 revista
       6 request
+      6 reno
       6 regula
       6 rege
       6 red5
@@ -8677,6 +8679,7 @@
       6 andreyd
       6 andrey
       6 andrade
+      6 andik
       6 anatol
       6 ami
       6 amberly
@@ -9214,6 +9217,7 @@
       5 nevasta
       5 neu
       5 netbsd
+      5 NET
       5 nerd
       5 neamt
       5 natty
@@ -9310,6 +9314,7 @@
       5 lenormand
       5 lenoir
       5 lemancaf_leman
+      5 lele
       5 legal1
       5 leandro
       5 lcfadmin
@@ -9397,6 +9402,7 @@
       5 itak
       5 ismu
       5 iQ
+      5 INTERNET
       5 interior
       5 infomax
       5 indonesia
@@ -9613,6 +9619,7 @@
       5 cpinto
       5 cpd
       5 covarrubias
+      5 counter
       5 counsel
       5 costin
       5 costi
@@ -9702,6 +9709,7 @@
       5 cafea
       5 cade
       5 cabrera
+      5 byte2
       5 bwiley
       5 bwayne
       5 button
@@ -10294,6 +10302,7 @@
       4 ZTE_S
       4 ZTE_R
       4 zodiac
+      4 zanussi
       4 zanacampbell
       4 zafin
       4 zabix
@@ -10771,6 +10780,7 @@
       4 push
       4 purna
       4 purchase
+      4 puput
       4 punkin
       4 puma
       4 pulirajub
@@ -10963,6 +10973,7 @@
       4 mimi
       4 mikel
       4 miftah
+      4 micros
       4 Michelly
       4 michael1
       4 mhaidara
@@ -11166,7 +11177,6 @@
       4 heslopk
       4 heroine
       4 helmut
-      4 helmi
       4 hebin
       4 heart
       4 hbala
@@ -11237,6 +11247,7 @@
       4 gattani
       4 gatinhajulygirl
       4 garudamet
+      4 galih
       4 galen
       4 gagandeep
       4 gagan
@@ -11396,7 +11407,6 @@
       4 cquitral
       4 cquinde
       4 cp
-      4 counter
       4 cosmin
       4 corrine
       4 consuelo
@@ -13276,6 +13286,7 @@
       3 zenix
       3 zaphod
       3 zanni
+      3 zaky
       3 zakhar
       3 zak
       3 zagreb
@@ -13917,7 +13928,6 @@
       3 rgairola
       3 resti
       3 reset
-      3 reno
       3 renji
       3 renggo
       3 rene-alain
@@ -13958,6 +13968,7 @@
       3 ramenvjnu
       3 ramchand
       3 rambo
+      3 ramana
       3 ramaganugapati
       3 raku
       3 rakeshsac
@@ -14202,7 +14213,6 @@
       3 mil
       3 mikaela
       3 midnite
-      3 micros
       3 michie
       3 mice
       3 messia
@@ -14246,6 +14256,7 @@
       3 marbet
       3 mansarovar
       3 manon
+      3 manoj
       3 manikiam
       3 mango
       3 manas
@@ -14588,7 +14599,6 @@
       3 gandi
       3 gambler
       3 gama
-      3 galih
       3 gaina
       3 gagah
       3 gaetan
@@ -15070,7 +15080,6 @@
       3 andreg
       3 Andre
       3 andin
-      3 andik
       3 anchor
       3 anastasie
       3 anandan
@@ -15636,6 +15645,10 @@
       3 54.172.142.37
       3 54.172.142.36
       3 54.172.142.26
+      3 54.172.142.212
+      3 54.172.142.203
+      3 54.172.142.162
+      3 54.172.142.159
       3 54.172.142.158
       3 54.172.142.141
       3 54.172.142.14
@@ -15667,7 +15680,15 @@
       3 54.172.108.166
       3 54.172.108.155
       3 54.172.108.150
+      3 54.171.73.92
+      3 54.171.73.64
+      3 54.171.73.59
+      3 54.171.73.44
+      3 54.171.73.13
+      3 54.171.73.12
       3 54.171.72.81
+      3 54.171.72.240
+      3 54.171.72.232
       3 54.171.72.219
       3 54.171.72.208
       3 54.171.72.200
@@ -16173,10 +16194,16 @@
       3 104.237.16.27
       3 104.237.16.22
       3 104.237.16.21
+      3 104.237.16.205
+      3 104.237.16.204
+      3 104.237.16.201
       3 104.237.16.198
       3 104.237.16.195
+      3 104.237.16.194
       3 104.237.16.191
       3 104.237.16.19
+      3 104.237.16.184
+      3 104.237.16.182
       3 104.237.16.18
       3 104.237.16.179
       3 104.237.16.175
@@ -16337,7 +16364,6 @@
       2 zaqwsx
       2 zappa
       2 zapata
-      2 zanussi
       2 zandra
       2 zandi
       2 zan
@@ -17616,7 +17642,6 @@
       2 ramla
       2 ramez
       2 ramdan
-      2 ramana
       2 raluka
       2 raluk
       2 ralmn
@@ -18034,7 +18059,6 @@
       2 netsplit
       2 netherlands
       2 netas
-      2 NET
       2 nessy
       2 nesicz
       2 nerissa
@@ -18407,7 +18431,6 @@
       2 mantra
       2 manowar
       2 manojkumar
-      2 manoj
       2 manoela
       2 manoa
       2 manjit
@@ -18623,7 +18646,6 @@
       2 lemuel
       2 lemons
       2 leloo
-      2 lele
       2 leil
       2 leia
       2 legio
@@ -19115,7 +19137,6 @@
       2 iorgad
       2 intruder
       2 intro04
-      2 INTERNET
       2 intekhab
       2 integra
       2 insvis
@@ -20422,7 +20443,6 @@
       2 C0nn3ct!5
       2 bz
       2 byteme
-      2 byte2
       2 byron
       2 bwalker
       2 bvworks
@@ -21848,12 +21868,14 @@
       2 104.239.138.81
       2 104.239.138.40
       2 104.238.176.204
+      2 104.237.50.30
+      2 104.237.50.2
       2 104.237.195.90
       2 104.237.195.87
       2 104.237.195.70
       2 104.237.195.42
       2 104.237.16.8
-      2 104.237.16.184
+      2 104.237.16.193
       2 104.237.16.162
       2 104.237.16.131
       2 104.237.132.14
@@ -21942,6 +21964,7 @@
       1 zoel
       1 zmuie123
       1 zms917!@#
+      1 zmail
       1 zitus123
       1 zitus
       1 zita123
@@ -24592,7 +24615,6 @@
       1 purdue
       1 purbawasesa
       1 puran
-      1 puput
       1 puppy123
       1 puppies
       1 pupil1
@@ -33268,6 +33290,7 @@
       1 another2004
       1 another123
       1 anosike
+      1 anoop
       1 anonymou
       1 anon2008
       1 anon2007
@@ -33859,6 +33882,7 @@
       1 adnoc
       1 admurbr
       1 adminj
+      1 administator
       1 adminbb
       1 Admin4YH!@#$
       1 admin22008
