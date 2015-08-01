@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: July 31, 2015  
-Total attacks today: 6625  
-Attempted Malware Downloads: 27 
+Total attacks today: 15930  
+Attempted Malware Downloads: 81 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1618 113.195.145.79
+   1587 45.114.11.24
    1570 61.153.110.123
+   1004 222.186.21.95
+    816 59.63.188.31
     690 211.43.207.74
+    682 161.53.167.94
     519 110.93.224.68
-    323 119.80.61.7
-    317 222.186.21.95
-    263 161.53.167.94
-    213 45.114.11.28
-    204 218.87.111.117
-    177 49.213.20.104
-    156 218.87.111.108
+    435 45.114.11.23
+    398 219.139.240.231
 ```
 
 #### Attempted URL Downloads
@@ -35,55 +35,64 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://103.20.195.254/
 http://122.10.85.54/
+http://183.250.83.132:8989/S24100
 http://192.3.207.242/bin.sh
+http://198.23.211.2/crab.sh
 http://43.255.188.2/
 http://43.255.188.2/g.rar
+http://cachefly.cachefly.net/100mb.test
+http://djsony.ucoz.com/ssd.jpg
+http://djsony.ucoz.com/ssh.tar.gz
+http://download.microsoft.com/download/win2000platform/SP/SP3/NT5/EN-US/W2Ksp3.exe
+http://soft.hackrz.org/bnc/psy-linux.tgz
+http://soft.hackrz.org/flood/udp.tgz
+http://thegov.eu/speedtest-cli.py
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    581 root
-    178 admin
-     63 
-     37 123456
-     33 default
-     30 ubnt
-     25 1234
-     24 12345
-     22 letmein
-     22 12345678
-     21 administrator
-     21 123456789
-     21 123
-     20 password
-     19 1
-     18 test
-     15 changeme
-     14 user
-     14 cisco
-     14 0
-     13 raspberry
-     13 qwerty
-     13 admin123
-     12 system
-     12 superuser
+   5375 root
+    335 admin
+    149 
+    106 password
+     96 guest
+     96 123456
+     84 default
+     83 ubnt
+     70 test
+     63 qwerty
+     56 user
+     56 support
+     56 PlcmSpIp
+     50 adm
+     49 raspberry
+     49 12345
+     47 1qaz2wsx
+     45 backup
+     41 1234
+     37 uucp
+     37 ftpuser
+     37 anon
+     35 public
+     34 123
+     33 sysadm
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   5201 root
-    841 admin
-     31 ubnt
+  12412 root
+   1029 admin
+    100 guest
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1963 SSH-2.0-libssh-0.2
-   1623 SSH-2.0-libssh-0.5.2
-    642 SSH-2.0-libssh-0.1
-    487 SSH-2.0-libssh2_1.4.3
-    292 SSH-2.0-PUTTY
+   2659 SSH-2.0-libssh-0.1
+   2044 SSH-2.0-PUTTY
+   2011 SSH-2.0-libssh-0.5.2
+   1990 SSH-2.0-libssh-0.2
+    824 SSH-2.0-libssh2_1.4.3
 ```
