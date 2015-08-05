@@ -12,75 +12,79 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 04, 2015  
-Total attacks today: 7318  
-Attempted Malware Downloads: 4 
+Total attacks today: 13616  
+Attempted Malware Downloads: 16 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1610 91.240.38.8
    1125 122.204.139.210
+   1122 45.114.11.34
    1065 218.87.111.108
     977 59.47.0.152
     756 113.195.145.70
+    537 45.114.11.29
+    428 222.186.56.97
+    411 45.114.11.25
     306 59.63.188.31
-    285 74.208.70.16
-    210 45.114.11.52
-    202 218.65.30.61
-    142 119.206.193.143
-    141 203.153.39.152
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
 http://114.113.229.113:8080/VL.pl\\\
+http://122.10.85.54/
 http://222.186.58.133:8023/avslm\\\
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2087 root
-    156 admin
-    124 
-     68 ubnt
-     64 guest
-     52 support
-     51 user
-     51 default
-     48 test
-     42 12345
-     41 PlcmSpIp
-     35 password
-     33 raspberry
-     32 123456
-     28 adm
-     26 public
-     23 anonymous
-     23 anon
-     22 uucp
-     22 testuser
-     22 ftpuser
-     22 backup
-     21 1234
-     20 sysadm
-     19 123
+   4776 root
+    251 admin
+    159 
+    133 password
+    132 123456
+    109 ubnt
+    107 guest
+     96 default
+     86 user
+     84 111111
+     82 qwerty
+     82 1234567
+     80 1qaz2wsx
+     80 123qwe
+     78 test
+     78 1q2w3e4r
+     76 support
+     75 123123
+     74 121212
+     73 112233
+     72 321321
+     71 zaq1@WSX
+     71 zaq12wsx
+     71 PlcmSpIp
+     71 Passw0rd
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4787 root
-    237 admin
-     77 user
+   8595 root
+    422 admin
+    145 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2020 SSH-2.0-libssh-0.1
-   1296 SSH-2.0-PUTTY
-    500 SSH-2.0-libssh-0.5.2
-    161 SSH-2.0-JSCH-0.1.51
-     90 SSH-2.0-libssh2_1.6.0
+   4392 SSH-2.0-libssh-0.1
+   2153 SSH-2.0-PUTTY
+    972 SSH-2.0-libssh-0.5.2
+    195 SSH-2.0-JSCH-0.1.51
+    180 SSH-2.0-libssh2_1.4.3
 ```
