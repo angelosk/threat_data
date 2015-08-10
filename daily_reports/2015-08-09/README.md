@@ -12,73 +12,77 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 09, 2015  
-Total attacks today: 1703  
-Attempted Malware Downloads: 0 
+Total attacks today: 7210  
+Attempted Malware Downloads: 36 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1594 61.160.215.250
+    728 204.126.80.110
+    412 104.239.164.76
+    360 218.87.111.107
+    212 204.124.183.100
+    208 106.243.125.195
+    190 137.175.50.200
+    183 218.87.111.117
     177 5.196.166.113
     157 208.69.31.116
-    128 193.107.16.206
-    125 104.239.164.76
-    101 218.65.30.38
-     99 182.100.67.4
-     94 61.139.5.22
-     66 204.124.183.100
-     65 106.243.125.195
-     51 45.114.11.39
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    342 root
-     73 admin
-     37 ubnt
-     32 guest
-     30 default
-     28 usuario
-     28 support
-     24 test
-     23 postgres
-     20 user
-     18 raspberry
-     17 
-     16 public
-     16 ftpuser
-     15 testuser
-     15 sales
-     14 uucp
-     14 sysadm
-     14 PlcmSpIp
-     14 ftp
-     14 anonymous
-     13 backup
-     13 anon
-     11 123456
-      9 password
+   1087 root
+    177 admin
+     99 ubnt
+     94 gateway
+     84 guest
+     80 default
+     71 test
+     69 raspberry
+     65 support
+     59 user
+     56 
+     37 ftpuser
+     35 testuser
+     35 public
+     34 PlcmSpIp
+     34 anonymous
+     33 uucp
+     33 sysadm
+     33 ftp
+     32 backup
+     32 anon
+     30 usuario
+     30 tester
+     29 postgres
+     28 teste
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    824 root
-     81 admin
-     38 ubnt
+   3913 root
+    215 admin
+    162 oracle
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    686 SSH-2.0-libssh-0.2
-    682 SSH-2.0-libssh-0.1
-    180 SSH-2.0-libssh-0.5.2
-    102 SSH-2.0-PUTTY
-     67 SSH-2.0-libssh2_1.6.0
+   1814 SSH-2.0-libssh-0.1
+   1711 SSH-2.0-libssh-0.2
+    443 SSH-2.0-PUTTY
+    368 SSH-2.0-libssh-0.11
+    352 SSH-2.0-JSCH-0.1.51
 ```
