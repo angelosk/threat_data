@@ -12,74 +12,79 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 11, 2015  
-Total attacks today: 4769  
-Attempted Malware Downloads: 1 
+Total attacks today: 12376  
+Attempted Malware Downloads: 53 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1139 23.234.224.118
    1135 104.200.78.6
+    990 173.254.230.58
+    810 36.74.176.37
+    603 59.47.0.150
     571 104.200.78.15
-    569 23.234.224.118
+    568 91.224.13.104
     497 45.114.11.52
-    415 113.195.145.80
-    326 69.168.184.210
-    243 45.114.11.35
-    159 113.195.145.79
-    132 218.87.109.62
-    112 45.114.11.31
+    470 218.24.113.2
+    459 218.87.111.107
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
 http://192.3.207.242/bin.sh
+http://43.255.188.2/
+http://43.255.188.2/g.rar
+http://69.50.194.84/mx3\\\
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    981 root
-    571 gateway
-     34 admin
+   3664 root
+    855 gateway
+    118 admin
+     91 vagrant
+     87 
+     81 ubnt
+     74 123456
+     58 alpine
+     55 vyatta
+     51 xbmc
+     49 kodi
+     47 toor
+     46 tecmint
+     45 raspberry
+     43 pfsense
+     42 openelec
+     41 ts3srv
+     39 synopass
+     32 test
+     31 password
      29 r3mixdrama
-     22 123456
-     19 ubnt
-     17 vagrant
-     14 password
-     12 vyatta
-     12 alpine
-     10 xbmc
-     10 !#%&
-     10 !@#$%^&*
-     10 !
-      9 toor
-      9 pfsense
-      9 kodi
-      9 !@#$%^&*()_+
-      9 !@#$%^&*()
-      9 !@#$%^&*(
-      8 ssh
-      8 raspberry
-      8 !@#$qwer1234
-      8 openelec
-      8 administrator
+     29 bara
+     29 ahmad
+     29 agung
+     28 yahya
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3057 root
-    571 gateway
-    283 c1893-29294
+   8136 root
+    855 gateway
+    286 voip2
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2883 SSH-2.0-libssh-0.1
-    570 SSH-2.0-PUTTY
-     58 SSH-2.0-libssh-0.5.2
-     54 SSH-2.0-libssh-0.2
-     34 SSH-2.0-libssh2_1.6.0
+   5427 SSH-2.0-libssh-0.1
+   1175 SSH-2.0-PUTTY
+    356 SSH-2.0-JSCH-0.1.51
+    349 SSH-2.0-libssh-0.5.2
+    257 SSH-2.0-libssh2_1.4.3
 ```
