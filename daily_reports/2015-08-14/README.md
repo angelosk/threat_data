@@ -12,73 +12,77 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 14, 2015  
-Total attacks today: 3812  
-Attempted Malware Downloads: 0 
+Total attacks today: 9783  
+Attempted Malware Downloads: 68 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   2198 173.254.230.58
    1060 222.186.21.71
+    491 45.114.11.26
     475 167.88.45.63
+    432 194.45.152.20
     429 218.87.111.108
-    226 194.45.152.20
-    177 218.87.111.117
-    134 61.160.247.34
-    124 208.109.118.5
-     99 45.114.11.40
-     93 218.65.30.217
-     64 89.237.137.169
+    350 218.6.168.220
+    308 61.95.144.50
+    270 218.65.30.38
+    269 201.150.36.225
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    502 root
-     56 admin
-     40 vagrant
-     40 ubnt
-     27 raspberry
-     26 vyatta
-     25 123456
-     23 pfsense
-     22 alpine
-     21 xbmc
-     21 tecmint
-     21 kodi
-     20 toor
+   2353 root
+    200 admin
+    102 vagrant
+     90 ubnt
+     65 vyatta
+     60 raspberry
+     60 alpine
+     56 xbmc
+     55 tecmint
+     55 kodi
+     53 pfsense
+     51 toor
+     50 openelec
+     48 
+     47 ts3srv
+     45 synopass
+     44 123456
+     34 12345
+     28 password
+     28 default
+     23 test
+     21 1234
+     20 support
      20 r3mixdrama
-     19 ts3srv
-     19 openelec
-     18 synopass
-     17 default
-     16 support
-     14 12345
-     13 
-     11 ts3
-     11 1234
-     10 teamspeak
-     10 password
+     18 ts3
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2899 root
-     94 admin
-     41 ubnt
+   7161 root
+    259 admin
+     89 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1053 SSH-2.0-libssh-0.1
-    373 SSH-2.0-libssh2_1.4.3
-    313 SSH-2.0-PUTTY
-    207 SSH-2.0-libssh2_1.4.1
-     46 SSH-2.0-libssh2_1.6.0
+   2113 SSH-2.0-libssh-0.1
+    834 SSH-2.0-libssh2_1.4.3
+    802 SSH-2.0-libssh2_1.4.1
+    687 SSH-2.0-PUTTY
+    316 SSH-2.0-libssh-0.5.2
 ```
