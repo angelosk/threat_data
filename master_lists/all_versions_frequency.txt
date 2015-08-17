@@ -1,20 +1,20 @@
-10917116 SSH-2.0-PUTTY
-1033483 SSH-2.0-libssh-0.1
+10917779 SSH-2.0-PUTTY
+1033718 SSH-2.0-libssh-0.1
  211582 SSH-2.0-libssh-0.2
- 152267 SSH-2.0-libssh2_1.4.3
- 126995 SSH-2.0-libssh2_1.4.1
+ 152272 SSH-2.0-libssh2_1.4.3
+ 127027 SSH-2.0-libssh2_1.4.1
  109049 SSH-2.0-libssh-0.5.2
   99080 SSH-2.0-libssh2_1.4.2
   54425 SSH-2.0-libssh-0.6.3
-  27140 SSH-2.0-PuTTY_Release_0.63
-  22716 SSH-2.0-JSCH-0.1.51
-  18275 SSH-2.0-libssh-0.4.6
+  27158 SSH-2.0-PuTTY_Release_0.63
+  23555 SSH-2.0-JSCH-0.1.51
+  18279 SSH-2.0-libssh-0.4.6
   13273 SSH-2.0-OpenSSH_4.3
    9870 SSH-2.0-libssh-0.11
    6044 SSH-2.0-PuTTY_Release_0.63cn
    5932 SSH-2.0-Granados-1.0
-   5917 SSH-2.0-libssh-0.6.0
-   3547 SSH-2.0-libssh2_1.6.0
+   5920 SSH-2.0-libssh-0.6.0
+   3582 SSH-2.0-libssh2_1.6.0
    2767 SSH-2.0-1.91
    2101 SSH-2.0-PuTTY_Release_0.63cn3
    2024 SSH-2.0-libssh2_1.0
@@ -27,7 +27,7 @@
     735 SSH-2.0-paramiko_1.13.0
     658 SSH-2.0-libssh-0.5.5
     638 SSH-2.0-OpenSSH-keyscan
-    514 SSH-2.0-libssh2_1.4.4_DEV
+    518 SSH-2.0-libssh2_1.4.4_DEV
     513 SSH-2.0-libssh-0.7.0
     467 SSH-2.0-Client
     462 SSH-2.0-libssh2_1.4.0
@@ -40,16 +40,16 @@
     367 SSH-2.0-vngx-jsch-0.9-1.44
     348 SSH-2.0-MEDUSA_1.0
     327 SSH-2.0-phpseclib_0.3
-    300 SSH-2.0-paramiko_1.15.1
+    301 SSH-2.0-paramiko_1.15.1
     266 SSH-2.0-paramiko_1.7.5
     265 SSH-2.0-paramiko_1.15.2
     264 SSH-2.0-OpenSSH_5.5p1
     262 SSH-2.0-PuTTY-Local:
-    259 SSH-2.0-paramiko_1.14.0
+    260 SSH-2.0-paramiko_1.14.0
     243 SSH-2.0-OpenSSH_6.6.1p1
     233 SSH-2.0-JSCH-0.1.44
     192 SSH-2.0-PuTTY_Local:_Dec_23_2014_22:02:49
-    181 SSH-2.0-OpenSSH_6.0p1
+    182 SSH-2.0-OpenSSH_6.0p1
     169 SSH-2.0-JSCH-0.1.48
     167 SSH-2.0-OpenSSH_6.2
     160 SSH-2.0-PuTTY_Snapshot_2015_05_03.6b30316
@@ -165,6 +165,8 @@
       1 SSH-2.0-WinSCP_release_4.2.7
       1 SSH-2.0-WinSCP_release_4.1.9
       1 SSH-2.0-TrileadSSH2Java_213
+      1 SSH-2.0-ssh2js0.2.14
+      1 SSH-2.0-ssh2js0.0.4
       1 SSH-2.0-SharpSSH-1.1.1.13-JSCH-0.1.28
       1 SSH-2.0-SecureFX_7_0_0_326
       1 SSH-2.0-SecureCRT_6.5.0
