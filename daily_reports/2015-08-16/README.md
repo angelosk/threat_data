@@ -12,74 +12,78 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 16, 2015  
-Total attacks today: 3012  
-Attempted Malware Downloads: 1 
+Total attacks today: 4941  
+Attempted Malware Downloads: 17 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
     552 218.87.111.71
+    342 45.114.11.28
+    341 212.83.177.88
     327 69.168.184.210
     318 221.203.3.117
+    259 218.65.30.38
     246 117.79.146.58
-    192 218.28.152.162
-    156 188.132.220.141
-    132 194.45.152.20
-     75 62.210.187.221
-     74 158.49.17.235
-     63 218.65.30.38
+    239 119.167.153.187
+    224 218.28.152.162
+    202 113.98.255.48
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 http://94.102.49.33/rekt.sh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1046 root
-     64 admin
-     54 vagrant
-     51 
-     49 ubnt
-     47 123456
-     32 password
-     29 alpine
-     26 vyatta
-     26 toor
-     25 raspberry
-     24 xbmc
-     24 tecmint
-     24 kodi
-     23 ts3srv
-     23 synopass
-     23 openelec
-     21 pfsense
-     16 test
-     16 12345
-     15 support
-     13 mysql
-     11 oracle
-     10 ubuntu
-     10 kioklko0
+   1700 root
+    154 
+    132 admin
+     82 ubnt
+     78 vagrant
+     60 password
+     59 123456
+     58 r3mixdrama
+     45 raspberry
+     41 vyatta
+     41 alpine
+     37 xbmc
+     37 support
+     36 toor
+     35 kodi
+     34 tecmint
+     33 openelec
+     33 12345
+     32 ts3srv
+     31 synopass
+     30 test
+     30 pfsense
+     25 user
+     24 guest
+     21 oracle
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1627 root
-     85 admin
-     50 ubnt
+   2633 root
+    193 admin
+     87 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1228 SSH-2.0-libssh-0.1
-    319 SSH-2.0-PUTTY
-    308 SSH-2.0-libssh2_1.4.1
+   2057 SSH-2.0-libssh-0.1
+    520 SSH-2.0-PUTTY
+    343 SSH-2.0-libssh2_1.4.1
+    170 SSH-2.0-JSCH-0.1.51
     156 SSH-2.0-libssh-0.5.2
-     51 SSH-2.0-libssh2_1.6.0
 ```
