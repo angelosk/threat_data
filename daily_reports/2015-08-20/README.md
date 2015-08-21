@@ -1,70 +1,74 @@
-Total attacks today: 576  
-Attempted Malware Downloads: 0 
+Total attacks today: 1617  
+Attempted Malware Downloads: 28 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    205 222.186.56.117
+    395 221.194.140.136
+    370 222.186.56.117
+    150 218.6.168.220
      52 117.79.146.58
      32 187.210.107.242
-     16 59.46.175.213
-     16 218.93.122.141
-     16 218.4.117.26
-     16 210.205.6.228
-     16 210.14.157.171
-     16 202.83.16.236
-     16 180.169.62.158
+     27 208.167.254.10
+     16 95.173.186.166
+     16 87.106.24.113
+     16 71.162.9.25
+     16 60.164.184.44
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://103.20.195.254/
+http://122.10.85.54/
+http://43.255.188.2/
+http://43.255.188.2/g.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     35 vagrant
-     30 root
-     25 admin
-     18 pfsense
-     17 xbmc
-     17 kodi
-     16 ubnt
-     16 toor
-     15 ts3srv
-     15 tecmint
-     15 raspberry
-     15 openelec
-     15 alpine
-     14 vyatta
-     14 synopass
-      5 123456
-      4 password
-      4 default
-      3 d
-      3 12345
-      3 _
-      2 zhc1976
-      2 zhangyan7tian
-      2 zgwzlckaa
-      2 yl
+     65 vagrant
+     59 admin
+     53 root
+     38 ubnt
+     34 pfsense
+     34 kodi
+     33 xbmc
+     32 toor
+     31 openelec
+     30 tecmint
+     30 raspberry
+     30 alpine
+     29 ts3srv
+     27 vyatta
+     27 synopass
+     11 default
+     11 123456
+     10 
+      6 12345
+      5 xxxxxx
+      5 password
+      5 12qwaszx
+      4 zaq1xsw2
+      4 zaq12wsx
+      4 stelyka
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    374 root
-     32 admin
-     20 vagrant
+   1231 root
+     68 admin
+     38 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
+   1128 SSH-2.0-libssh-0.1
     546 SSH-2.0-libssh-0.2
-    315 SSH-2.0-libssh-0.1
-     46 SSH-2.0-libssh2_1.4.3
-     17 SSH-2.0-libssh2_1.6.0
-      9 SSH-2.0-libssh2_1.4.1
+     80 SSH-2.0-libssh2_1.4.3
+     48 SSH-2.0-libssh2_1.6.0
+     14 SSH-2.0-libssh2_1.4.1
 ```
