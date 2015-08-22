@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 21, 2015  
-Total attacks today: 922  
+Total attacks today: 3092  
 Attempted Malware Downloads: 10 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    650 222.186.21.71
-     19 85.244.254.45
-     16 69.73.58.36
-     16 61.183.22.139
-     16 60.28.205.41
-     16 60.28.201.188
-     16 60.214.233.21
-     16 59.46.175.213
-     16 2.115.68.148
-     16 124.7.58.41
+   1609 222.186.21.71
+    352 85.113.55.209
+    124 208.109.118.5
+    117 61.139.100.90
+     86 222.186.21.95
+     64 222.219.187.9
+     58 218.87.111.107
+     49 80.82.64.127
+     45 218.87.111.117
+     30 218.87.111.108
 ```
 
 #### Attempted URL Downloads
@@ -40,47 +40,47 @@ http://222.186.34.70:2018/udp\\\
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     27 vagrant
-     24 admin
-     20 ubnt
-     18 root
-     15 alpine
-     14 xbmc
-     14 toor
-     14 pfsense
-     14 kodi
-     13 openelec
-     12 vyatta
-     12 ts3srv
-     12 tecmint
-     12 synopass
-     12 raspberry
-      6 default
-      3 password
-      3 12345
-      2 zzzzzz
-      2 zzz
-      2 zhuchao
-      2 zhaojia
-      2 zealot
-      2 zaqwsx
-      2 yahoo
+     71 admin
+     62 root
+     53 vagrant
+     45 ubnt
+     36 raspberry
+     36 alpine
+     32 toor
+     32 pfsense
+     31 kodi
+     27 xbmc
+     26 vyatta
+     26 default
+     25 openelec
+     24 ts3srv
+     24 tecmint
+     24 1234
+     22 synopass
+     20 12345
+     18 password
+     17 123456
+     12 test
+     11 superuser
+     10 t0talc0ntr0l4!
+     10 123456789
+      9 user
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    781 root
-     31 admin
-     20 ubnt
+   2583 root
+    103 admin
+     45 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    208 SSH-2.0-libssh-0.1
-    138 SSH-2.0-libssh2_1.4.3
-     19 SSH-2.0-libssh-0.5.2
-     17 SSH-2.0-libssh2_1.6.0
-      8 SSH-2.0-libssh2_1.4.1
+    668 SSH-2.0-libssh-0.1
+    507 SSH-2.0-libssh-0.5.2
+    354 SSH-2.0-libssh2_1.4.3
+     57 SSH-2.0-PUTTY
+     40 SSH-2.0-libssh2_1.6.0
 ```
