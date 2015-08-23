@@ -1,19 +1,30 @@
-Total attacks today: 2022  
+
+Text files containing a full list of today's usernames, passwords, attacker IP addresses, and SSH library versions are available above for download.  
+
+As always, don't hesitate to reach out via Twitter or Email if you have any questions or feedback.  
+
+[blog](http://morris.guru) | [twitter](https://twitter.com/andrew___morris) | [email](mailto:andrew@morris.guru)  
+FFB1 47C1 326E A063  
+
+### Summary
+
+Date: August 22, 2015  
+Total attacks today: 2559  
 Attempted Malware Downloads: 10 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    1064 223.255.192.99
+    231 218.87.111.116
     222 59.45.79.117
+    180 218.87.111.107
     115 218.87.111.110
-    108 218.87.111.116
+     85 218.87.111.109
+     84 182.100.67.4
      77 82.146.36.84
      46 80.82.64.127
-     46 218.87.111.109
      45 182.100.67.59
-     43 61.139.100.90
-     16 61.168.229.117
 ```
 
 #### Attempted URL Downloads
@@ -26,47 +37,47 @@ http://222.186.34.70:2018/udp\\\
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-     43 root
-     42 admin
-     29 ubnt
-     22 alpine
-     21 vagrant
-     19 1234
-     17 toor
+     59 root
+     58 admin
+     38 ubnt
+     34 alpine
+     31 vagrant
+     27 toor
+     25 1234
+     22 12345
+     21 superuser
+     21 123456
+     20 password
+     20 kodi
+     18 t0talc0ntr0l4!
+     17 xbmc
+     17 vyatta
+     17 raspberry
+     17 pfsense
+     17 54321
+     17 123
      17 
-     15 kodi
-     14 superuser
-     14 12345
-     13 pfsense
-     12 xbmc
-     12 vyatta
-     12 raspberry
-     12 password
-     12 123456
-     11 t0talc0ntr0l4!
-     11 openelec
-     10 ts3srv
-     10 tecmint
-     10 synopass
-     10 54321
-     10 123
-      9 power
+     16 power
+     16 openelec
+     16 admin123
+     15 ts3srv
+     15 tecmint
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1850 root
-     38 admin
-     29 ubnt
+   2335 root
+     48 admin
+     38 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    324 SSH-2.0-libssh-0.1
+    412 SSH-2.0-libssh-0.1
+    343 SSH-2.0-PUTTY
     219 SSH-2.0-libssh2_1.4.3
-    194 SSH-2.0-PUTTY
      44 SSH-2.0-libssh-0.5.2
-     23 SSH-2.0-libssh2_1.6.0
+     32 SSH-2.0-libssh2_1.6.0
 ```
