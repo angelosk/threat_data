@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 23, 2015  
-Total attacks today: 356  
+Total attacks today: 910  
 Attempted Malware Downloads: 0 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
     147 45.114.11.12
-     63 218.87.111.108
+    132 218.87.111.108
+    132 113.195.145.80
+     99 218.87.111.107
+     78 182.100.67.52
      48 218.87.111.117
+     48 218.65.30.23
+     42 208.109.118.5
      36 218.65.30.92
-     18 218.87.109.60
-     12 218.87.111.109
-     11 208.109.118.5
-     11 114.112.86.42
-      3 42.96.156.22
-      3 202.83.16.236
+     24 93.174.93.63
 ```
 
 #### Attempted URL Downloads
@@ -38,45 +38,45 @@ The following are URLs attackers attempted to download and execute once they com
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-      7 root
-      7 alpine
-      6 admin123
-      6 admin
-      6 123456
-      5 t0talc0ntr0l4!
-      5 superuser
-      5 power
-      5 password
-      5 54321
-      5 12345
-      5 123
-      4 toor
-      4 telnet
-      4 root123
-      4 P@$$w0rd
-      4 P@ssw0rd
-      4 letmein
-      4 jester
-      4 default
-      3 wsad
-      3 ubnt
-      3 tslinux
-      3 superman
-      3 rootme
+     25 admin
+     23 root
+     17 alpine
+     17 123456
+     16 12345
+     14 toor
+     14 admin123
+     13 password
+     13 default
+     13 1234
+     12 t0talc0ntr0l4!
+     12 superuser
+     11 root123
+     11 power
+     11 54321
+     11 123
+     10 telnet
+     10 P@$$w0rd
+     10 P@ssw0rd
+     10 letmein
+     10 jester
+      9 ubnt
+      9 rootme
+      9 manager1
+      9 lol
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    333 root
-      5 admin
-      3 ubnt
+    814 root
+     25 admin
+      9 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    113 SSH-2.0-PUTTY
-     35 SSH-2.0-libssh-0.1
-      1 SSH-2.0-libssh2_1.6.0
+    258 SSH-2.0-PUTTY
+    153 SSH-2.0-libssh-0.1
+      6 SSH-2.0-libssh2_1.6.0
 ```
