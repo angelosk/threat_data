@@ -12,74 +12,80 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: August 31, 2015  
-Total attacks today: 6057  
-Attempted Malware Downloads: 1 
+Total attacks today: 9306  
+Attempted Malware Downloads: 52 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    1875 173.230.151.63
-   1024 222.186.56.117
+   1233 222.186.56.117
     819 93.201.61.184
     661 120.194.255.2
+    593 151.80.153.111
+    390 182.100.67.52
+    370 89.163.234.95
+    354 222.60.95.243
+    219 119.10.30.83
     208 95.172.86.219
-    197 93.201.46.216
-    154 209.203.29.227
-    118 222.60.95.243
-    103 182.71.209.201
-     92 115.85.192.40
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://111.73.46.231:280/npc
+http://111.73.46.231:280/npc1
 http://167.114.152.6/nc.sh
+http://211.110.1.32/
+http://66.23.234.179/god
+http://94.102.49.88/c.sh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    100 root
-     91 admin
-     72 www
-     68 123456
-     65 password
-     46 ubnt
-     43 test
-     40 raspberry
-     35 mysql
-     35 apache
-     33 guest
-     29 admin123
-     28 webadmin
-     28 1234
-     26 user
-     26 administrator
-     25 oracle
-     25 12345
-     24 webmaster
-     24 shell
-     22 linux
-     22 C1893
-     21 ftp
-     20 root123
-     20 c1893
+    181 admin
+    177 root
+    170 www
+    122 123456
+    106 ubnt
+    105 password
+     73 test
+     63 12345
+     61 raspberry
+     56 1234
+     51 guest
+     47 1
+     46 apache
+     45 user
+     45 mysql
+     43 oracle
+     41 administrator
+     41 admin123
+     37 default
+     35 webadmin
+     34 ftp
+     34 a
+     33 toor
+     30 alpine
+     28 changeme
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3495 root
+   5211 root
+    336 admin
     335 c1893
-    304 cloudatcost
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   3777 SSH-2.0-libssh-0.1
-    550 SSH-2.0-libssh2_1.4.3
-    149 SSH-2.0-libssh-0.2
-    148 SSH-2.0-libssh-0.5.2
-     85 SSH-2.0-libssh2_1.6.0
+   5426 SSH-2.0-libssh-0.1
+    861 SSH-2.0-libssh2_1.4.3
+    403 SSH-2.0-libssh-0.5.2
+    352 SSH-2.0-libssh-0.2
+    213 SSH-2.0-libssh2_1.6.0
 ```
