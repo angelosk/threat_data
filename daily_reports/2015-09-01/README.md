@@ -12,30 +12,32 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 01, 2015  
-Total attacks today: 15563  
-Attempted Malware Downloads: 25 
+Total attacks today: 17671  
+Attempted Malware Downloads: 79 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
    9310 222.165.223.203
-   2068 61.160.213.190
+   2185 61.160.213.190
    1075 222.97.189.81
+    579 218.87.111.107
     459 182.100.67.4
+    416 222.186.56.117
     392 119.167.153.187
-    357 218.87.111.107
     348 199.115.230.253
-    250 222.186.56.117
+    216 37.187.117.236
     209 209.203.29.227
-    182 222.186.21.95
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
 http://111.73.46.231:280/npc
 http://111.73.46.231:280/npc1
 http://185.62.190.154/gb.sh
+http://211.110.1.32/
 http://66.23.234.179/god
 http://94.102.49.88/c.sh
 ```
@@ -43,47 +45,47 @@ http://94.102.49.88/c.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    287 123456
-    202 password
-    104 www
-     96 abc123
-     90 123
-     86 1234
-     80 12345
-     75 admin
-     70 root
-     64 
-     58 test
-     56 qwerty
-     56 abcd1234
-     49 1q2w3e
-     45 asdfgh
-     45 apache
-     43 admin123
-     42 raspberry
-     41 mysql
-     40 user
-     40 ubnt
-     32 administrator
-     30 shell
-     30 guest
-     27 mail
+    333 123456
+    236 password
+    193 www
+    156 admin
+    155 root
+    133 
+    111 1234
+    109 123
+    106 abc123
+    104 12345
+     69 test
+     68 ubnt
+     62 qwerty
+     61 abcd1234
+     56 1q2w3e
+     50 admin123
+     46 raspberry
+     46 asdfgh
+     46 apache
+     42 user
+     42 mysql
+     42 administrator
+     39 oracle
+     39 guest
+     38 default
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4206 root
-    373 admin
-    248 test
+   5549 root
+    452 admin
+    266 test
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-  11759 SSH-2.0-libssh-0.1
-    521 SSH-2.0-libssh2_1.4.3
-    336 SSH-2.0-PUTTY
-    176 SSH-2.0-libssh-0.2
-     87 SSH-2.0-PuTTY_Release_0.63
+  12176 SSH-2.0-libssh-0.1
+    579 SSH-2.0-libssh2_1.4.3
+    507 SSH-2.0-PUTTY
+    361 SSH-2.0-libssh-0.2
+    315 SSH-2.0-libssh-0.5.2
 ```
