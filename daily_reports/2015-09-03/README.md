@@ -12,74 +12,76 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 03, 2015  
-Total attacks today: 11147  
-Attempted Malware Downloads: 1 
+Total attacks today: 16705  
+Attempted Malware Downloads: 43 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   2823 213.82.204.2
-   2478 222.186.21.208
+   4953 222.186.21.208
+   2993 213.82.204.2
    1194 218.87.111.108
    1176 113.195.145.12
-    587 104.200.78.5
-    369 218.87.111.71
+    810 104.200.78.5
+    506 97.66.237.122
+    429 218.87.111.71
+    339 222.186.21.71
+    247 58.49.103.236
     236 222.60.95.243
-    224 212.78.77.14
-    186 189.3.169.162
-    170 209.203.29.227
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
 http://199.180.128.143/fl.sh
+http://211.110.1.32/
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    383 root
-    183 admin
+    655 root
+    289 admin
+    216 ubnt
+    190 www
+    151 raspberry
     142 cloudatcost
     137 cloudatcost.com
-    115 ubnt
-     97 www
-     76 
-     75 raspberry
-     67 password
-     60 support
+    119 support
+    118 postgres
+    110 tomcat
+    108 mulesystems
+    106 mulesystems.com
+    101 library
+    100 sales
+     97 sshd
+     95 diag
+     94 fld
+     93 password
+     93 123456
+     91 
+     62 test
+     55 ts3
      54 voip2
-     54 test
-     54 mulesystems
+     54 voip
      54 c1893-16323
-     54 c1893-11330
-     53 voip2.mulesystems
-     53 mulesystems.com
-     53 c1893-16323.cloudatcost
-     52 c1893-11330.cloudatcost
-     43 postgres
-     40 tomcat
-     40 sales
-     40 library
-     40 12345
-     40 1234
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   6273 root
-    296 admin
-    156 user
+   9813 root
+    424 admin
+    213 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   4908 SSH-2.0-libssh-0.1
-   1098 SSH-2.0-libssh-0.2
-    928 SSH-2.0-PUTTY
-    740 SSH-2.0-libssh2_1.4.3
-    295 SSH-2.0-libssh-0.5.2
+   6340 SSH-2.0-libssh-0.1
+   1310 SSH-2.0-libssh2_1.4.3
+   1233 SSH-2.0-libssh-0.2
+   1112 SSH-2.0-PUTTY
+    317 SSH-2.0-libssh-0.5.2
 ```
