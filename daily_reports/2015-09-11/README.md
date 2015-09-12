@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 11, 2015  
-Total attacks today: 5196  
-Attempted Malware Downloads: 6 
+Total attacks today: 12832  
+Attempted Malware Downloads: 58 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   1834 114.70.9.15
+   4868 114.70.9.15
+   1215 222.186.56.87
     819 218.87.111.109
     679 187.214.219.179
+    528 218.87.111.108
+    482 218.65.30.107
+    275 49.213.16.109
     252 113.98.255.48
-    155 89.163.227.68
-    128 184.168.20.5
-    123 113.195.145.79
-    115 61.55.147.130
-     91 197.156.98.214
-     85 173.201.20.145
+    182 222.186.21.95
+    177 91.218.115.45
 ```
 
 #### Attempted URL Downloads
@@ -35,52 +35,55 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://107.158.236.138/
 http://211.110.1.32/
+http://89.248.168.39/bot/firewall1.sh
+http://wireless.kei.su/bbsh
+http://wireless.kei.su/wgsh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1031 root
-    166 123456
-    159 password
-    123 www
-     84 admin
-     63 guest
-     57 1qaz2wsx
-     57 1234567
-     53 ubnt
-     48 123qwe
-     46 qwerty
-     46 12345
-     44 1234
-     43 default
-     40 test
-     40 PlcmSpIp
-     40 1q2w3e4r
-     36 user
-     35 123456789
-     34 12345678
-     29 zaq12wsx
-     29 support
-     27 testuser
-     26 public
-     26 ftpuser
+   1669 root
+    365 password
+    320 123456
+    256 www
+    207 admin
+    126 1qaz2wsx
+    121 1234567
+    111 guest
+    108 ubnt
+    103 12345
+    102 qwerty
+     95 123qwe
+     93 1234
+     90 test
+     85 default
+     77 PlcmSpIp
+     75 1q2w3e4r
+     71 zaq12wsx
+     68 user
+     62 support
+     60 123456789
+     59 12345678
+     54 testuser
+     54 Qwerty
+     52 ftpuser
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2278 root
-    206 admin
-    132 www
+   5236 root
+    504 admin
+    272 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1385 SSH-2.0-libssh-0.1
-    922 SSH-2.0-libssh-0.11
-    834 SSH-2.0-libssh-0.5.2
-    274 SSH-2.0-PuTTY
-    113 SSH-2.0-PuTTY_Release_0.63
+   2888 SSH-2.0-libssh-0.1
+   2444 SSH-2.0-libssh-0.11
+    919 SSH-2.0-libssh-0.5.2
+    628 SSH-2.0-PuTTY
+    285 SSH-2.0-Granados-1.0
 ```
