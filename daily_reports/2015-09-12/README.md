@@ -12,73 +12,75 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 12, 2015  
-Total attacks today: 4934  
-Attempted Malware Downloads: 0 
+Total attacks today: 8580  
+Attempted Malware Downloads: 24 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   1496 114.70.9.15
+   1576 114.70.9.15
+   1271 222.186.21.71
     794 218.65.30.107
+    793 222.186.21.95
     345 128.199.191.98
-    205 116.228.1.108
+    218 116.228.1.108
     181 31.210.42.34
+    174 49.213.16.183
+    128 184.168.82.57
     128 173.201.252.24
-    118 155.208.242.236
-    107 82.80.232.34
-     91 219.94.130.213
-     90 193.33.27.114
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    174 password
-    161 
-    148 www
-    141 123456
-    124 root
-    102 admin
-     63 1234567
-     59 1234
-     58 default
-     54 qwerty
-     51 guest
-     50 12345
-     48 1qaz2wsx
-     46 raspberry
-     43 ubnt
-     43 PlcmSpIp
-     38 user
-     38 test
-     38 support
-     36 123456789
-     35 12345678
-     32 alpine
-     31 123qwe
-     29 vyatta
-     25 zaq12wsx
+    264 www
+    228 root
+    206 password
+    175 
+    174 admin
+    168 123456
+    102 12345
+    101 1234
+     87 default
+     83 1234567
+     80 guest
+     70 raspberry
+     69 ubnt
+     69 test
+     65 PlcmSpIp
+     63 user
+     59 support
+     59 qwerty
+     57 123456789
+     56 12345678
+     53 1qaz2wsx
+     51 alpine
+     44 vyatta
+     40 testuser
+     37 kodi
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1694 root
-    283 admin
-    157 www
+   4215 root
+    478 admin
+    273 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1738 SSH-2.0-libssh-0.1
-    753 SSH-2.0-libssh-0.11
-    293 SSH-2.0-OpenSSH_5.3
-    159 SSH-2.0-JSCH-0.1.51
-    128 SSH-2.0-libssh-0.5.2
+   2778 SSH-2.0-libssh-0.1
+    793 SSH-2.0-libssh-0.11
+    417 SSH-2.0-libssh2_1.4.3
+    294 SSH-2.0-OpenSSH_5.3
+    231 SSH-2.0-PuTTY_Release_0.63
 ```
