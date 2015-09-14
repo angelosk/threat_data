@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 13, 2015  
-Total attacks today: 3641  
-Attempted Malware Downloads: 12 
+Total attacks today: 8064  
+Attempted Malware Downloads: 22 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    928 114.70.9.15
+   1100 222.186.21.95
+    950 114.70.9.15
+    648 120.209.204.94
     556 129.232.130.202
+    418 210.151.42.215
     418 182.74.1.139
+    234 218.8.245.165
     234 210.151.42.214
-    230 218.8.245.165
-    182 116.228.1.108
-    144 210.151.42.215
-     89 184.150.188.11
-     74 60.172.246.107
-     70 222.186.52.65
+    227 222.73.119.253
+    184 42.62.40.6
 ```
 
 #### Attempted URL Downloads
@@ -43,47 +43,47 @@ http://222.186.21.184/syns\\\
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    239 123456
-    167 root
-    137 
-    128 password
-    116 www
-     93 admin
-     69 123qwe
-     62 1q2w3e4r
-     58 default
-     55 ubnt
-     52 qwe123
-     51 1234
-     44 test
-     40 1234567
-     39 user
-     38 raspberry
-     38 PlcmSpIp
-     36 1qaz2wsx
-     33 support
-     31 12345
-     28 guest
-     28 asteriskftp
-     24 qwerty
-     22 zaq12wsx
-     22 ftp
+    310 123456
+    295 root
+    278 
+    236 www
+    205 admin
+    160 password
+    117 1234
+    115 ubnt
+    111 default
+     95 test
+     83 user
+     82 PlcmSpIp
+     81 12345
+     77 raspberry
+     75 123qwe
+     73 1234567
+     72 oracle
+     72 guest
+     68 1q2w3e4r
+     65 support
+     63 asteriskftp
+     55 qwe123
+     55 12345678
+     51 123456789
+     47 alpine
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   1030 root
-    296 admin
-    144 www
+   3082 root
+    619 admin
+    265 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1479 SSH-2.0-libssh-0.1
-    467 SSH-2.0-libssh-0.11
-    420 SSH-2.0-libssh-0.5.2
-    130 SSH-2.0-JSCH-0.1.51
-    126 SSH-2.0-libssh-0.2
+   3756 SSH-2.0-libssh-0.1
+    604 SSH-2.0-libssh-0.5.2
+    478 SSH-2.0-libssh-0.11
+    260 SSH-2.0-libssh2_1.4.3
+    254 SSH-2.0-JSCH-0.1.51
 ```
