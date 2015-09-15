@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 14, 2015  
-Total attacks today: 3791  
-Attempted Malware Downloads: 34 
+Total attacks today: 10145  
+Attempted Malware Downloads: 36 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   1478 185.29.8.138
+   1110 222.186.21.71
     938 109.169.37.106
+    935 218.87.111.71
     594 218.87.111.108
+    524 193.201.224.130
+    493 129.232.130.202
+    491 222.186.56.92
     303 221.203.3.117
-    230 195.154.53.81
-    200 121.199.65.21
-    176 218.87.111.71
-    162 193.201.224.130
-    109 85.17.138.23
-    104 90.183.120.10
-    104 181.199.64.139
+    290 195.154.53.81
 ```
 
 #### Attempted URL Downloads
@@ -38,52 +38,53 @@ http://104.199.135.124/wgsh
 http://188.209.52.143/a.c
 http://188.209.52.143/gb.sh
 http://222.186.21.184/syns\\\
+http://89.248.172.166/.sshd.sh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    219 root
-    167 admin
+    437 root
+    310 admin
+    221 123456
+    184 www
+    156 user
+    118 
     112 mulesystems
     110 gateway
-     86 www
-     77 
-     66 admin1
-     51 ubnt
-     46 123456
-     39 1234
-     37 12345
-     29 raspberry
-     28 test
-     28 default
-     27 guest
-     26 support
-     26 password
-     25 user
-     23 PlcmSpIp
-     23 123456789
-     22 administrator
-     22 12345678
-     20 1234567
-     18 wubao
-     16 123
+    106 root1
+    106 admin1
+    103 1234
+     99 test
+     95 ubnt
+     94 password
+     74 12345
+     67 1q2w3e4r
+     61 123qwe
+     60 default
+     57 qwe123
+     55 guest
+     48 eM45upAAw7
+     44 raspberry
+     44 12345678
+     42 support
+     40 123456789
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2036 root
-    255 admin
+   5814 root
+    484 admin
     220 mulesystems
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1673 SSH-2.0-libssh-0.1
+   4603 SSH-2.0-libssh-0.1
    1180 SSH-2.0-libssh-0.2
-    475 SSH-2.0-libssh-0.5.2
-    241 SSH-2.0-PuTTY_Release_0.63
-    199 SSH-2.0-OpenSSH_6.2p2
+    690 SSH-2.0-PuTTY_Release_0.63
+    553 SSH-2.0-libssh-0.5.2
+    341 SSH-2.0-libssh2_1.4.3
 ```
