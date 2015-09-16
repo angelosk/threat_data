@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 15, 2015  
-Total attacks today: 7627  
-Attempted Malware Downloads: 9 
+Total attacks today: 12882  
+Attempted Malware Downloads: 11 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   2175 58.218.211.166
    1604 222.186.56.87
-    894 58.218.211.166
+   1349 222.186.21.71
+    791 193.201.224.130
     639 62.210.139.94
-    480 222.186.21.71
-    317 193.201.224.130
+    365 23.234.224.118
     286 115.85.192.40
     258 221.203.142.71
     171 218.65.30.92
     157 222.219.187.9
-    144 218.87.111.116
 ```
 
 #### Attempted URL Downloads
@@ -42,47 +42,47 @@ http://89.248.172.166/.sshd.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   2135 root
-    182 admin
-    141 support
-    120 password
-    113 123456
+   2387 root
+    274 admin
+    233 ubnt
+    206 guest
+    184 password
+    182 gateway
+    179 www
+    169 support
+    162 123456
+    158 1234
+    135 user
+    129 12345
+    126 default
+    117 raspberry
+    115 test
+    110 ubuntu
     103 test1
-     98 1234
+     99 ubnt1
      96 support1
-     89 ubnt
-     83 user
-     82 www
-     77 default
-     74 test
-     69 12345
-     65 guest
-     62 raspberry
-     50 
-     49 12345678
-     48 123456789
-     37 administrator
-     37 1234567
-     36 changeme
-     31 vyatta
-     30 PlcmSpIp
-     29 admin123
+     95 debian
+     85 12345678
+     81 123456789
+     70 1234567
+     68 changeme
+     63 1234567890
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4931 root
-    516 admin
-    165 support
+   8088 root
+    792 admin
+    229 ubnt
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2764 SSH-2.0-libssh-0.1
-    499 SSH-2.0-libssh2_1.4.3
-    389 SSH-2.0-PuTTY_Release_0.63
+   4836 SSH-2.0-libssh-0.1
+    962 SSH-2.0-PuTTY_Release_0.63
+    674 SSH-2.0-libssh2_1.4.3
+    507 SSH-2.0-OpenSSH_6.2p2
     388 SSH-2.0-nsssh2_4.0.0032
-    195 SSH-2.0-libssh-0.5.2
 ```
