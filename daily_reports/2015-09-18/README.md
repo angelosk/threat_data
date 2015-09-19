@@ -12,74 +12,76 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 18, 2015  
-Total attacks today: 5329  
-Attempted Malware Downloads: 2 
+Total attacks today: 8306  
+Attempted Malware Downloads: 20 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
     940 61.160.213.190
+    902 77.92.158.236
+    760 222.186.56.87
     553 113.98.255.48
-    535 222.186.56.87
     480 61.241.82.125
     441 218.236.113.44
     338 221.179.89.90
+    278 218.65.30.107
     266 60.172.246.107
-    258 89.39.144.135
-    153 62.210.139.94
-    144 176.10.221.242
+    261 222.186.26.174
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
 http://60.172.246.107:1688/SSHSecure
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    628 root
-    125 123456
-    124 1
-    105 admin
-     80 www
-     64 123qwe
-     62 password
-     61 1q2w3e4r
-     60 qwe123
-     38 ubnt
-     36 123456789
-     32 test
-     31 1234
-     28 user
-     28 raspberry
-     28 changeme
-     26 postgres
-     26 oracle
-     26 default
-     26 12345678
-     25 
-     22 a
-     21 1qaz2wsx
-     21 12345
-     20 test123
+    926 root
+    194 admin
+    165 www
+    162 123456
+    162 
+    128 1
+    104 password
+     94 ubnt
+     74 default
+     71 123qwe
+     71 1234
+     70 test
+     64 1q2w3e4r
+     61 qwe123
+     60 support
+     59 user
+     55 raspberry
+     45 wubao
+     43 12345
+     42 123456789
+     40 guest
+     35 oracle
+     34 changeme
+     33 12345678
+     32 abc123
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   3246 root
-    214 admin
-    100 postgres
+   4601 root
+    450 admin
+    172 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   3015 SSH-2.0-libssh-0.1
-    296 SSH-2.0-libssh2_1.4.3
-    266 SSH-2.0-libssh-0.5.2
+   4132 SSH-2.0-libssh-0.1
+    397 SSH-2.0-libssh2_1.4.3
+    269 SSH-2.0-libssh-0.5.2
     237 SSH-2.0-libssh-0.2
-     78 SSH-2.0-PuTTY_Release_0.63
+    190 SSH-2.0-PuTTY_Release_0.63
 ```
