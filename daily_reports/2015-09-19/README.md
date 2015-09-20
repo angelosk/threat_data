@@ -12,74 +12,76 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 19, 2015  
-Total attacks today: 6867  
-Attempted Malware Downloads: 1 
+Total attacks today: 16059  
+Attempted Malware Downloads: 38 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   3226 222.186.21.100
+   4007 222.186.21.198
+   3420 222.186.21.100
+   1830 222.186.21.119
    1692 222.186.56.97
+   1330 217.113.205.141
+    570 23.234.224.118
     470 202.85.215.157
     298 120.26.67.70
     268 202.83.21.37
-    120 161.202.39.163
-    119 85.25.147.51
-     91 59.29.245.226
-     79 222.186.21.95
-     61 221.10.226.90
+    232 161.202.39.163
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
 http://63.142.252.120/bbk.sh
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1745 root
-     83 www
-     83 admin
-     49 
-     41 ubnt
-     36 password
-     34 user
-     29 test
-     25 1234
-     24 123456
-     19 support
-     19 guest
-     17 12345
-     16 123
-     15 P@ssw0rd
-     14 qwerty
-     14 oracle
-     14 default
-     14 administrator
-     13 123qwe
-     13 12345678
-     13 111111
-     12 qwer1234
-     11 changeme
-     11 1234567890
+   4573 root
+    286 gateway
+    185 www
+    173 admin
+    149 
+     99 ubnt
+     78 password
+     73 user
+     73 test
+     65 1234
+     62 12345
+     55 support
+     50 guest
+     44 123456
+     33 wubao
+     29 default
+     29 administrator
+     28 raspberry
+     23 admin123
+     23 123
+     22 12345678
+     21 111111
+     19 oracle
+     18 qwerty
+     18 alpine
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   6341 root
-    158 admin
-     83 www
+  11895 root
+   1685 aaadmin
+    343 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1018 SSH-2.0-libssh2_1.4.3
-    855 SSH-2.0-libssh-0.1
-    612 SSH-2.0-libssh-0.5.2
-    101 SSH-2.0-libssh-0.2
-     83 SSH-2.0-PuTTY_Release_0.63
+   3168 SSH-2.0-libssh-0.1
+   2223 SSH-2.0-libssh2_1.4.3
+    617 SSH-2.0-libssh-0.5.2
+    270 SSH-2.0-Granados-1.0
+    257 SSH-2.0-libssh-0.2
 ```
