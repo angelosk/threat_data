@@ -12,74 +12,79 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 21, 2015  
-Total attacks today: 6812  
-Attempted Malware Downloads: 2 
+Total attacks today: 14355  
+Attempted Malware Downloads: 49 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-   1952 188.133.128.74
-   1612 222.186.56.92
+   4244 188.133.128.74
+   3043 222.186.56.92
+   1022 162.248.161.172
     716 222.186.21.95
     628 184.150.188.15
-    349 162.248.161.172
+    349 81.248.14.90
+    349 200.68.71.221
     271 176.31.128.45
-    178 103.27.27.36
-    119 182.100.67.4
-    108 161.202.39.163
-     91 69.1.22.138
+    270 182.100.67.59
+    223 189.203.240.181
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
 http://89.248.168.39/bot/firewall1.sh
+http://fm.fo/images/cette.jpg
+http://lib-arhive.clan.su/fast.tgz
+http://paul.clan.su/bronou.tar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-   1718 root
-    134 password
-     86 www
-     80 
-     78 p@ssw0rd
-     77 123456
-     74 111111
-     72 changeme
-     70 1qaz@WSX
-     70 1qaz2wsx
-     68 admin
-     66 Passw0rd
-     66 123123
-     66 1029384756
-     65 qwer1234
-     65 Passw0rd1
-     65 1q2w3e4r5t6y
-     64 !QAZ2wsx
-     64 13579
-     64 112233
-     63 zxcvbnm
-     63 1qaz2wsx3edc
-     63 135792468
-     63 0192837465
-     62 1qaz2wsx#EDC
+   3867 root
+    270 password
+    183 admin
+    172 www
+    163 changeme
+    162 p@ssw0rd
+    158 111111
+    148 1qaz2wsx
+    144 1qaz@WSX
+    143 zxcvbnm
+    143 123123
+    142 Passw0rd
+    142 1029384756
+    141 wubao
+    140 qwer1234
+    140 135792468
+    140 13579
+    139 112233
+    138 1q2w3e4r5t6y
+    138 0192837465
+    137 vmware
+    137 system
+    137 passpass
+    137 1qaz2wsx3edc
+    136 Passw0rd1
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   4060 root
-    189 www-data
-    186 oscuridad
+   7816 root
+    373 www-data
+    373 demo
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1960 SSH-2.0-libssh2_1.4.1
-   1833 SSH-2.0-libssh-0.1
-    470 SSH-2.0-libssh2_1.4.3
-     85 SSH-2.0-libssh-0.5.2
-     79 SSH-2.0-PuTTY_Release_0.63
+   4263 SSH-2.0-libssh2_1.4.1
+   3769 SSH-2.0-libssh-0.1
+    769 SSH-2.0-libssh2_1.4.3
+    654 SSH-2.0-libssh-0.2
+    517 SSH-2.0-libssh-0.5.2
 ```
