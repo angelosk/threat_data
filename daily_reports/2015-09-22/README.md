@@ -12,73 +12,76 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 22, 2015  
-Total attacks today: 3223  
-Attempted Malware Downloads: 0 
+Total attacks today: 4563  
+Attempted Malware Downloads: 50 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-    971 222.186.56.117
-    628 162.248.161.172
-    279 221.194.140.136
+   1153 222.186.56.117
+    767 162.248.161.172
+    280 221.194.140.136
     177 128.59.146.105
     171 182.53.85.57
+    147 113.195.145.70
     138 222.186.21.95
-    108 182.100.67.113
-     87 171.250.100.141
-     70 111.161.74.165
-     69 218.87.111.71
+    123 80.82.64.134
+    117 171.250.100.141
+    111 182.100.67.113
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
+http://66.186.188.227:88/bl.zip\\\
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    149 root
-     69 www
-     63 password
-     54 
-     52 admin
-     37 ubnt
-     32 1234
-     31 123456
-     29 wubao
-     24 support
-     21 raspberry
-     21 1
-     20 test
-     20 guest
-     20 12345
-     20 111111
-     17 user
-     17 root123!@#
-     17 qwerty
+    240 root
+    161 www
+    140 admin
+    105 password
+     83 
+     78 ubnt
+     68 wubao
+     61 1234
+     59 123456
+     59 12345
+     44 test
+     43 guest
+     42 1
+     41 user
+     38 raspberry
+     34 support
+     25 default
+     25 admin123
+     23 qwerty
+     22 111111
+     20 root123!@#
+     18 qwertyuiop
      17 manager
-     15 qwertyuiop
-     15 default
-     14 openssh-portable-com
-     13 savadaumuielatoti
-     13 d
+     16 openssh-portable-com
+     16 abcd1234
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2265 root
-     98 admin
-     72 bin
+   2963 root
+    268 admin
+    161 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   1381 SSH-2.0-libssh-0.1
+   2008 SSH-2.0-libssh-0.1
+   1283 SSH-2.0-libssh-0.2
     328 SSH-2.0-libssh-0.6.5
-    224 SSH-2.0-libssh2_1.4.3
-    110 SSH-2.0-libssh-0.2
-     70 SSH-2.0-PuTTY_Release_0.63
+    263 SSH-2.0-libssh2_1.4.3
+    158 SSH-2.0-PuTTY_Release_0.63
 ```
