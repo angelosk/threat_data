@@ -12,22 +12,22 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: September 23, 2015  
-Total attacks today: 3416  
-Attempted Malware Downloads: 18 
+Total attacks today: 12278  
+Attempted Malware Downloads: 48 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+   4270 222.186.21.198
+   3187 222.186.21.95
     713 222.186.56.117
     543 218.87.111.116
     442 218.236.113.44
+    346 93.174.95.81
+    276 36.84.248.8
+    273 72.167.113.135
     271 37.61.203.125
-    205 222.186.21.198
     201 218.87.109.62
-    138 36.84.248.8
-     95 65.181.123.242
-     91 72.167.113.135
-     84 61.241.82.125
 ```
 
 #### Attempted URL Downloads
@@ -35,6 +35,8 @@ The following are URLs attackers attempted to download and execute once they com
 ```
 http://104.199.163.91/bbsh
 http://104.199.163.91/wgsh
+http://107.158.236.138/
+http://211.110.1.32/
 http://217.23.12.131/pbot.pl
 http://5.49.85.44/gb.sh
 http://66.186.188.227:88/bl.zip\\\
@@ -43,47 +45,47 @@ http://66.186.188.227:88/bl.zip\\\
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    844 root
-     84 admin
-     78 www
-     47 ubnt
-     37 1
-     36 123456
-     27 
-     26 password
-     26 1234
-     21 test
-     19 12345
-     18 support
-     14 user
-     14 guest
-     13 raspberry
-     13 123456789
-     12 eM45upAAw7
-     10 oracle
-     10 12345678
-      9 sshd
-      9 default
-      9 administrator
-      9 1234567
-      9 ^%$#@!
-      8 test123
+   2632 root
+    180 admin
+    163 www
+     88 ubnt
+     75 password
+     68 123456
+     68 
+     62 1
+     59 1234
+     51 12345
+     48 test
+     42 user
+     35 guest
+     28 default
+     28 administrator
+     28 123
+     24 123456789
+     23 raspberry
+     22 support
+     19 qwerty
+     18 cisco
+     18 12345678
+     17 a
+     16 test123
+     16 public
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-   2470 root
-    124 admin
-     79 www
+  10494 root
+    326 admin
+    164 www
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-   2014 SSH-2.0-libssh-0.2
-   1220 SSH-2.0-libssh-0.1
-    327 SSH-2.0-libssh2_1.4.3
+   2217 SSH-2.0-libssh-0.1
+   2085 SSH-2.0-libssh-0.2
+   1929 SSH-2.0-libssh2_1.4.3
+    212 SSH-2.0-libssh-0.5.2
     182 SSH-2.0-nsssh2_4.0.0032
-    111 SSH-2.0-libssh2_1.6.0
 ```
