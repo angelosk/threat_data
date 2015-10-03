@@ -12,31 +12,76 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: October 02, 2015  
-Total attacks today: 0  
-Attempted Malware Downloads: 0 
+Total attacks today: 2979  
+Attempted Malware Downloads: 120 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
-      1 23.92.20.193
+    557 167.88.45.63
+    491 222.186.56.92
+    477 221.235.189.176
+    426 218.87.111.116
+    109 85.17.138.23
+    101 193.201.227.92
+     78 119.167.153.187
+     53 183.182.84.195
+     41 115.85.192.40
+     39 59.63.188.45
 ```
 
 #### Attempted URL Downloads
 The following are URLs attackers attempted to download and execute once they compromise a honeypot sensor:
 ```
+http://107.158.236.138/
+http://211.110.1.32/
+http://211.110.1.32/6004.rar
 ```
 
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
+    993 root
+    154 www
+     76 admin
+     40 ubnt
+     29 password
+     26 default
+     22 1234
+     19 user
+     19 support
+     18 666666
+     16 232323
+     15 6969
+     15 123456
+     14 12345
+     13 guest
+     13 changeme
+     12 PlcmSpIp
+     11 wubao
+     11 raspberry
+     11 asteriskftp
+     10 
+      8 ts3
+      7 ts3server
+      7 steam
+      7 manager
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
+   2226 root
+    155 www
+    137 admin
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
+   1011 SSH-2.0-libssh-0.1
+    271 SSH-2.0-PuTTY_Release_0.63
+    186 SSH-2.0-OpenSSH_5.3
+    151 SSH-2.0-libssh2_1.4.3
+    142 SSH-2.0-nsssh2_4.0.0032
 ```
