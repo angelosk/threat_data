@@ -10,11 +10,11 @@ Currently, Animus threat reports only contain data on SSH threat actors and tact
 
 The following are some numbers surrounding Animus activity to date. These stats were last updated on October 03, 2015. All activity 
 is fully automated.
-* Attacker IP addresses collected: 27728
-* Total SSH attempts observed: 36682371
-* Unique malware samples captured: 1805
-* Malicious domains identified: 500
-* Unique passwords collected from sensors: 886016
+* Attacker IP addresses collected: 27700
+* Total SSH attempts observed: 36683294
+* Unique malware samples captured: 1806
+* Malicious domains identified: 502
+* Unique passwords collected from sensors: 886017
 * Unique usernames collected from sensors: 38536
 * SSH library versions observed from SSH bruteforce tools: 207
 
@@ -46,7 +46,7 @@ Animus collects all data in a centralized repository. This repository can be que
 Threatbot will parse one or more IP addresses in a tweet, query the Animus database, and response back with a summarized report of that IP address. This report includes first sighting of attacks from the IP address and most recent 
 attacks from this IP address.  
 
-Threatbot will tweet once per day with a link to the daily Animus threat report. This tweet will include the total number of attacks received, as well as the most aggressive attacker IP address of the day. 
+Threatbot will tweet once per day with a link to the daily Animus threat report. This tweet will include the total number of attacks received, as well as the most aggresive attacker IP address of the day. 
 
 Threatbot also will tweet once per day with a summary of malware URLs captured
 
