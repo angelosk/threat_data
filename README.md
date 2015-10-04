@@ -46,7 +46,7 @@ Animus collects all data in a centralized repository. This repository can be que
 Threatbot will parse one or more IP addresses in a tweet, query the Animus database, and response back with a summarized report of that IP address. This report includes first sighting of attacks from the IP address and most recent 
 attacks from this IP address.  
 
-Threatbot will tweet once per day with a link to the daily Animus threat report. This tweet will include the total number of attacks received, as well as the most aggresive attacker IP address of the day. 
+Threatbot will tweet once per day with a link to the daily Animus threat report. This tweet will include the total number of attacks received, as well as the most aggressive attacker IP address of the day. 
 
 Threatbot also will tweet once per day with a summary of malware URLs captured
 
