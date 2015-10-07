@@ -1,26 +1,26 @@
 10926962 SSH-2.0-PUTTY
-1242658 SSH-2.0-libssh-0.1
- 233496 SSH-2.0-libssh-0.2
- 181772 SSH-2.0-libssh2_1.4.3
+1243822 SSH-2.0-libssh-0.1
+ 233621 SSH-2.0-libssh-0.2
+ 181875 SSH-2.0-libssh2_1.4.3
  134312 SSH-2.0-libssh2_1.4.1
- 129137 SSH-2.0-libssh-0.5.2
-  99278 SSH-2.0-libssh2_1.4.2
+ 129193 SSH-2.0-libssh-0.5.2
+  99300 SSH-2.0-libssh2_1.4.2
   54472 SSH-2.0-libssh-0.6.3
-  40594 SSH-2.0-PuTTY_Release_0.63
-  28626 SSH-2.0-JSCH-0.1.51
+  40668 SSH-2.0-PuTTY_Release_0.63
+  28773 SSH-2.0-JSCH-0.1.51
   19480 SSH-2.0-libssh-0.4.6
   15070 SSH-2.0-libssh-0.11
   13350 SSH-2.0-OpenSSH_4.3
   11741 SSH-2.0-Granados-1.0
-   9822 SSH-2.0-libssh2_1.6.0
-   7254 SSH-2.0-libssh-0.6.0
+   9846 SSH-2.0-libssh2_1.6.0
+   7255 SSH-2.0-libssh-0.6.0
    6045 SSH-2.0-PuTTY_Release_0.63cn
    2769 SSH-2.0-1.91
    2524 SSH-2.0-PuTTY
    2321 SSH-2.0-libssh2_1.0
    2105 SSH-2.0-PuTTY_Release_0.63cn3
-   1941 SSH-2.0-OpenSSH_6.2p2
-   1729 SSH-2.0-nsssh2_4.0.0032
+   1997 SSH-2.0-OpenSSH_6.2p2
+   1787 SSH-2.0-nsssh2_4.0.0032
    1589 SSH-2.0-OpenSSH_5.3
    1579 SSH-2.0-OpenSSH_3.9p1
    1449 SSH-2.0-Pipls-1.0
@@ -38,7 +38,7 @@
     549 SSH-2.0-libssh2_1.4.0
     543 SSH-2.0-libssh-0.6.5
     539 SSH-2.0-libssh-0.7.0
-    536 SSH-2.0-ssh2js0.0.4
+    538 SSH-2.0-ssh2js0.0.4
     529 SSH-2.0-libssh-0.6.1
     459 SSH-2.0-libssh2_1.5.0
     448 SSH-2.0-PuTTY_Release_0.62
@@ -47,10 +47,10 @@
     419 SSH-2.0-paramiko_1.15.2
     419 SSH-2.0-MEDUSA_1.0
     390 SSH-2.0-paramiko_1.14.0
-    382 SSH-2.0-OpenSSH_6.0p1
+    387 SSH-2.0-OpenSSH_6.0p1
     367 SSH-2.0-vngx-jsch-0.9-1.44
     353 SSH-2.0-paramiko_1.15.1
-    327 SSH-2.0-OpenSSH_6.6.1p1
+    329 SSH-2.0-OpenSSH_6.6.1p1
     276 SSH-2.0-paramiko_1.7.5
     264 SSH-2.0-OpenSSH_5.5p1
     262 SSH-2.0-PuTTY-Local:
@@ -65,7 +65,7 @@
     120 SSH-2.0-paramiko_1.12.4
     120 SSH-2.0-libssh-0.4.8
     115 SSH-2.0-PuTTY_Release_0.60
-     77 SSH-2.0-libssh-0.7.2
+    104 SSH-2.0-libssh-0.7.2
      77 SSH-2.0-libssh-0.4.2
      75 SSH-2.0-paramiko_1.16.0
      65 SSH-2.0-OpenSSH_6.7p1
@@ -167,6 +167,7 @@
       2 SSH-2.0-libssh_4.5
       2 SSH-2.0-libssh2_1.4.4-20141103
       2 SSH-2.0-FuTTY_futty_0.63:044bd7c
+      2 SSH-2.0-Erlang/4.0
       2 SSH-2.0-5.29
       1 SSH-2.0-WinSCP_release_4.4
       1 SSH-2.0-WinSCP_release_4.2.8
