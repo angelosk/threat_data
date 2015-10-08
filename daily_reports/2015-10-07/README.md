@@ -1,19 +1,19 @@
-Total attacks today: 1264  
-Attempted Malware Downloads: 109 
+Total attacks today: 3116  
+Attempted Malware Downloads: 149 
 
 #### IP addresses
 The following are the top 10 attacker IP addresses today, including the frequency of usage:
 ```
+    594 113.195.145.12
+    368 27.255.74.108
     238 125.208.13.94
     173 81.108.80.81
+    127 46.148.16.98
     117 221.203.142.69
+    117 186.167.18.178
+    115 94.182.163.75
     109 85.17.138.23
-     97 59.50.76.163
-     84 5.148.157.229
-     66 218.240.136.218
-     51 222.186.30.244
-     46 27.255.74.108
-     40 206.15.106.34
+    101 223.105.0.130
 ```
 
 #### Attempted URL Downloads
@@ -30,47 +30,47 @@ http://msctrldll.pw/dfirewall.sh
 #### Passwords
 The following are the top 25 passwords today, including the frequency of usage:
 ```
-    288 root
-     39 www
-     26 admin
-     19 oracle
-     17 postgres
-     14 default
-     13 ubnt
-     13 123456
-     12 test
-     10 ubuntu
-     10 123
-      9 git
-      8 ts3
-      8 changeme
-      7 jboss
-      7 abc123
-      7 1234
-      6 ts3server
-      6 ts3bot
-      6 root123
-      6 password
-      6 minecraft
-      6 123456789
-      5 teamspeak
-      5 steam
+   1116 root
+     99 www
+     57 123456
+     56 admin
+     33 default
+     27 ubnt
+     27 oracle
+     25 postgres
+     20 password
+     19 test
+     18 
+     13 ubuntu
+     13 1q2w3e4r5t
+     12 pwnw00t911!@#
+     12 pwnw00t!
+     12 git
+     12 111111
+     11 user
+     11 support
+     11 123
+     10 Wangsu123!@#
+     10 Wangsu@123
+     10 v9nd@#dnc.
+     10 Rack911!
+     10 Rack911
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    821 root
-     39 www
-     25 admin
+   2162 root
+     99 www
+     92 postgres
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
-    423 SSH-2.0-libssh-0.1
-    343 SSH-2.0-libssh-0.5.2
-     55 SSH-2.0-libssh2_1.6.0
-     53 SSH-2.0-libssh-0.7.2
-     49 SSH-2.0-OpenSSH_5.3
+   1069 SSH-2.0-libssh-0.1
+    465 SSH-2.0-libssh-0.5.2
+    202 SSH-2.0-PuTTY
+    103 SSH-2.0-PuTTY_Release_0.63
+     95 SSH-2.0-libssh2_1.6.0
 ```
