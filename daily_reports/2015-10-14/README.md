@@ -12,7 +12,7 @@ FFB1 47C1 326E A063
 ### Summary
 
 Date: October 14, 2015  
-Total attacks today: 682  
+Total attacks today: 722  
 Attempted Malware Downloads: 0 
 
 #### IP addresses
@@ -21,13 +21,13 @@ The following are the top 10 attacker IP addresses today, including the frequenc
     286 195.154.104.191
     209 222.186.21.100
     114 62.210.15.87
+     58 208.167.254.10
      31 27.17.18.141
-     29 208.167.254.10
+      3 72.167.251.87
       3 222.184.126.58
       3 220.231.13.213
-      3 110.77.140.129
-      2 89.248.166.140
-      2 193.104.41.53
+      3 210.14.133.140
+      3 203.69.143.70
 ```
 
 #### Attempted URL Downloads
@@ -39,46 +39,46 @@ The following are URLs attackers attempted to download and execute once they com
 The following are the top 25 passwords today, including the frequency of usage:
 ```
      38 
-     12 admin
-     10 password
-      7 root
+     15 admin
+     11 password
+      9 root
+      8 default
+      7 12345
       6 zabbix
+      6 user
       6 roundcube
       6 minecraft
-      6 default
-      5 12345
+      5 ubnt
+      5 test
+      5 support
+      5 raspberry
+      5 guest
+      5 123456789
       4 vmail
       4 utente
-      4 user
       4 unknown
       4 ubuntu
       4 tunnel
       4 ts3srv
       4 transmission
-      4 test
-      4 support
       4 sogo
-      4 raspberry
-      4 phpmyadmin
-      4 openfire
-      4 nexus
-      4 jenkins
+      4 PlcmSpIp
 ```
 
 #### Usernames
 The following are the top 3 usernames today, including the frequency of usage:
 ```
-    266 root
-     29 admin
-     12 user
+    273 root
+     37 admin
+     13 user
 ```
 
 #### SSH Library Version
 The following are the top 5 SSH library versions today, including the frequency of usage:
 ```
     144 SSH-2.0-libssh-0.11
-     71 SSH-2.0-libssh-0.1
+    109 SSH-2.0-libssh-0.1
      42 SSH-2.0-libssh2_1.4.3
      38 SSH-2.0-JSCH-0.1.51
-      2 SSH-2.0-libssh-0.6.0
+      2 SSH-2.0-libssh2_1.6.0
 ```
